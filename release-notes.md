@@ -1,21 +1,14 @@
-# RIOSHI Translations 4.0.1
+# RIOSHI Translations 5.0.0
 
-- Removed repository/branch controls and the GitHub download accordion.
-- Added a single Download & apply toolbar button for the selected dictionary language.
-- Downloads are fixed to JIUYINGSHI/rioshi-translations, main; old local source overrides are ignored.
-- All eight regression tests pass, including fixed-source download, WebDAV conflicts and popup navigation.
+- Removed WebDAV controls, the client dependency, credentials and sync operations. Dictionaries are delivered through the fixed GitHub download button.
+- Added the official catalog snapshot: 26 themes and 36 plugins, pinned upstream versions, original extracted text and per-project language files.
+- Covered all 1,862 distinct statically extracted display texts in English, Simplified Chinese, Spanish, French, German, Brazilian Portuguese and Japanese.
+- Preferred upstream native/authored translations; remaining translations are labeled machine drafts. Corrected protected font names, selected Steam terminology and placeholder/BBCode errors.
+- Added a full coverage report and placeholder validator. Zero missing source keys or placeholder mismatches in this snapshot; six editor/download/navigation tests pass.
+- Added a weekly/manual GitHub workflow to follow official catalog revisions and list newly missing translations. It preserves known entries and does not silently mark new untranslated text as complete.
 
-## Included 4.0 features
+## Scope
 
-- Renamed the displayed plugin to RIOSHI Translations while preserving the internal ID and existing Chinese custom dictionary migration.
-- Added independent Chinese/English plugin interface selection in the upper-right corner.
-- Added bundled English/Simplified Chinese dictionaries (146 entries each) and Spanish/French/German/Brazilian Portuguese/Japanese starter dictionaries (80 entries each).
-- Added language selection and GitHub catalog download from JIUYINGSHI/rioshi-translations.
-- Added WebDAV upload/download through upstream webdav-client 5.11.0, with ETag conflict protection and explicit replacement confirmation.
-- Preserved line numbers, formatting and navigation cleanup. No library-manager layout modifications or sidebar-panel registration.
+Source coverage is not equivalent to human-reviewed, installed-project runtime coverage. Dynamic strings, CSS content, split text nodes and cross-origin plugin webviews may still require project-specific integration. Machine drafts have not all been manually reviewed. Paid/promoted themes missing from the public catalog API are outside its 26-theme count. No paid theme assets are redistributed.
 
-The browser WebDAV client requires CORS support and exposed ETag headers on the WebDAV server. Passwords are not synchronized. Remembering a password is optional and stores it in plain local browser storage.
-
-Seven automated tests pass, including real HTTP WebDAV conflict scenarios and repeated navigation in a separate popup document. All seven remote language files were downloaded successfully. Running-Steam UI behavior and individual production WebDAV services still require user verification.
-
-Install the included rioshi-plugin-translations directory under Steam/millennium/plugins. Enable RIOSHI Translations and restart Steam UI once.
+Install the included directory under Steam/millennium/plugins. Restart Steam UI once, open Translations, select a language and click Download & apply to replace an older local dictionary with the expanded pack. Repository: JIUYINGSHI/rioshi-translations, main.

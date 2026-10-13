@@ -1,0 +1,19 @@
+{
+  "id": "plugin-ricewind012-steam-browser-history",
+  "kind": "plugin",
+  "name": "Browser History",
+  "repository": "ricewind012/steam-browser-history",
+  "revision": "8214f3641be641610e8237f9e14a21fdcbb4a735",
+  "texts": [
+    "Browser History",
+    "History",
+    "See your browser history on URL bar click"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/ricewind012/steam-browser-history/zip/8214f3641be641610e8237f9e14a21fdcbb4a735",
+    "sha256": "27c321505889a8fcf4f3df426d4a69e604f5d0d64de03482918e350f453d388f",
+    "localeFiles": []
+  }
+}

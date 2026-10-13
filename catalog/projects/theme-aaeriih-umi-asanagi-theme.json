@@ -1,0 +1,24 @@
+{
+  "id": "theme-aaeriih-umi-asanagi-theme",
+  "kind": "theme",
+  "name": "umi-asanagi-theme",
+  "repository": "aaeriih/umi-asanagi-theme",
+  "revision": "276bb2efedea7d5a694bd8711c472708f8d49b44",
+  "texts": [
+    "Corner Radius",
+    "General",
+    "Originally created by yufengOvO as 'Steam Leimu'. Personalized version by aaeriih with Material Design 3 style.",
+    "Set the corner radius size for UI elements",
+    "Style",
+    "Switch between dark and light theme",
+    "Theme Switch",
+    "dark",
+    "large",
+    "light",
+    "medium",
+    "small"
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

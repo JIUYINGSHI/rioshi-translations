@@ -1,0 +1,13 @@
+{
+  "id": "theme-ricewind012-juxtematic",
+  "kind": "theme",
+  "name": "Juxtematic",
+  "repository": "ricewind012/juxtematic",
+  "revision": "dd071f89e340a303a9e11beb005d4127c63c6784",
+  "texts": [
+    "The redesign from Juxtopposed"
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

@@ -1,0 +1,8 @@
+{
+  "Manually set the total playtime for this app. Reducing it below the current total will reset date-based playtime statistics.": "Legen Sie die Gesamtspielzeit für diese App manuell fest. Wenn Sie den Wert unter den aktuellen Gesamtwert senken, werden die datumsbasierten Spielzeitstatistiken zurückgesetzt.",
+  "Non-Steam Playtimes": "Spielzeiten für Nicht-Steam-Spiele",
+  "Play Time": "Spielzeit",
+  "Playtime": "Spielzeit",
+  "Track playtime for non-Steam games.": "Verfolgen Sie die Spielzeit für Nicht-Steam-Spiele.",
+  "e.g. 2h 30m": "z.B. 2h 30m"
+}

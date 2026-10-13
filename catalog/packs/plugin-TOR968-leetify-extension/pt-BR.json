@@ -1,0 +1,6 @@
+{
+  "A Millennium plugin that adds Leetify integration to Steam profiles.": "Um plugin Millennium que adiciona integração Leetify aos perfis Steam.",
+  "Leetify Extension": "Extensão Leetify",
+  "Open Leetify in your system browser instead of Steam's built-in browser. Useful when the target site is behind Cloudflare, which can block the in-app browser. Reopen profile pages to apply changes.": "Abra o Leetify no navegador do seu sistema em vez do navegador integrado do Steam. Útil quando o site alvo está atrás do Cloudflare, que pode bloquear o navegador do aplicativo. Reabra as páginas de perfil para aplicar as alterações.",
+  "Open in external browser": "Abrir em navegador externo"
+}

@@ -143,7 +143,9 @@ const PluginEntryPointMain = (() => {
         if (!force && fileSource === lastFileSource) return false;
         lastFileSource = fileSource;
 
-        const source = JSON.stringify(store.getDictionary() || (store.language === 'zh-CN' ? validatePack(JSON.parse(fileSource)) : await loadBundled(store.language)));
+        const bundled = await loadBundled(store.language);
+        const fallback = store.language === 'zh-CN' ? { ...bundled, ...validatePack(JSON.parse(fileSource)) } : bundled;
+        const source = JSON.stringify(store.getDictionary() || fallback);
         if (!force && source === activeSource) return false;
         installDictionary(validateDictionary(JSON.parse(source)), source);
         return true;
@@ -279,6 +281,8 @@ const PluginEntryPointMain = (() => {
     }
 
     async function initialize() {
+        // Retire the old connection settings, including any remembered password.
+        localStorage.removeItem(`${pluginName}:sync-config-v4`);
         pluginBaseUrl = getPluginBaseUrl();
         await reloadTranslations(true);
         observeDocument(document);

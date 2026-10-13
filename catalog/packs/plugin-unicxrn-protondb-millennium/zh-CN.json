@@ -1,0 +1,20 @@
+{
+  "Borked": "博克德",
+  "Bronze": "铜牌",
+  "Does not run under Proton": "不在 Proton 下运行",
+  "Gold": "黄金",
+  "Has a native Linux build": "拥有原生 Linux 版本",
+  "Native": "本地人",
+  "Platinum": "白金",
+  "Platinum — works perfectly. Gold — works great. Silver — runs with workarounds. Bronze — runs but has significant issues. Borked — does not run. Native — has a Linux build.": "白金——效果完美。黄金——效果很好。银牌 - 运行解决方法。铜牌——运行但有重大问题。无聊——不跑。本机 — 具有 Linux 版本。",
+  "ProtonDB": "质子数据库",
+  "ProtonDB Ratings": "ProtonDB 评级",
+  "Runs but with significant issues": "运行但有重大问题",
+  "Shows ProtonDB compatibility ratings on Steam store pages.": "在 Steam 商店页面上显示 ProtonDB 兼容性评级。",
+  "Shows ProtonDB compatibility tiers (Platinum / Gold / Silver / Bronze / Borked / Native) as a badge on Steam store pages. Click the badge to open the full ProtonDB page for that game.": "在 Steam 商店页面上将 ProtonDB 兼容性等级（白金/金/银/铜/Borked/Native）显示为徽章。单击徽章可打开该游戏的完整 ProtonDB 页面。",
+  "Silver": "银牌",
+  "Tiers": "等级",
+  "Works great with only minor issues": "效果很好，只有一些小问题",
+  "Works perfectly out of the box": "开箱即用，完美运行",
+  "Works with workarounds": "适用于解决方法"
+}

@@ -1,0 +1,27 @@
+{
+  "zh-CN": {
+    "<None>": "<无>",
+    "Arial": "Arial",
+    "Be Vietnam Pro (default)": "Be Vietnam Pro（默认）",
+    "Big Picture Mode button": "大屏幕模式按钮",
+    "Border radius": "圆角半径",
+    "Add shelf button": "添加陈列架按钮",
+    "Sidebar only on hover": "仅悬停时显示侧边栏",
+    "The best support for [url=https://spacetheme.net/#steam-custom-artworks]https://spacetheme.net/#steam-custom-artworks[/url]": "为 [url=https://spacetheme.net/#steam-custom-artworks]https://spacetheme.net/#steam-custom-artworks[/url] 提供最佳支持"
+  },
+  "es": { "<None>": "<Ninguno>" },
+  "fr": { "<None>": "<Aucun>" },
+  "de": {
+    "<None>": "<Keine>",
+    "Anything not in verified settings may have [b]unintended side effects[/b] if you don't know what you're doing! If anything bad happens, you can always execute the [c]%1$s[/c] URL to disable the plugin. Do NOT open issues about anything in advanced mode.": "Einstellungen außerhalb der geprüften Optionen können [b]unbeabsichtigte Nebenwirkungen[/b] haben, wenn du nicht weißt, was du tust! Bei Problemen kannst du jederzeit die URL [c]%1$s[/c] aufrufen, um das Plugin zu deaktivieren. Erstelle KEINE Fehlermeldungen zu Optionen im erweiterten Modus."
+  },
+  "pt-BR": { "<None>": "<Nenhum>" },
+  "ja": {
+    "<None>": "<なし>",
+    "Essentially window positioning in a string. It [b]MUST[/b] start with \"1&\". Example: [code]%1$s[/code]": "ウィンドウの位置を文字列で指定します。[b]必ず[/b] \"1&\" で始める必要があります。例：[code]%1$s[/code]",
+    "Anything not in verified settings may have [b]unintended side effects[/b] if you don't know what you're doing! If anything bad happens, you can always execute the [c]%1$s[/c] URL to disable the plugin. Do NOT open issues about anything in advanced mode.": "検証済み設定以外の項目は、操作内容を理解していない場合、[b]予期しない副作用[/b]を引き起こす可能性があります。問題が起きた場合は URL [c]%1$s[/c] を実行してプラグインを無効にできます。詳細モードの項目に関する問題報告は作成しないでください。",
+    "Browser user agent. Example: [code]%1$s[/code]": "ブラウザーのユーザーエージェント。例：[code]%1$s[/code]",
+    "Support for Mica and Acrylic plugin [url=https://steambrew.app/plugin?id=b4c58634419b]https://steambrew.app/plugin?id=b4c58634419b[/url] \n[i]Only works with the standard theme colors[/i]": "Mica and Acrylic プラグインに対応 [url=https://steambrew.app/plugin?id=b4c58634419b]https://steambrew.app/plugin?id=b4c58634419b[/url] \n[i]標準のテーマカラーを使用している場合のみ動作します[/i]",
+    "The best support for [url=https://spacetheme.net/#steam-custom-artworks]https://spacetheme.net/#steam-custom-artworks[/url]": "[url=https://spacetheme.net/#steam-custom-artworks]https://spacetheme.net/#steam-custom-artworks[/url] に最適な対応"
+  }
+}

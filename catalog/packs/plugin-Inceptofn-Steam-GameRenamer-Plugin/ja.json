@@ -1,0 +1,11 @@
+{
+  "Enter the name you'd like to display instead:": "代わりに表示したい名前を入力してください:",
+  "Game Renamer": "ゲームリネーム",
+  "No custom names yet — right-click a game and choose Rename to add one.": "カスタム名はまだありません。ゲームを右クリックし、[名前の変更] を選択して追加します。",
+  "Options": "オプション",
+  "Rename different games in the Steam library": "Steam ライブラリ内のさまざまなゲームの名前を変更する",
+  "Save": "保存",
+  "Sets Steam's sort-as field when you rename a game. Turn off to stop affecting library sort order.": "ゲームの名前を変更するときに、Steam の並べ替えフィールドを設定します。オフにすると、ライブラリの並べ替え順序に影響を与えなくなります。",
+  "Sort library by custom name": "ライブラリをカスタム名で並べ替える",
+  "Your renames (": "あなたの名前変更 ("
+}

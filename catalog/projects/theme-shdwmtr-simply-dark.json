@@ -1,0 +1,39 @@
+{
+  "id": "theme-shdwmtr-simply-dark",
+  "kind": "theme",
+  "name": "Simple Dark.",
+  "repository": "shdwmtr/simply-dark",
+  "revision": "5163dcbca3cbde75e6aad29af0c6025612ba8607",
+  "texts": [
+    "A sleek and elegant theme that brings a darker, more immersive experience to your Steam client.",
+    "Add Shelf Visibility",
+    "Compact",
+    "Compacted Header",
+    "Elements",
+    "Enable the friends status (online and in-game) indicator in friends tab",
+    "Friends Status Outline",
+    "Hide",
+    "Native Titlebars",
+    "Normal",
+    "Show",
+    "Show 'Steam News' button (megaphone) on top right",
+    "Show URL bar when browsing inside Steam",
+    "Show add shelf button",
+    "Show news and updates on library from the games you own",
+    "Show wallet balance on the top right menu",
+    "Steam News Visibility",
+    "URL Visibility",
+    "Use a more compact header bar on Steam (everything is on 1 row)",
+    "Use system's native titlebars (minimize, maximize, restore, and close) buttons",
+    "Wallet Visibility",
+    "What's New Visibility",
+    "Window"
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2",
+  "rootColorSource": {
+    "url": "https://raw.githubusercontent.com/shdwmtr/simply-dark/5163dcbca3cbde75e6aad29af0c6025612ba8607/colors.css",
+    "sha256": "006f8409e306ca56ecb2099d2bd5e1e3ee125c4996808ac0c167d5af3ca6310b"
+  }
+}

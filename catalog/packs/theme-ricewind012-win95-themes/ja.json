@@ -1,0 +1,12 @@
+{
+  "A faithful Windows 95-styled look": "忠実な Windows 95 スタイルの外観",
+  "Colors": "色",
+  "Default": "デフォルト",
+  "Hotdog Stand": "ホットドッグスタンド",
+  "Makes the game list entries' height smaller. \n Only use this if you patched Steam! Run [c]./scripts/patch steam[/c] in the repo's directory to apply the patches (Linux only)": "ゲームリストのエントリの高さを小さくします。 \n Steam にパッチを当てた場合にのみこれを使用してください。リポジトリのディレクトリで [c]./scripts/patch steam[/c] を実行してパッチを適用します (Linux のみ)",
+  "Reduced game list entry height": "ゲームリストのエントリの高さを減らしました",
+  "VGUI": "VGUI",
+  "Windows 2000": "Windows 2000",
+  "[b]Only default[/b] will respect system's light/dark/high contrast theme preference": "[b]デフォルトの[/b]のみがシステムのライト/ダーク/ハイコントラストのテーマ設定を尊重します",
+  "yes": "はい"
+}

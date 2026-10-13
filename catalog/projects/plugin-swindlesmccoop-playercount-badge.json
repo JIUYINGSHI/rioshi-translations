@@ -1,0 +1,19 @@
+{
+  "id": "plugin-swindlesmccoop-playercount-badge",
+  "kind": "plugin",
+  "name": "Player Count",
+  "repository": "swindlesmccoop/playercount-badge",
+  "revision": "9af7579b3a61ede809a090f4d5d095c2684688ed",
+  "texts": [
+    "Player Count",
+    "Show live Steam player counts on game library pages in desktop mode.",
+    "Show live player count"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/swindlesmccoop/playercount-badge/zip/9af7579b3a61ede809a090f4d5d095c2684688ed",
+    "sha256": "93f7ae051ddce867cfda06a68fc34c2f79bc768186da8f258e450388efea4dcd",
+    "localeFiles": []
+  }
+}

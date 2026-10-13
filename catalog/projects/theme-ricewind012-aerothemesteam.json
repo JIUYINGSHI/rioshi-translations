@@ -1,0 +1,13 @@
+{
+  "id": "theme-ricewind012-aerothemesteam",
+  "kind": "theme",
+  "name": "Microsoft Office 2007 Styled Theme",
+  "repository": "ricewind012/aerothemesteam",
+  "revision": "8e176621470fe461dd668fbe46f761768ecc49c1",
+  "texts": [
+    "five hundred aeros"
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

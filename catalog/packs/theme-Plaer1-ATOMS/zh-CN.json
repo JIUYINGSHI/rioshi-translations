@@ -1,0 +1,13 @@
+{
+  "Allows you to navigate the Steam Que on store pages Via the arrow keys.": "允许您通过箭头键在商店页面上导航 Steam Que。",
+  "Automatically ignores certain games (tags/banned keywords can be set in 'config.js'; see 'js/configDefaults.js' for the full list)": "自动忽略某些游戏（可以在“config.js”中设置标签/禁止关键字；有关完整列表，请参阅“js/configDefaults.js”）",
+  "Dim uninstalled games?": "已卸载的游戏变暗？",
+  "Enable Automatic Que Skipping?": "启用自动队列跳过？",
+  "Enable Que Via Keyboard?": "通过键盘启用 Que？",
+  "Enables Use of System Accent Color from Mill' settings.": "允许使用 Mill 设置中的系统强调色。",
+  "Enables semi-transparent icons for uninstall games in the game-grid.": "启用半透明图标以在游戏网格中卸载游戏。",
+  "Just another \"take\" on Metro Steam.": "这只是 Metro Steam 上的另一个“尝试”。",
+  "Use Custom Accent Color?": "使用自定义强调色？",
+  "no": "不",
+  "yes": "是的"
+}

@@ -1,0 +1,7 @@
+{
+  "Comma-separated list of Steam App IDs to exclude from global launch options (e.g., 570,730,440)": "グローバル起動オプションから除外する Steam アプリ ID のカンマ区切りリスト (例: 570,730,440)",
+  "Excluded Game IDs": "除外されたゲームID",
+  "Global Launch Options": "グローバル起動オプション",
+  "Launch options to apply to all games (e.g., MANGOHUD=1 %command%). Use %command% as placeholder for the game executable.": "すべてのゲームに適用する起動オプション (例: MANGOHUD=1 %command%)。ゲーム実行可能ファイルのプレースホルダーとして %command% を使用します。",
+  "Set default launch options that automatically apply to all Steam games.": "すべての Steam ゲームに自動的に適用されるデフォルトの起動オプションを設定します。"
+}

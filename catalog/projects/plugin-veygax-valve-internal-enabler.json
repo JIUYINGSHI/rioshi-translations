@@ -1,0 +1,18 @@
+{
+  "id": "plugin-veygax-valve-internal-enabler",
+  "kind": "plugin",
+  "name": "Valve Internal Enabler",
+  "repository": "veygax/valve-internal-enabler",
+  "revision": "e83934d658283d1db32a06567b024dd876dd8f53",
+  "texts": [
+    "Enables the Valve Internal menu in settings.",
+    "Valve Internal Enabler"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/veygax/valve-internal-enabler/zip/e83934d658283d1db32a06567b024dd876dd8f53",
+    "sha256": "e7f047973105d1009ba88f62e5d03a80ce0f04453cf4af1fca525cd903cf7171",
+    "localeFiles": []
+  }
+}

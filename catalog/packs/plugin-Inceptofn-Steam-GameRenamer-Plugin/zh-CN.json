@@ -1,0 +1,11 @@
+{
+  "Enter the name you'd like to display instead:": "输入您想要显示的名称：",
+  "Game Renamer": "游戏重命名器",
+  "No custom names yet — right-click a game and choose Rename to add one.": "尚无自定义名称 - 右键单击游戏并选择重命名以添加游戏。",
+  "Options": "选项",
+  "Rename different games in the Steam library": "重命名 Steam 库中的不同游戏",
+  "Save": "保存",
+  "Sets Steam's sort-as field when you rename a game. Turn off to stop affecting library sort order.": "当您重命名游戏时设置 Steam 的排序字段。关闭以停止影响库排序顺序。",
+  "Sort library by custom name": "按自定义名称对库进行排序",
+  "Your renames (": "您的重命名（"
+}

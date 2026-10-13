@@ -1,0 +1,8 @@
+{
+  "Manually set the total playtime for this app. Reducing it below the current total will reset date-based playtime statistics.": "手动设置此应用的总游戏时长。若设置值低于当前总时长，将重置按日期统计的游戏时长数据。",
+  "Non-Steam Playtimes": "非 Steam 游戏时长",
+  "Play Time": "游戏时长",
+  "Playtime": "游戏时长",
+  "Track playtime for non-Steam games.": "记录非 Steam 游戏的游玩时长。",
+  "e.g. 2h 30m": "例如：2h 30m"
+}

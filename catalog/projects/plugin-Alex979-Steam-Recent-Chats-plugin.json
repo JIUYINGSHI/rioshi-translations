@@ -1,0 +1,21 @@
+{
+  "id": "plugin-Alex979-Steam-Recent-Chats-plugin",
+  "kind": "plugin",
+  "name": "Recent Chats",
+  "repository": "Alex979/Steam-Recent-Chats-plugin",
+  "revision": "37eed4d594eea5986839738a79a3bcda0a59b365",
+  "texts": [
+    "Adds a recent-conversations view to Steam's desktop and overlay Friends windows.",
+    "Recent Chats",
+    "Recent chats are temporarily unavailable. Try refreshing.",
+    "Refresh recent chats",
+    "Search recent chats"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/Alex979/Steam-Recent-Chats-plugin/zip/37eed4d594eea5986839738a79a3bcda0a59b365",
+    "sha256": "5501e0fe730240688ccd3b9757ce31dca578ba52187b1da5fb6e45a887b23578",
+    "localeFiles": []
+  }
+}

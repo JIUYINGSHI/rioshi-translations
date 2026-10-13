@@ -1,0 +1,9 @@
+{
+  "Clear": "Effacer",
+  "Folder": "Dossier",
+  "Installed Files": "Fichiers installés",
+  "Instantly see the size of a game on disk.": "Visualisez instantanément la taille d'un jeu sur le disque.",
+  "Select Installed Files Folder": "Sélectionnez le dossier des fichiers installés",
+  "Set the folder this app is installed in, so its size on disk can be calculated. Clear it to stop showing a size for this app entirely.": "Définissez le dossier dans lequel cette application est installée afin que sa taille sur le disque puisse être calculée. Désactivez-le pour cesser complètement d'afficher une taille pour cette application.",
+  "Size on Disk": "Taille sur le disque"
+}

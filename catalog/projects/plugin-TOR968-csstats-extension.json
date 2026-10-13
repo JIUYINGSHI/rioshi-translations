@@ -1,0 +1,22 @@
+{
+  "id": "plugin-TOR968-csstats-extension",
+  "kind": "plugin",
+  "name": "CSStats.gg Extension",
+  "repository": "TOR968/csstats-extension",
+  "revision": "86dca7f0c6c76d3b7a1f9a912a1f663726374d9f",
+  "texts": [
+    "A Millennium plugin that adds CSStats.gg integration to Steam profiles.",
+    "CS",
+    "CSStats.gg Extension",
+    "Open CSStats.gg in your system browser instead of Steam's built-in browser. Useful when the target site is behind Cloudflare, which can block the in-app browser. Reopen profile pages to apply changes.",
+    "Open in external browser",
+    "stats"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/TOR968/csstats-extension/zip/86dca7f0c6c76d3b7a1f9a912a1f663726374d9f",
+    "sha256": "2299cda444bae528025af4b3c076a16bc72c8528c196952479fc3a56a8dd626d",
+    "localeFiles": []
+  }
+}

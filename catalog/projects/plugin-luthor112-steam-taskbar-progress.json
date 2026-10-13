@@ -1,0 +1,18 @@
+{
+  "id": "plugin-luthor112-steam-taskbar-progress",
+  "kind": "plugin",
+  "name": "Taskbar Download progress",
+  "repository": "luthor112/steam-taskbar-progress",
+  "revision": "56678fd10dba9826d34fcf8e6630fe1c099360e1",
+  "texts": [
+    "Display the Steam download status on the Windows taskbar",
+    "Taskbar Download progress"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/luthor112/steam-taskbar-progress/zip/56678fd10dba9826d34fcf8e6630fe1c099360e1",
+    "sha256": "8a76d8892d0c346988c8dda33706353983186f582b3a8562959ee95698f65170",
+    "localeFiles": []
+  }
+}

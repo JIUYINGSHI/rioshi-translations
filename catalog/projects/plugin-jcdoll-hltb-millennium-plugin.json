@@ -1,0 +1,43 @@
+{
+  "id": "plugin-jcdoll-hltb-millennium-plugin",
+  "kind": "plugin",
+  "name": "HLTB for Steam",
+  "repository": "jcdoll/hltb-millennium-plugin",
+  "revision": "7decc0a06bb26b365a779c9d1a85195834c940e1",
+  "texts": [
+    "Achievements",
+    "Align to Bottom",
+    "Align to Right",
+    "Cache",
+    "Cache Statistics",
+    "Changes apply immediately",
+    "Changes apply on next page load",
+    "Clear",
+    "Clear Cache",
+    "Completionist",
+    "Displays How Long To Beat completion times on game pages",
+    "Distance from edge, negative values OK",
+    "Game details",
+    "HLTB for Steam",
+    "Horizontal Offset (px)",
+    "Library View",
+    "Main + Extras",
+    "Main Story",
+    "Position",
+    "Show View Details Link",
+    "Show in Library",
+    "Show in Store",
+    "Sidebar end",
+    "Sidebar start",
+    "Store View",
+    "Vertical Offset (px)",
+    "View Stats"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/jcdoll/hltb-millennium-plugin/zip/7decc0a06bb26b365a779c9d1a85195834c940e1",
+    "sha256": "0edd1bf068315df95d15ff280ed83fccd5c36a367b19f92e8057031f0beddc17",
+    "localeFiles": []
+  }
+}

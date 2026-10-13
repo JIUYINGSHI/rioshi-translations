@@ -1,0 +1,20 @@
+{
+  "id": "plugin-TOR968-leetify-extension",
+  "kind": "plugin",
+  "name": "Leetify Extension",
+  "repository": "TOR968/leetify-extension",
+  "revision": "80082ced08186ceeca7ab9fdcd388fe632b8c633",
+  "texts": [
+    "A Millennium plugin that adds Leetify integration to Steam profiles.",
+    "Leetify Extension",
+    "Open Leetify in your system browser instead of Steam's built-in browser. Useful when the target site is behind Cloudflare, which can block the in-app browser. Reopen profile pages to apply changes.",
+    "Open in external browser"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/TOR968/leetify-extension/zip/80082ced08186ceeca7ab9fdcd388fe632b8c633",
+    "sha256": "970c5727d3d74694cc73182f719d7d4ac993803e180cfe379af6320dca4567c4",
+    "localeFiles": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Account": "アカウント",
+  "Browser": "ブラウザー",
+  "Game": "ゲーム",
+  "Go back": "戻る",
+  "Go forward": "前進してください",
+  "Links": "リンク",
+  "Menu": "メニュー",
+  "Microsoft Office 2007 Styled Theme plugin": "Microsoft Office 2007 スタイルのテーマ プラグイン",
+  "No filters": "フィルターなし",
+  "Plugin for the theme. Adds a top bar, app filter status, and some buttons.": "テーマ用のプラグイン。トップバー、アプリフィルターステータス、およびいくつかのボタンを追加します。",
+  "Reload": "リロード",
+  "Showing installed Linux-ready games": "インストールされている Linux 対応ゲームを表示する",
+  "Showing only Linux-ready games": "Linux 対応ゲームのみを表示",
+  "Showing only Ready to Play games": "すぐにプレイできるゲームのみを表示",
+  "Sorting games by recent activity": "最近のアクティビティでゲームを並べ替える",
+  "Sorting games by recent activity that are Ready to Play": "すぐにプレイできるゲームを最近のアクティビティごとに並べ替える",
+  "Sorting games by recent activity that run on Linux": "Linux 上で実行されるゲームを最近のアクティビティで並べ替える",
+  "Sorting games by recent activity that run on Linux and are Ready to Play": "Linux 上で実行され、すぐにプレイできるゲームを最近のアクティビティごとに分類する"
+}

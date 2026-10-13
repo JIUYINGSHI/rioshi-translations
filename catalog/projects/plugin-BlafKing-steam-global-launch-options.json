@@ -1,0 +1,21 @@
+{
+  "id": "plugin-BlafKing-steam-global-launch-options",
+  "kind": "plugin",
+  "name": "Global Launch Options",
+  "repository": "BlafKing/steam-global-launch-options",
+  "revision": "0043e8ccf244739c18023be80a48509b6c8afade",
+  "texts": [
+    "Comma-separated list of Steam App IDs to exclude from global launch options (e.g., 570,730,440)",
+    "Excluded Game IDs",
+    "Global Launch Options",
+    "Launch options to apply to all games (e.g., MANGOHUD=1 %command%). Use %command% as placeholder for the game executable.",
+    "Set default launch options that automatically apply to all Steam games."
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/BlafKing/steam-global-launch-options/zip/0043e8ccf244739c18023be80a48509b6c8afade",
+    "sha256": "3a9785f8eea7b36f12ba1b828a2d8b4ab53335cf0db17ba7a57745f05516c543",
+    "localeFiles": []
+  }
+}

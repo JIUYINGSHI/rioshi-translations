@@ -1,0 +1,15 @@
+{
+  "Disable Avatar Frames": "Deshabilitar marcos de avatar",
+  "Disable Avatar Status Lines": "Deshabilitar líneas de estado de avatar",
+  "Disable Chat Tab PFPs": "Deshabilitar PFP de la pestaña Chat",
+  "Disable Download Logo": "Desactivar descargar logotipo",
+  "Disable New Message Line": "Deshabilitar nueva línea de mensaje",
+  "Disable the avatar frames around profile pictures": "Deshabilita los marcos de avatar alrededor de las imágenes de perfil.",
+  "Disable the avatar status lines on friends": "Deshabilitar las líneas de estado del avatar en amigos",
+  "Disable the logo that shows up on the downloads page for the currently downloading game": "Desactiva el logotipo que aparece en la página de descargas del juego que se descarga actualmente.",
+  "Disable the profile pictures in tabs for steam chat": "Deshabilite las imágenes de perfil en pestañas para el chat de Steam",
+  "Disable the yellow line and \"New Message\" text in chats": "Desactiva la línea amarilla y el texto \"Mensaje nuevo\" en los chats",
+  "The weirdest amalgamation of modern and old steam": "La fusión más extraña de vapor moderno y antiguo.",
+  "false": "falso",
+  "true": "cierto"
+}

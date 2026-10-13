@@ -1,0 +1,13 @@
+{
+  "id": "theme-lil-fluff-no-more-whats-new",
+  "kind": "theme",
+  "name": "no more whats new",
+  "repository": "lil-fluff/no-more-whats-new",
+  "revision": "990d86493d2a0196ea8a6ea0e754b0d96149e74e",
+  "texts": [
+    "No more What's new section"
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

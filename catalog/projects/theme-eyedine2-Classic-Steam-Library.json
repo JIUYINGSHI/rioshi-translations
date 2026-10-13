@@ -1,0 +1,17 @@
+{
+  "id": "theme-eyedine2-Classic-Steam-Library",
+  "kind": "theme",
+  "name": "Classic Steam Library",
+  "repository": "eyedine2/Classic-Steam-Library",
+  "revision": "ca2e4a36911832d027153a3c83791b58007122d6",
+  "texts": [
+    "2015 Theme",
+    "Bluer but still old",
+    "Brings Steam's 2013 & 2015 looks to the modern day",
+    "no",
+    "yes"
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

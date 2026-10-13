@@ -1,0 +1,21 @@
+{
+  "Adds configurable Restart, Reload UI, and Developer Mode restart actions to the Steam root menu.": "将可配置的重新启动、重新加载 UI 和开发人员模式重新启动操作添加到 Steam 根菜单。",
+  "Always restart the current Steam session in Developer Mode": "始终以开发者模式重启当前 Steam 会话",
+  "Cancel": "取消",
+  "Easy Restart / Reload for Steam": "轻松重启/重新加载 Steam",
+  "Forces the Restart Steam entry to always relaunch the current Steam session with -dev when the Restart Steam in Developer Mode option is enabled in the plugin settings.": "当插件设置中的“以开发者模式重启 Steam”选项启用时，强制“重启 Steam”始终使用 -dev 参数重新启动当前 Steam 会话。",
+  "Fully restarts the Steam client.": "完全重启 Steam 客户端。",
+  "NOTE: Manually quitting Steam or restarting your PC ends the current session without changing your settings.\nTo always start Steam in Developer Mode, add the -dev argument to your Steam shortcut.": "注意：手动退出 Steam 或重启电脑会结束当前会话，但不会更改你的设置。\n若要始终以开发者模式启动 Steam，请在 Steam 快捷方式中添加 -dev 参数。",
+  "Reload UI": "重新加载界面",
+  "Reload now": "立即重新加载",
+  "Reload required": "需要重新加载",
+  "Reloads only the Steam interface without restarting the client.": "仅重新加载 Steam 界面，不重启客户端。",
+  "Restart Steam": "重启 Steam",
+  "Restart Steam in Developer Mode": "以开发者模式重启 Steam",
+  "Restart Steam in Developer Mode (current session)": "以开发者模式重启 Steam（当前会话）",
+  "Restart now": "立即重启",
+  "Restart required": "需要重启",
+  "Restarts Steam with the -dev argument to enable Developer Mode.": "使用 -dev 参数重启 Steam 以启用开发者模式。",
+  "To enable or disable the selected options, a Steam restart is required. Are you sure you want to continue?": "要启用或禁用所选选项，需要重启 Steam。确定要继续吗？",
+  "To enable or disable the selected options, a reload is required. Are you sure you want to continue?": "要启用或禁用所选选项，需要重新加载。确定要继续吗？"
+}

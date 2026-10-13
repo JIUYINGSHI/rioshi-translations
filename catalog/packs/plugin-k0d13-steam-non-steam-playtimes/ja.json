@@ -1,0 +1,8 @@
+{
+  "Manually set the total playtime for this app. Reducing it below the current total will reset date-based playtime statistics.": "このアプリの合計再生時間を手動で設定します。現在の合計よりも減らすと、日付ベースの再生時間統計がリセットされます。",
+  "Non-Steam Playtimes": "非 Steam ゲームのプレイ時間",
+  "Play Time": "プレイ時間",
+  "Playtime": "プレイ時間",
+  "Track playtime for non-Steam games.": "非 Steam ゲームのプレイ時間を追跡します。",
+  "e.g. 2h 30m": "例: 2時間30分"
+}

@@ -1,0 +1,13 @@
+{
+  "Allows you to navigate the Steam Que on store pages Via the arrow keys.": "Permite que você navegue no Steam Que nas páginas da loja por meio das teclas de seta.",
+  "Automatically ignores certain games (tags/banned keywords can be set in 'config.js'; see 'js/configDefaults.js' for the full list)": "Ignora automaticamente certos jogos (tags/palavras-chave banidas podem ser definidas em 'config.js'; consulte 'js/configDefaults.js' para a lista completa)",
+  "Dim uninstalled games?": "Dim jogos desinstalados?",
+  "Enable Automatic Que Skipping?": "Habilitar salto automático de fila?",
+  "Enable Que Via Keyboard?": "Habilitar Que Via Teclado?",
+  "Enables Use of System Accent Color from Mill' settings.": "Ativa o uso da cor de destaque do sistema nas configurações de fresagem.",
+  "Enables semi-transparent icons for uninstall games in the game-grid.": "Habilita ícones semitransparentes para desinstalar jogos na grade de jogos.",
+  "Just another \"take\" on Metro Steam.": "Apenas mais uma \"visão\" do Metro Steam.",
+  "Use Custom Accent Color?": "Usar cor de destaque personalizada?",
+  "no": "não",
+  "yes": "sim"
+}

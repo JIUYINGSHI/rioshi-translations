@@ -1,0 +1,9 @@
+{
+  "Clear": "清除",
+  "Folder": "文件夹",
+  "Installed Files": "安装的文件",
+  "Instantly see the size of a game on disk.": "立即查看磁盘上游戏的大小。",
+  "Select Installed Files Folder": "选择已安装的文件文件夹",
+  "Set the folder this app is installed in, so its size on disk can be calculated. Clear it to stop showing a size for this app entirely.": "设置此应用程序安装的文件夹，以便可以计算其在磁盘上的大小。清除它即可完全停止显示此应用程序的尺寸。",
+  "Size on Disk": "磁盘大小"
+}

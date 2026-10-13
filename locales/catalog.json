@@ -7,51 +7,51 @@
       "name": "English",
       "full": true,
       "path": "locales/en.json",
-      "entries": 146,
-      "status": "complete-for-bundled-source"
+      "entries": 1862,
+      "status": "source-text"
     },
     {
       "id": "zh-CN",
       "name": "简体中文",
       "full": true,
       "path": "locales/zh-CN.json",
-      "entries": 146,
-      "status": "complete-for-bundled-source"
+      "entries": 1914,
+      "status": "complete-extracted-text-with-machine-drafts"
     },
     {
       "id": "es",
       "name": "Español",
       "path": "locales/es.json",
-      "entries": 80,
-      "status": "starter"
+      "entries": 1892,
+      "status": "complete-extracted-text-with-machine-drafts"
     },
     {
       "id": "fr",
       "name": "Français",
       "path": "locales/fr.json",
-      "entries": 80,
-      "status": "starter"
+      "entries": 1891,
+      "status": "complete-extracted-text-with-machine-drafts"
     },
     {
       "id": "de",
       "name": "Deutsch",
       "path": "locales/de.json",
-      "entries": 80,
-      "status": "starter"
+      "entries": 1891,
+      "status": "complete-extracted-text-with-machine-drafts"
     },
     {
       "id": "pt-BR",
       "name": "Português (Brasil)",
       "path": "locales/pt-BR.json",
-      "entries": 80,
-      "status": "starter"
+      "entries": 1891,
+      "status": "complete-extracted-text-with-machine-drafts"
     },
     {
       "id": "ja",
       "name": "日本語",
       "path": "locales/ja.json",
-      "entries": 80,
-      "status": "starter"
+      "entries": 1891,
+      "status": "complete-extracted-text-with-machine-drafts"
     }
   ]
 }

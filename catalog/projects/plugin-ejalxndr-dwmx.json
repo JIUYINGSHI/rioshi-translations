@@ -1,0 +1,18 @@
+{
+  "id": "plugin-ejalxndr-dwmx",
+  "kind": "plugin",
+  "name": "Window Styler (DWMX)",
+  "repository": "ejalxndr/dwmx",
+  "revision": "28c1a17f533d0ae5e98745616e859548912898e0",
+  "texts": [
+    "Enable custom window backdrops on supporting themes.",
+    "Window Styler (DWMX)"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/ejalxndr/dwmx/zip/28c1a17f533d0ae5e98745616e859548912898e0",
+    "sha256": "59d155969b6ea26131a591c66ae1def4898d373a09731fc0f36b270545b929e3",
+    "localeFiles": []
+  }
+}

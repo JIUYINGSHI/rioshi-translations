@@ -43,20 +43,7 @@ export function createTranslationStore(storage) {
       state.language = language;
       persist();
     },
-    resetDictionary() { delete state.dictionaries[state.language]; persist(); },
-    exportSnapshot() { return JSON.parse(JSON.stringify(state)); },
-    importSnapshot(snapshot) {
-      if (snapshot?.version !== 1 || !snapshot.dictionaries || typeof snapshot.language !== 'string') {
-        throw new Error('Unsupported sync file');
-      }
-      const dictionaries = {};
-      for (const [language, dictionary] of Object.entries(snapshot.dictionaries)) {
-        dictionaries[language] = validateDictionary(dictionary);
-      }
-      storage.setItem(`${STATE_KEY}:before-download`, JSON.stringify(state));
-      state = { version: 1, uiLanguage: snapshot.uiLanguage === 'en' ? 'en' : 'zh-CN', language: snapshot.language, dictionaries };
-      persist();
-    }
+    resetDictionary() { delete state.dictionaries[state.language]; persist(); }
   };
 }
 

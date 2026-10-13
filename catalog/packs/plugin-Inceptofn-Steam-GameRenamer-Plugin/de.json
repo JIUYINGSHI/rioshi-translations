@@ -1,0 +1,11 @@
+{
+  "Enter the name you'd like to display instead:": "Geben Sie den Namen ein, den Sie stattdessen anzeigen möchten:",
+  "Game Renamer": "Spielumbenennung",
+  "No custom names yet — right-click a game and choose Rename to add one.": "Noch keine benutzerdefinierten Namen – klicken Sie mit der rechten Maustaste auf ein Spiel und wählen Sie „Umbenennen“, um eines hinzuzufügen.",
+  "Options": "Optionen",
+  "Rename different games in the Steam library": "Benennen Sie verschiedene Spiele in der Steam-Bibliothek um",
+  "Save": "Speichern",
+  "Sets Steam's sort-as field when you rename a game. Turn off to stop affecting library sort order.": "Legt das Sortierfeld von Steam fest, wenn Sie ein Spiel umbenennen. Deaktivieren Sie diese Option, um die Sortierreihenfolge der Bibliothek nicht mehr zu beeinflussen.",
+  "Sort library by custom name": "Sortieren Sie die Bibliothek nach benutzerdefiniertem Namen",
+  "Your renames (": "Ihre Umbenennungen ("
+}

@@ -1,0 +1,13 @@
+{
+  "Allows you to navigate the Steam Que on store pages Via the arrow keys.": "矢印キーを使用して、ストア ページの Steam Que に移動できます。",
+  "Automatically ignores certain games (tags/banned keywords can be set in 'config.js'; see 'js/configDefaults.js' for the full list)": "特定のゲームを自動的に無視します (タグ/禁止キーワードは「config.js」で設定できます。完全なリストについては「js/configDefaults.js」を参照してください)",
+  "Dim uninstalled games?": "アンインストールしたゲームが暗くなりますか?",
+  "Enable Automatic Que Skipping?": "自動キュースキップを有効にしますか?",
+  "Enable Que Via Keyboard?": "キーボード経由の Que を有効にしますか?",
+  "Enables Use of System Accent Color from Mill' settings.": "ミル設定からのシステム アクセント カラーの使用を有効にします。",
+  "Enables semi-transparent icons for uninstall games in the game-grid.": "ゲームグリッドでゲームをアンインストールするための半透明のアイコンを有効にします。",
+  "Just another \"take\" on Metro Steam.": "Metro Steam のもう 1 つの「テイク」です。",
+  "Use Custom Accent Color?": "カスタムのアクセントカラーを使用しますか?",
+  "no": "いいえ",
+  "yes": "はい"
+}

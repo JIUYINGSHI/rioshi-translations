@@ -1,0 +1,8 @@
+{
+  "A Millennium plugin that adds CSStats.gg integration to Steam profiles.": "一个 Millennium 插件，将 CSStats.gg 集成添加到 Steam 配置文件中。",
+  "CS": "计算机科学",
+  "CSStats.gg Extension": "CSStats.gg 扩展",
+  "Open CSStats.gg in your system browser instead of Steam's built-in browser. Useful when the target site is behind Cloudflare, which can block the in-app browser. Reopen profile pages to apply changes.": "在系统浏览器而不是 Steam 的内置浏览器中打开 CSStats.gg。当目标站点位于 Cloudflare 之后时非常有用，因为 Cloudflare 可能会阻止应用内浏览器。重新打开个人资料页面以应用更改。",
+  "Open in external browser": "在外部浏览器中打开",
+  "stats": "统计数据"
+}

@@ -1,0 +1,21 @@
+{
+  "Adds configurable Restart, Reload UI, and Developer Mode restart actions to the Steam root menu.": "Fügt dem Steam-Root-Menü konfigurierbare Neustart-, UI-Neuladen- und Entwicklermodus-Neustartaktionen hinzu.",
+  "Always restart the current Steam session in Developer Mode": "Die aktuelle Steam-Sitzung immer im Entwicklermodus neu starten",
+  "Cancel": "Abbrechen",
+  "Easy Restart / Reload for Steam": "Einfacher Neustart/Neuladen für Steam",
+  "Forces the Restart Steam entry to always relaunch the current Steam session with -dev when the Restart Steam in Developer Mode option is enabled in the plugin settings.": "Erzwingt, dass „Steam neu starten“ die aktuelle Steam-Sitzung immer mit -dev neu startet, wenn „Steam im Entwicklermodus neu starten“ in den Plugin-Einstellungen aktiviert ist.",
+  "Fully restarts the Steam client.": "Startet den Steam-Client vollständig neu.",
+  "NOTE: Manually quitting Steam or restarting your PC ends the current session without changing your settings.\nTo always start Steam in Developer Mode, add the -dev argument to your Steam shortcut.": "HINWEIS: Wenn Sie Steam manuell beenden oder Ihren PC neu starten, wird die aktuelle Sitzung beendet, ohne Ihre Einstellungen zu ändern.\nUm Steam immer im Entwicklermodus zu starten, fügen Sie das Argument -dev zu Ihrer Steam-Verknüpfung hinzu.",
+  "Reload UI": "Oberfläche neu laden",
+  "Reload now": "Jetzt neu laden",
+  "Reload required": "Neuladen erforderlich",
+  "Reloads only the Steam interface without restarting the client.": "Lädt nur die Steam-Oberfläche neu, ohne den Client neu zu starten.",
+  "Restart Steam": "Steam neu starten",
+  "Restart Steam in Developer Mode": "Steam im Entwicklermodus neu starten",
+  "Restart Steam in Developer Mode (current session)": "Steam im Entwicklermodus neu starten (aktuelle Sitzung)",
+  "Restart now": "Jetzt neu starten",
+  "Restart required": "Neustart erforderlich",
+  "Restarts Steam with the -dev argument to enable Developer Mode.": "Startet Steam mit dem Argument -dev neu, um den Entwicklermodus zu aktivieren.",
+  "To enable or disable the selected options, a Steam restart is required. Are you sure you want to continue?": "Zum Aktivieren oder Deaktivieren der ausgewählten Optionen muss Steam neu gestartet werden. Möchten Sie wirklich fortfahren?",
+  "To enable or disable the selected options, a reload is required. Are you sure you want to continue?": "Zum Aktivieren oder Deaktivieren der ausgewählten Optionen ist ein Neuladen erforderlich. Möchten Sie wirklich fortfahren?"
+}

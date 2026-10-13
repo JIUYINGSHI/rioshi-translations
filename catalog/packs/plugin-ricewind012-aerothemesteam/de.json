@@ -1,0 +1,20 @@
+{
+  "Account": "Konto",
+  "Browser": "Browser",
+  "Game": "Spiel",
+  "Go back": "Geh zurück",
+  "Go forward": "Gehen Sie vorwärts",
+  "Links": "Links",
+  "Menu": "Menü",
+  "Microsoft Office 2007 Styled Theme plugin": "Microsoft Office 2007 Styled Theme-Plugin",
+  "No filters": "Keine Filter",
+  "Plugin for the theme. Adds a top bar, app filter status, and some buttons.": "Plugin für das Theme. Fügt eine obere Leiste, einen App-Filterstatus und einige Schaltflächen hinzu.",
+  "Reload": "Neu laden",
+  "Showing installed Linux-ready games": "Zeigt installierte Linux-fähige Spiele",
+  "Showing only Linux-ready games": "Es werden nur Linux-fähige Spiele angezeigt",
+  "Showing only Ready to Play games": "Es werden nur spielbereite Spiele angezeigt",
+  "Sorting games by recent activity": "Sortierung der Spiele nach aktueller Aktivität",
+  "Sorting games by recent activity that are Ready to Play": "Sortieren von Spielen nach aktueller Aktivität, die spielbereit sind",
+  "Sorting games by recent activity that run on Linux": "Sortieren von Spielen nach aktueller Aktivität, die unter Linux laufen",
+  "Sorting games by recent activity that run on Linux and are Ready to Play": "Sortieren von Spielen nach aktueller Aktivität, die unter Linux laufen und spielbereit sind"
+}

@@ -1,0 +1,17 @@
+{
+  "A plugin for adding RSS news to whats new block in Steam": "Un complemento para agregar noticias RSS al bloque de novedades en Steam",
+  "Deutsch (gamestar) - https://www.gamestar.de/news/rss/news.rss": "Alemán (estrella del juego) - https://www.gamestar.de/news/rss/news.rss",
+  "Deutsch (ign) - https://de.ign.com/feed.xml": "Alemán (ign) - https://de.ign.com/feed.xml",
+  "English (ign) - http://feeds.feedburner.com/ign/games-all": "Inglés (ign) - http://feeds.feedburner.com/ign/games-all",
+  "Français (gameblog) - https://www.gameblog.fr/rssmap/rss_all.xml": "Francés (blog del juego) - https://www.gameblog.fr/rssmap/rss_all.xml",
+  "Français (ign) - https://fr.ign.com/news.xml": "Francés (ign) - https://fr.ign.com/news.xml",
+  "Italian (ign) - https://it.ign.com/news.xml": "Italiano (ign) - https://it.ign.com/news.xml",
+  "Nederlands (ign) - https://nl.ign.com/news.xml": "Países Bajos (ign) - https://nl.ign.com/news.xml",
+  "Português (ign) - https://br.ign.com/news.xml": "Português (ign) - https://br.ign.com/news.xml",
+  "RSS feed in Whats New": "Fuente RSS en Novedades",
+  "RSS feed in whats new": "Feed RSS en novedades",
+  "Русский (playground) - https://www.playground.ru/rss/news.xml": "Русский (patio de juegos) - https://www.playground.ru/rss/news.xml",
+  "Русский (stopgame) - https://rss.stopgame.ru/rss_news.xml": "Русский (detener el juego) - https://rss.stopgame.ru/rss_news.xml",
+  "日本語 (ign) - https://jp.ign.com/news.xml": "日本語 (ign) - https://jp.ign.com/news.xml",
+  "한국어 (ign) - https://kr.ign.com/news.xml": "한국어 (ign) - https://kr.ign.com/news.xml"
+}

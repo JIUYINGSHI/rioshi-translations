@@ -1,0 +1,7 @@
+{
+  "Comma-separated list of Steam App IDs to exclude from global launch options (e.g., 570,730,440)": "要从全局启动选项中排除的以逗号分隔的 Steam 应用程序 ID 列表（例如 570,730,440）",
+  "Excluded Game IDs": "排除的游戏 ID",
+  "Global Launch Options": "全球发布选项",
+  "Launch options to apply to all games (e.g., MANGOHUD=1 %command%). Use %command% as placeholder for the game executable.": "启动适用于所有游戏的选项（例如，MANGOHUD=1 %command%）。使用 %command% 作为游戏可执行文件的占位符。",
+  "Set default launch options that automatically apply to all Steam games.": "设置自动应用于所有 Steam 游戏的默认启动选项。"
+}

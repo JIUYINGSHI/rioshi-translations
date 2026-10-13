@@ -1,0 +1,21 @@
+{
+  "Adds configurable Restart, Reload UI, and Developer Mode restart actions to the Steam root menu.": "Agrega acciones configurables de reinicio, recarga de interfaz de usuario y modo de desarrollador al menú raíz de Steam.",
+  "Always restart the current Steam session in Developer Mode": "Reiniciar siempre la sesión actual de Steam en modo desarrollador",
+  "Cancel": "Cancelar",
+  "Easy Restart / Reload for Steam": "Reinicio/recarga fácil para Steam",
+  "Forces the Restart Steam entry to always relaunch the current Steam session with -dev when the Restart Steam in Developer Mode option is enabled in the plugin settings.": "Fuerza la opción Reiniciar Steam a reiniciar siempre la sesión actual de Steam con -dev cuando la opción Reiniciar Steam en modo desarrollador está activada en los ajustes del complemento.",
+  "Fully restarts the Steam client.": "Reinicia completamente el cliente de Steam.",
+  "NOTE: Manually quitting Steam or restarting your PC ends the current session without changing your settings.\nTo always start Steam in Developer Mode, add the -dev argument to your Steam shortcut.": "NOTA: Salir manualmente de Steam o reiniciar el PC finaliza la sesión actual sin cambiar tus ajustes.\nPara iniciar Steam siempre en modo desarrollador, añade el argumento -dev al acceso directo de Steam.",
+  "Reload UI": "Recargar interfaz",
+  "Reload now": "Recargar ahora",
+  "Reload required": "Es necesario recargar",
+  "Reloads only the Steam interface without restarting the client.": "Recarga únicamente la interfaz de Steam sin reiniciar el cliente.",
+  "Restart Steam": "Reiniciar Steam",
+  "Restart Steam in Developer Mode": "Reiniciar Steam en modo desarrollador",
+  "Restart Steam in Developer Mode (current session)": "Reiniciar Steam en modo desarrollador (sesión actual)",
+  "Restart now": "Reiniciar ahora",
+  "Restart required": "Es necesario reiniciar",
+  "Restarts Steam with the -dev argument to enable Developer Mode.": "Reinicia Steam con el argumento -dev para activar el modo desarrollador.",
+  "To enable or disable the selected options, a Steam restart is required. Are you sure you want to continue?": "Para activar o desactivar las opciones seleccionadas, es necesario reiniciar Steam. ¿Seguro que quieres continuar?",
+  "To enable or disable the selected options, a reload is required. Are you sure you want to continue?": "Para activar o desactivar las opciones seleccionadas, es necesario recargar. ¿Seguro que quieres continuar?"
+}

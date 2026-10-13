@@ -1,15 +1,8 @@
 import { labels } from './ui-languages.js';
 import { downloadLanguage, validateDictionary } from './translation-store.js';
-import { createWebdavSync } from './webdav-sync.js';
-
-const CONFIG_KEY = 'rioshi-plugin-translations:sync-config-v4';
 
 export function mountEditor({ documentRef: doc, host, store, catalog, defaults, initialDictionary, loadBundled, apply }) {
   let ui = labels[store.uiLanguage];
-  let config = {};
-  try { config = JSON.parse(localStorage.getItem(CONFIG_KEY) || '{}'); } catch { /* Use defaults. */ }
-  let sync = null;
-  let syncSignature = '';
   let disposed = false;
   let busy = false;
   let lastSaved = '';
@@ -77,22 +70,6 @@ export function mountEditor({ documentRef: doc, host, store, catalog, defaults, 
 
   const downloadButton = button(toolbar, 'download');
 
-  const dav = el('details', root);
-  el('summary', dav, 'webdav').style.cursor = 'pointer';
-  const davRow = row(dav);
-  const url = field(davRow, 'url', config.url);
-  const username = field(davRow, 'username', config.username);
-  const password = field(davRow, 'password', config.password, 'password');
-  const path = field(davRow, 'path', config.path || '/rioshi-translations.json');
-  const rememberLabel = el('label', dav);
-  const remember = el('input', rememberLabel); remember.type = 'checkbox'; remember.checked = Boolean(config.remember);
-  el('span', rememberLabel, 'remember');
-  const davButtons = row(dav);
-  const checkButton = button(davButtons, 'check');
-  const uploadButton = button(davButtons, 'upload');
-  const pullButton = button(davButtons, 'pull');
-  const forceButton = button(davButtons, 'force');
-  el('p', dav, 'cors').style.fontSize = '12px';
   const status = el('div', root);
   Object.assign(status.style, { margin: '10px 0', minHeight: '18px', color: '#66c0f4', fontSize: '12px' });
   const box = el('div', root);
@@ -111,19 +88,7 @@ export function mountEditor({ documentRef: doc, host, store, catalog, defaults, 
     message(ui.loaded + Object.keys(dictionary || {}).length);
     language.value = store.language;
   }
-  function saveConfig() {
-    const next = { url: url.value, username: username.value, path: path.value, remember: remember.checked };
-    if (remember.checked) next.password = password.value;
-    localStorage.setItem(CONFIG_KEY, JSON.stringify(next));
-  }
-  function davClient() {
-    const options = { url: url.value, username: username.value, password: password.value, path: path.value };
-    const signature = JSON.stringify(options);
-    if (!sync || signature !== syncSignature) { sync = createWebdavSync(options, store); syncSignature = signature; }
-    saveConfig();
-    return sync;
-  }
-  const allButtons = [applyButton, formatButton, restoreButton, downloadButton, checkButton, uploadButton, pullButton, forceButton];
+  const allButtons = [applyButton, formatButton, restoreButton, downloadButton];
   async function run(operation) {
     if (busy) return; busy = true; allButtons.forEach(node => { node.disabled = true; }); language.disabled = true;
     message(ui.working);
@@ -160,32 +125,12 @@ export function mountEditor({ documentRef: doc, host, store, catalog, defaults, 
     const selected = language.value;
     const dictionary = await downloadLanguage({ repository: defaults.repository, branch: defaults.branch, language: selected });
     if (disposed) return;
-    saveConfig(); store.saveDictionary(selected, dictionary); apply(dictionary); showDictionary(dictionary); message(ui.success);
+    store.saveDictionary(selected, dictionary); apply(dictionary); showDictionary(dictionary); message(ui.success);
   }));
-  checkButton.addEventListener('click', () => run(async () => { const result = await davClient().check(); message(result.exists ? ui.exists : ui.missing); }));
-  const persistBundledIfNeeded = () => {
-    if (!store.getDictionary()) store.saveDictionary(store.language, initialDictionary || {});
-  };
-  uploadButton.addEventListener('click', () => run(async () => {
-    persistBundledIfNeeded(); await davClient().upload(); message(ui.success);
-  }));
-  forceButton.addEventListener('click', () => run(async () => {
-    if (doc.defaultView.confirm(ui.confirmForce)) { persistBundledIfNeeded(); await davClient().upload(true); message(ui.success); }
-  }));
-  pullButton.addEventListener('click', () => run(async () => {
-    if (!mayReplace() || !doc.defaultView.confirm(ui.confirmPull)) return;
-    await davClient().download();
-    const dictionary = store.getDictionary() || await loadBundled(store.language);
-    apply(dictionary); showDictionary(dictionary);
-    uiSelect.value = store.uiLanguage; ui = labels[store.uiLanguage];
-    for (const [node, key] of localized) node.textContent = ui[key];
-    message(ui.success);
-  }));
-  for (const input of [url, username, password, path, remember]) input.addEventListener('change', saveConfig);
   showDictionary(store.getDictionary() || initialDictionary);
   host.appendChild(root);
   return { overlay: root, dispose() {
-    disposed = true; root.remove(); password.value = ''; sync = null;
+    disposed = true; root.remove();
     if (changedPosition && host.style.position === 'relative') host.style.position = originalPosition;
   } };
 }

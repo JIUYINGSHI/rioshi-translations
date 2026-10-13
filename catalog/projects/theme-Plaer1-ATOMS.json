@@ -1,0 +1,23 @@
+{
+  "id": "theme-Plaer1-ATOMS",
+  "kind": "theme",
+  "name": "ATOMS",
+  "repository": "Plaer1/ATOMS",
+  "revision": "07f6f836b61125e76a3a66fde8f7d624d89fc0d5",
+  "texts": [
+    "Allows you to navigate the Steam Que on store pages Via the arrow keys.",
+    "Automatically ignores certain games (tags/banned keywords can be set in 'config.js'; see 'js/configDefaults.js' for the full list)",
+    "Dim uninstalled games?",
+    "Enable Automatic Que Skipping?",
+    "Enable Que Via Keyboard?",
+    "Enables Use of System Accent Color from Mill' settings.",
+    "Enables semi-transparent icons for uninstall games in the game-grid.",
+    "Just another \"take\" on Metro Steam.",
+    "Use Custom Accent Color?",
+    "no",
+    "yes"
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

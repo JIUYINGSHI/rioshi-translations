@@ -1,0 +1,815 @@
+{
+  "fetchedAt": "2026-10-13T01:08:14.055Z",
+  "sources": {
+    "themes": "https://steambrew.app/api/v2",
+    "plugins": "https://steambrew.app/api/v1/plugins/"
+  },
+  "projects": [
+    {
+      "id": "theme-EugeneXXXie-blueArchiveSteamSkin",
+      "kind": "theme",
+      "name": "BlueArchive",
+      "repository": "EugeneXXXie/blueArchiveSteamSkin",
+      "revision": "7900c02a30b390315dc2ff5e5a86815ceb9abb4e",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 1
+    },
+    {
+      "id": "theme-Br1Rol2-Steam2.0-modular",
+      "kind": "theme",
+      "name": "Steam 2.0 modular",
+      "repository": "Br1Rol2/Steam2.0-modular",
+      "revision": "303b4e88e499d848ac63bb8476d4cc8afa287bee",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 1
+    },
+    {
+      "id": "theme-Plaer1-ATOMS",
+      "kind": "theme",
+      "name": "ATOMS",
+      "repository": "Plaer1/ATOMS",
+      "revision": "07f6f836b61125e76a3a66fde8f7d624d89fc0d5",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 11
+    },
+    {
+      "id": "theme-tkashkin-Adwaita-for-Steam",
+      "kind": "theme",
+      "name": "Adwaita",
+      "repository": "tkashkin/Adwaita-for-Steam",
+      "revision": "1e92107a51f6ed53c59c38646444c9eb3a52b030",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 83
+    },
+    {
+      "id": "theme-MapleAtMorning-OldSteam-Theme",
+      "kind": "theme",
+      "name": "OldSteam",
+      "repository": "MapleAtMorning/OldSteam-Theme",
+      "revision": "9a7214a90ddc3af1dae14786719103cd7c186e6e",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 13
+    },
+    {
+      "id": "theme-ricewind012-aerothemesteam",
+      "kind": "theme",
+      "name": "Microsoft Office 2007 Styled Theme",
+      "repository": "ricewind012/aerothemesteam",
+      "revision": "8e176621470fe461dd668fbe46f761768ecc49c1",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 1
+    },
+    {
+      "id": "theme-SaiyajinK-Minimal-Dark-for-Steam",
+      "kind": "theme",
+      "name": "Minimal Dark",
+      "repository": "SaiyajinK/Minimal-Dark-for-Steam",
+      "revision": "2d5ace019b1a92ecedcb2b81706ab5955db4101e",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 470
+    },
+    {
+      "id": "theme-shdwmtr-simply-dark",
+      "kind": "theme",
+      "name": "Simple Dark.",
+      "repository": "shdwmtr/simply-dark",
+      "revision": "5163dcbca3cbde75e6aad29af0c6025612ba8607",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "rootColorSource": {
+        "url": "https://raw.githubusercontent.com/shdwmtr/simply-dark/5163dcbca3cbde75e6aad29af0c6025612ba8607/colors.css",
+        "sha256": "006f8409e306ca56ecb2099d2bd5e1e3ee125c4996808ac0c167d5af3ca6310b"
+      },
+      "extracted": 23
+    },
+    {
+      "id": "theme-1739321142-TsukushiAria-theme",
+      "kind": "theme",
+      "name": "TsukushiAria",
+      "repository": "1739321142/TsukushiAria-theme",
+      "revision": "2704fdf37ca2ec9a978c0ced17be7ed231eb983b",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 1
+    },
+    {
+      "id": "theme-dotFelixan-NEVKO-UI",
+      "kind": "theme",
+      "name": "NEVKO-UI",
+      "repository": "dotFelixan/NEVKO-UI",
+      "revision": "e8ef4a2c92603e6fcd18dd4a22215de30ab27090",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "rootColorSource": {
+        "url": "https://raw.githubusercontent.com/dotFelixan/NEVKO-UI/e8ef4a2c92603e6fcd18dd4a22215de30ab27090/Misc/Accents%20Code/root.css",
+        "sha256": "575aeab16cf6ae40fe993d382bf375646b311ce773056b135163cc335aa10b0b"
+      },
+      "extracted": 87
+    },
+    {
+      "id": "theme-yufengOvO-steam-leimu",
+      "kind": "theme",
+      "name": "leimu",
+      "repository": "yufengOvO/steam-leimu",
+      "revision": "9c86ffb54991e1b2cad897fa3cd4504d1a9afa5a",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 12
+    },
+    {
+      "id": "theme-Jonius7-SteamUI-GoldenEra",
+      "kind": "theme",
+      "name": "SteamUI-GoldenEra",
+      "repository": "Jonius7/SteamUI-GoldenEra",
+      "revision": "7a452d3d66dd7b3b71f6af2914aacf5f48d3fd43",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "rootColorSource": {
+        "url": "https://raw.githubusercontent.com/Jonius7/SteamUI-GoldenEra/7a452d3d66dd7b3b71f6af2914aacf5f48d3fd43/colors.css",
+        "sha256": "064ac5fdf6ec4735a14b824c2c4b5598fff9b0feba318a008df90796a2558e30"
+      },
+      "extracted": 46
+    },
+    {
+      "id": "theme-ricewind012-juxtematic",
+      "kind": "theme",
+      "name": "Juxtematic",
+      "repository": "ricewind012/juxtematic",
+      "revision": "dd071f89e340a303a9e11beb005d4127c63c6784",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 1
+    },
+    {
+      "id": "theme-madmaxgrey-QOL-Toggles-Steam",
+      "kind": "theme",
+      "name": "QOL Toggles Steam",
+      "repository": "madmaxgrey/QOL-Toggles-Steam",
+      "revision": "d6001ed168451133f9992c1284dc6a2030984edb",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 27
+    },
+    {
+      "id": "theme-kuska1-Material-Theme",
+      "kind": "theme",
+      "name": "Material",
+      "repository": "kuska1/Material-Theme",
+      "revision": "f91b4e9cbc5436f149e6b293391a9a96ab47fbe9",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "rootColorSource": {
+        "url": "https://raw.githubusercontent.com/kuska1/Material-Theme/f91b4e9cbc5436f149e6b293391a9a96ab47fbe9/css/main/root-colors.css",
+        "sha256": "3e25d02e057a2faeac241f1897658ff31030abd5d90fcf2f226db2efb4ef1916"
+      },
+      "extracted": 188
+    },
+    {
+      "id": "theme-RoseTheFlower-MetroSteam",
+      "kind": "theme",
+      "name": "Metro by Rose",
+      "repository": "RoseTheFlower/MetroSteam",
+      "revision": "85d3488e426bfecc5a871f10021d3eab55318791",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 1
+    },
+    {
+      "id": "theme-Sennanon87-AeroXP",
+      "kind": "theme",
+      "name": "Aero XP",
+      "repository": "Sennanon87/AeroXP",
+      "revision": "06055fea6a0a41645c1d7fd77669be24dc59da99",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 68
+    },
+    {
+      "id": "theme-yurisuika-Zehn",
+      "kind": "theme",
+      "name": "Zehn",
+      "repository": "yurisuika/Zehn",
+      "revision": "3c325be7bb2c7e6ef8aa0e806bc5e5332c020df5",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "rootColorSource": {
+        "url": "https://raw.githubusercontent.com/yurisuika/Zehn/3c325be7bb2c7e6ef8aa0e806bc5e5332c020df5/option/colors.css",
+        "sha256": "f8aac85563d6127e11875289d5a2f7efae662eac4bd4ce6a1c529df0645fc105"
+      },
+      "extracted": 89
+    },
+    {
+      "id": "theme-eyedine2-Classic-Steam-Library",
+      "kind": "theme",
+      "name": "Classic Steam Library",
+      "repository": "eyedine2/Classic-Steam-Library",
+      "revision": "ca2e4a36911832d027153a3c83791b58007122d6",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 5
+    },
+    {
+      "id": "theme-lil-fluff-no-more-whats-new",
+      "kind": "theme",
+      "name": "no more whats new",
+      "repository": "lil-fluff/no-more-whats-new",
+      "revision": "990d86493d2a0196ea8a6ea0e754b0d96149e74e",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 1
+    },
+    {
+      "id": "theme-ricewind012-win95-themes",
+      "kind": "theme",
+      "name": "Windows 95",
+      "repository": "ricewind012/win95-themes",
+      "revision": "d2ae4fad38f2c2c349ea2a8b31c506bd57c84dbe",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 10
+    },
+    {
+      "id": "theme-SpaceTheme-Steam",
+      "kind": "theme",
+      "name": "SpaceTheme for Steam",
+      "repository": "SpaceTheme/Steam",
+      "revision": "17f93c585fe18056386ccf5a1cb1d47001be29d1",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "rootColorSource": {
+        "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/17f93c585fe18056386ccf5a1cb1d47001be29d1/src/css/root.css",
+        "sha256": "1ca442b1fd8a329d66f2b62f00fba3f85cb21750dd3841a031e140681fe75291"
+      },
+      "extracted": 144
+    },
+    {
+      "id": "theme-iBedro-MontBlack",
+      "kind": "theme",
+      "name": "Mont Black",
+      "repository": "iBedro/MontBlack",
+      "revision": "2213b29724e36c46b67d7c0721a2e7cfe26be995",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "rootColorSource": {
+        "url": "https://raw.githubusercontent.com/iBedro/MontBlack/2213b29724e36c46b67d7c0721a2e7cfe26be995/colors.css",
+        "sha256": "b880e468aac467d98189ba011f889432eb562069d45f7dbe5246622e4002be20"
+      },
+      "extracted": 1
+    },
+    {
+      "id": "theme-aaeriih-umi-asanagi-theme",
+      "kind": "theme",
+      "name": "umi-asanagi-theme",
+      "repository": "aaeriih/umi-asanagi-theme",
+      "revision": "276bb2efedea7d5a694bd8711c472708f8d49b44",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 12
+    },
+    {
+      "id": "theme-guyonphone-UltraWide",
+      "kind": "theme",
+      "name": "UltraWide",
+      "repository": "guyonphone/UltraWide",
+      "revision": "c246f651756aba275b30b2c74c5acfc4c62c5d6a",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "extracted": 1
+    },
+    {
+      "id": "theme-Yareli0i-glass-dusk",
+      "kind": "theme",
+      "name": "Glass Dusk",
+      "repository": "Yareli0i/glass-dusk",
+      "revision": "b94a79cae90c24e5c95c7885385791f008dce5c3",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "rootColorSource": {
+        "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/b94a79cae90c24e5c95c7885385791f008dce5c3/css/root.css",
+        "sha256": "ad2c4f48b1c934c87d862be6cb3f41469b009393eaaf7e7e5df1364cb7eea406"
+      },
+      "extracted": 69
+    },
+    {
+      "id": "plugin-SaiyajinK-Easy-Restart-Reload-for-Steam",
+      "kind": "plugin",
+      "name": "Easy Restart / Reload for Steam",
+      "repository": "SaiyajinK/Easy-Restart-Reload-for-Steam",
+      "revision": "dc79ae21c6a71af946fd71b5867eee1b179ea184",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/SaiyajinK/Easy-Restart-Reload-for-Steam/zip/dc79ae21c6a71af946fd71b5867eee1b179ea184",
+        "sha256": "abb709f83e54a95341e1fbf879749d64a0c9633c4256d59990160cf797d610c6",
+        "localeFiles": []
+      },
+      "extracted": 19
+    },
+    {
+      "id": "plugin-diemonic1-RSS-feed-in-whats-new",
+      "kind": "plugin",
+      "name": "RSS feed in whats new",
+      "repository": "diemonic1/RSS-feed-in-whats-new",
+      "revision": "dbce337c1e847021d8007f11d385254526e96766",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/diemonic1/RSS-feed-in-whats-new/zip/dbce337c1e847021d8007f11d385254526e96766",
+        "sha256": "dd241d90d7231370f9c48bed7dea8687a2b6d0a36d88ef5424c8f376cc7fe15a",
+        "localeFiles": []
+      },
+      "extracted": 15
+    },
+    {
+      "id": "plugin-Inceptofn-Steam-GameRenamer-Plugin",
+      "kind": "plugin",
+      "name": "Game Renamer",
+      "repository": "Inceptofn/Steam-GameRenamer-Plugin",
+      "revision": "f24a9eeeac350bf6ede9baa4af289e9d4d1cedef",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/Inceptofn/Steam-GameRenamer-Plugin/zip/f24a9eeeac350bf6ede9baa4af289e9d4d1cedef",
+        "sha256": "a9ca832fe368a3207e9d1b0ab3546ee7055f3a015aec97bc03cfc0d3dae642cd",
+        "localeFiles": []
+      },
+      "extracted": 9
+    },
+    {
+      "id": "plugin-BossSloth-SteamHunter-plugin",
+      "kind": "plugin",
+      "name": "Achievement Groups",
+      "repository": "BossSloth/SteamHunter-plugin",
+      "revision": "3662d0fa4f32a0b7d4151004cd241fe009b36f0d",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/BossSloth/SteamHunter-plugin/zip/3662d0fa4f32a0b7d4151004cd241fe009b36f0d",
+        "sha256": "6fbf4fd52d895b3b2d247839b5c65bb0f0ff7a7fa209668f7e7ae733d809f76d",
+        "localeFiles": []
+      },
+      "extracted": 36
+    },
+    {
+      "id": "plugin-AdamRaichu-aacla",
+      "kind": "plugin",
+      "name": "Auto Accept Custom Launch Arguments",
+      "repository": "AdamRaichu/aacla",
+      "revision": "084d32b5947103aa36fec083db78b51fd80edd3b",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/AdamRaichu/aacla/zip/084d32b5947103aa36fec083db78b51fd80edd3b",
+        "sha256": "7d9784fe557e371c7afc80e06f0fa24021cf584e9529544dda06283df3a76e4c",
+        "localeFiles": []
+      },
+      "extracted": 2
+    },
+    {
+      "id": "plugin-ricewind012-aerothemesteam",
+      "kind": "plugin",
+      "name": "Microsoft Office 2007 Styled Theme plugin",
+      "repository": "ricewind012/aerothemesteam",
+      "revision": "01471375c1ea2b57244a206edea73c3e322d2634",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/ricewind012/aerothemesteam/zip/01471375c1ea2b57244a206edea73c3e322d2634",
+        "sha256": "7031338b2963f71c871da76e26a24daef599ff4da1c19059e71b18f9d255abd0",
+        "localeFiles": [
+          "aerothemesteam-01471375c1ea2b57244a206edea73c3e322d2634/locales/english.json",
+          "aerothemesteam-01471375c1ea2b57244a206edea73c3e322d2634/locales/schinese.json"
+        ]
+      },
+      "extracted": 18
+    },
+    {
+      "id": "plugin-Shightrox-millennium-cs2-profile-stats",
+      "kind": "plugin",
+      "name": "CS2 Profile Stats",
+      "repository": "Shightrox/millennium-cs2-profile-stats",
+      "revision": "7e484ddb86ad4160d92106c2ad9a3e95faa97627",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/Shightrox/millennium-cs2-profile-stats/zip/7e484ddb86ad4160d92106c2ad9a3e95faa97627",
+        "sha256": "4710833eaa7adff257f58f106e6fbae084762af73c2bd7708c85e27212e4f0d8",
+        "localeFiles": []
+      },
+      "extracted": 23
+    },
+    {
+      "id": "plugin-TOR968-csstats-extension",
+      "kind": "plugin",
+      "name": "CSStats.gg Extension",
+      "repository": "TOR968/csstats-extension",
+      "revision": "86dca7f0c6c76d3b7a1f9a912a1f663726374d9f",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/TOR968/csstats-extension/zip/86dca7f0c6c76d3b7a1f9a912a1f663726374d9f",
+        "sha256": "2299cda444bae528025af4b3c076a16bc72c8528c196952479fc3a56a8dd626d",
+        "localeFiles": []
+      },
+      "extracted": 6
+    },
+    {
+      "id": "plugin-Leon135-cswatch-plugin",
+      "kind": "plugin",
+      "name": "CSWatch Plugin",
+      "repository": "Leon135/cswatch-plugin",
+      "revision": "6d6387f3d2699cc1bc6c0e1ee99b612160745dba",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/Leon135/cswatch-plugin/zip/6d6387f3d2699cc1bc6c0e1ee99b612160745dba",
+        "sha256": "f7551bb1704e55b6c6910930ee616bfb3bf89ad8de1709ca30078a9e2848f457",
+        "localeFiles": []
+      },
+      "extracted": 2
+    },
+    {
+      "id": "plugin-BambooFury-Dota-Stats",
+      "kind": "plugin",
+      "name": "Dota 2 Stats",
+      "repository": "BambooFury/Dota-Stats",
+      "revision": "586a34da0c0c8cce1883c6d97b3208ae2eb1037b",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/BambooFury/Dota-Stats/zip/586a34da0c0c8cce1883c6d97b3208ae2eb1037b",
+        "sha256": "cb3c9f9bb1c38f9ea1be105542ecac10100634c469116392edb66168a322b228",
+        "localeFiles": []
+      },
+      "extracted": 14
+    },
+    {
+      "id": "plugin-ejalxndr-dwmx",
+      "kind": "plugin",
+      "name": "Window Styler (DWMX)",
+      "repository": "ejalxndr/dwmx",
+      "revision": "28c1a17f533d0ae5e98745616e859548912898e0",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/ejalxndr/dwmx/zip/28c1a17f533d0ae5e98745616e859548912898e0",
+        "sha256": "59d155969b6ea26131a591c66ae1def4898d373a09731fc0f36b270545b929e3",
+        "localeFiles": []
+      },
+      "extracted": 2
+    },
+    {
+      "id": "plugin-BossSloth-Extendium",
+      "kind": "plugin",
+      "name": "Extendium",
+      "repository": "BossSloth/Extendium",
+      "revision": "3f9ffb0cd9ada58a7de7f71b3ed8d094ca7130f6",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/BossSloth/Extendium/zip/3f9ffb0cd9ada58a7de7f71b3ed8d094ca7130f6",
+        "sha256": "810afc12e451ff41978e8c15752df2cbadcd11f27fd3adebf88e821c0de8084d",
+        "localeFiles": []
+      },
+      "extracted": 67
+    },
+    {
+      "id": "plugin-k0d13-steam-fullscreen-notifications-fix",
+      "kind": "plugin",
+      "name": "Fullscreen Notifications Fix",
+      "repository": "k0d13/steam-fullscreen-notifications-fix",
+      "revision": "a811555dafaef174a98e414098f4725d5ccaaa31",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/k0d13/steam-fullscreen-notifications-fix/zip/a811555dafaef174a98e414098f4725d5ccaaa31",
+        "sha256": "7ab9f3528a62917d474e6ab45f7a6958d15417947a5bf6c9cc1763c98f6e527e",
+        "localeFiles": []
+      },
+      "extracted": 2
+    },
+    {
+      "id": "plugin-BlythT-Gratitude-Millennium-Plugin",
+      "kind": "plugin",
+      "name": "Gratitude - Gifted Games Reminder",
+      "repository": "BlythT/Gratitude-Millennium-Plugin",
+      "revision": "47fb9dcb58478e2f72e37a617d90b3e8645ee331",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/BlythT/Gratitude-Millennium-Plugin/zip/47fb9dcb58478e2f72e37a617d90b3e8645ee331",
+        "sha256": "655d27170eb2ff1f13fda98f276ba455faf6507bff26c7d26f409b6b6a330084",
+        "localeFiles": []
+      },
+      "extracted": 32
+    },
+    {
+      "id": "plugin-jcdoll-hltb-millennium-plugin",
+      "kind": "plugin",
+      "name": "HLTB for Steam",
+      "repository": "jcdoll/hltb-millennium-plugin",
+      "revision": "7decc0a06bb26b365a779c9d1a85195834c940e1",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/jcdoll/hltb-millennium-plugin/zip/7decc0a06bb26b365a779c9d1a85195834c940e1",
+        "sha256": "0edd1bf068315df95d15ff280ed83fccd5c36a367b19f92e8057031f0beddc17",
+        "localeFiles": []
+      },
+      "extracted": 27
+    },
+    {
+      "id": "plugin-TOR968-leetify-extension",
+      "kind": "plugin",
+      "name": "Leetify Extension",
+      "repository": "TOR968/leetify-extension",
+      "revision": "80082ced08186ceeca7ab9fdcd388fe632b8c633",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/TOR968/leetify-extension/zip/80082ced08186ceeca7ab9fdcd388fe632b8c633",
+        "sha256": "970c5727d3d74694cc73182f719d7d4ac993803e180cfe379af6320dca4567c4",
+        "localeFiles": []
+      },
+      "extracted": 4
+    },
+    {
+      "id": "plugin-alowave-millennium-faceit-stats",
+      "kind": "plugin",
+      "name": "FaceIt Stats",
+      "repository": "alowave/millennium-faceit-stats",
+      "revision": "3e55d6bb2275bace8d4e83087fb832919b83ef71",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/alowave/millennium-faceit-stats/zip/3e55d6bb2275bace8d4e83087fb832919b83ef71",
+        "sha256": "1af6581b3afd012d9e7583f2896ec0a23ae7db161d1d3f2704dd67eb96ade596",
+        "localeFiles": []
+      },
+      "extracted": 2
+    },
+    {
+      "id": "plugin-xwxfox-millennium-uwp-library-sync",
+      "kind": "plugin",
+      "name": "UWP & XBOX Library Sync",
+      "repository": "xwxfox/millennium-uwp-library-sync",
+      "revision": "d419ff8959a05af0602a1674de86ac6ed4cf0a03",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/xwxfox/millennium-uwp-library-sync/zip/d419ff8959a05af0602a1674de86ac6ed4cf0a03",
+        "sha256": "6e06c4964e3d501d97f295eafbcd02520f68399b00f80a376a56453b2d10dc25",
+        "localeFiles": []
+      },
+      "extracted": 28
+    },
+    {
+      "id": "plugin-k0d13-steam-non-steam-playtimes",
+      "kind": "plugin",
+      "name": "Non-Steam Playtimes",
+      "repository": "k0d13/steam-non-steam-playtimes",
+      "revision": "f2c14ecbc0cfcdff6bba5f1d703231ec6037588f",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/k0d13/steam-non-steam-playtimes/zip/f2c14ecbc0cfcdff6bba5f1d703231ec6037588f",
+        "sha256": "663f0d7f55eda31a5f2898b538626e8adf47c64ef21f746991f7ff2450d11eb0",
+        "localeFiles": []
+      },
+      "extracted": 6
+    },
+    {
+      "id": "plugin-swindlesmccoop-playercount-badge",
+      "kind": "plugin",
+      "name": "Player Count",
+      "repository": "swindlesmccoop/playercount-badge",
+      "revision": "9af7579b3a61ede809a090f4d5d095c2684688ed",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/swindlesmccoop/playercount-badge/zip/9af7579b3a61ede809a090f4d5d095c2684688ed",
+        "sha256": "93f7ae051ddce867cfda06a68fc34c2f79bc768186da8f258e450388efea4dcd",
+        "localeFiles": []
+      },
+      "extracted": 3
+    },
+    {
+      "id": "plugin-unicxrn-protondb-millennium",
+      "kind": "plugin",
+      "name": "ProtonDB",
+      "repository": "unicxrn/protondb-millennium",
+      "revision": "7913678dca9592b28d2f619aeefd47b06ebf36a2",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/unicxrn/protondb-millennium/zip/7913678dca9592b28d2f619aeefd47b06ebf36a2",
+        "sha256": "906d913687472a44752fc63c581ab1ec901145f58b87fb7ac9697a798b69abc0",
+        "localeFiles": []
+      },
+      "extracted": 18
+    },
+    {
+      "id": "plugin-Yohlo-protondb-library-badges",
+      "kind": "plugin",
+      "name": "ProtonDB Library Badges",
+      "repository": "Yohlo/protondb-library-badges",
+      "revision": "3e3ea9402a1f729e629270afdcc481c12f31bb42",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/Yohlo/protondb-library-badges/zip/3e3ea9402a1f729e629270afdcc481c12f31bb42",
+        "sha256": "5aa648ed7dee7ca0b50f849b7cd9bcd84aa5a88a44d9b6028f89347a264a95bf",
+        "localeFiles": []
+      },
+      "extracted": 23
+    },
+    {
+      "id": "plugin-nyakuoff-protondb-badge",
+      "kind": "plugin",
+      "name": "ProtonDB Status",
+      "repository": "nyakuoff/protondb-badge",
+      "revision": "b8c8b430d1df1ca90285af354d369b5cdb45131c",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/nyakuoff/protondb-badge/zip/b8c8b430d1df1ca90285af354d369b5cdb45131c",
+        "sha256": "ee599b2d5bc6b1f4d4fca47555e623eac77db3beda1429f0cc848bc17c14e332",
+        "localeFiles": []
+      },
+      "extracted": 3
+    },
+    {
+      "id": "plugin-Alex979-Steam-Recent-Chats-plugin",
+      "kind": "plugin",
+      "name": "Recent Chats",
+      "repository": "Alex979/Steam-Recent-Chats-plugin",
+      "revision": "37eed4d594eea5986839738a79a3bcda0a59b365",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/Alex979/Steam-Recent-Chats-plugin/zip/37eed4d594eea5986839738a79a3bcda0a59b365",
+        "sha256": "5501e0fe730240688ccd3b9757ce31dca578ba52187b1da5fb6e45a887b23578",
+        "localeFiles": []
+      },
+      "extracted": 5
+    },
+    {
+      "id": "plugin-k0d13-steam-size-on-disk",
+      "kind": "plugin",
+      "name": "Size on Disk",
+      "repository": "k0d13/steam-size-on-disk",
+      "revision": "35ee6ab7a221429766ddafcee4d7a2a288246ecc",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/k0d13/steam-size-on-disk/zip/35ee6ab7a221429766ddafcee4d7a2a288246ecc",
+        "sha256": "e021def2c3107ff41fe39ab32369fa1f18a03833cf21707d7b4ed7c6fff587e1",
+        "localeFiles": []
+      },
+      "extracted": 7
+    },
+    {
+      "id": "plugin-SalvadorCorreia-Sortium",
+      "kind": "plugin",
+      "name": "Sortium",
+      "repository": "SalvadorCorreia/Sortium",
+      "revision": "d6a286c51cdbb10765606d0e92fb35b3e14216fa",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/SalvadorCorreia/Sortium/zip/d6a286c51cdbb10765606d0e92fb35b3e14216fa",
+        "sha256": "4f801c3d9e1f0d72d57a16c7b8604cd8fcdb27644cb6637fc41c2fa2358f4928",
+        "localeFiles": []
+      },
+      "extracted": 42
+    },
+    {
+      "id": "plugin-ricewind012-steam-browser-history",
+      "kind": "plugin",
+      "name": "Browser History",
+      "repository": "ricewind012/steam-browser-history",
+      "revision": "8214f3641be641610e8237f9e14a21fdcbb4a735",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/ricewind012/steam-browser-history/zip/8214f3641be641610e8237f9e14a21fdcbb4a735",
+        "sha256": "27c321505889a8fcf4f3df426d4a69e604f5d0d64de03482918e350f453d388f",
+        "localeFiles": []
+      },
+      "extracted": 3
+    },
+    {
+      "id": "plugin-ricewind012-steam-change-window-params",
+      "kind": "plugin",
+      "name": "Change Window Params",
+      "repository": "ricewind012/steam-change-window-params",
+      "revision": "ee57e92f9fe4f058082f8eb35b8ccbb2437cf4be",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/ricewind012/steam-change-window-params/zip/ee57e92f9fe4f058082f8eb35b8ccbb2437cf4be",
+        "sha256": "7aeba7bdb571c03e31c85e16bf7eaee74beacd04efa637b9a4cb929c2c4c713b",
+        "localeFiles": [
+          "steam-change-window-params-ee57e92f9fe4f058082f8eb35b8ccbb2437cf4be/locales/english.json"
+        ]
+      },
+      "extracted": 49
+    },
+    {
+      "id": "plugin-luthor112-steam-collections-plus",
+      "kind": "plugin",
+      "name": "Collections+",
+      "repository": "luthor112/steam-collections-plus",
+      "revision": "b5ab1f267a9a148f5c4c7a0e94263a6886c0af2a",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/luthor112/steam-collections-plus/zip/b5ab1f267a9a148f5c4c7a0e94263a6886c0af2a",
+        "sha256": "f1e2543c83d8de1a53bdbfb84090f390fdafedd2215308e31aba07f878622459",
+        "localeFiles": []
+      },
+      "extracted": 49
+    },
+    {
+      "id": "plugin-luthor112-steam-easygrid",
+      "kind": "plugin",
+      "name": "Easy SteamGrid",
+      "repository": "luthor112/steam-easygrid",
+      "revision": "3be3c47ec244d722393be79a6868c35688672c22",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/luthor112/steam-easygrid/zip/3be3c47ec244d722393be79a6868c35688672c22",
+        "sha256": "201e0a25cd190ad8774f8f8f476f4277ae51d2570dc1162d06f1d9b0467c3036",
+        "localeFiles": []
+      },
+      "extracted": 71
+    },
+    {
+      "id": "plugin-BlafKing-steam-global-launch-options",
+      "kind": "plugin",
+      "name": "Global Launch Options",
+      "repository": "BlafKing/steam-global-launch-options",
+      "revision": "0043e8ccf244739c18023be80a48509b6c8afade",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/BlafKing/steam-global-launch-options/zip/0043e8ccf244739c18023be80a48509b6c8afade",
+        "sha256": "3a9785f8eea7b36f12ba1b828a2d8b4ab53335cf0db17ba7a57745f05516c543",
+        "localeFiles": []
+      },
+      "extracted": 5
+    },
+    {
+      "id": "plugin-luthor112-steam-librarian",
+      "kind": "plugin",
+      "name": "Steam Librarian",
+      "repository": "luthor112/steam-librarian",
+      "revision": "c9e5974ad242a6ac0f4918eb0583877f6ea6431c",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/luthor112/steam-librarian/zip/c9e5974ad242a6ac0f4918eb0583877f6ea6431c",
+        "sha256": "6e19e3d1a3c4ededdbd23bd8ee9ea2819b8d9da13388621932331a7a79fd4117",
+        "localeFiles": []
+      },
+      "extracted": 44
+    },
+    {
+      "id": "plugin-luthor112-steam-logo-pos",
+      "kind": "plugin",
+      "name": "Custom Logo Position",
+      "repository": "luthor112/steam-logo-pos",
+      "revision": "d9261ed33b8b18a6db6aadabbf9af32f42e35da1",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/luthor112/steam-logo-pos/zip/d9261ed33b8b18a6db6aadabbf9af32f42e35da1",
+        "sha256": "f5cd7e714a4d1399b831825e5d0996508ae9529988d1557e4142198186cf9ce2",
+        "localeFiles": []
+      },
+      "extracted": 10
+    },
+    {
+      "id": "plugin-wopln-Steam-Share",
+      "kind": "plugin",
+      "name": "Steam Share",
+      "repository": "wopln/Steam-Share",
+      "revision": "fe22a68ff5184a93a101e5832aa2c91b38486043",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/wopln/Steam-Share/zip/fe22a68ff5184a93a101e5832aa2c91b38486043",
+        "sha256": "310156925885b4c7f4428e89c8b39e33192b27a364a3036668acfa9d1b5e0984",
+        "localeFiles": []
+      },
+      "extracted": 4
+    },
+    {
+      "id": "plugin-luthor112-steam-taskbar-progress",
+      "kind": "plugin",
+      "name": "Taskbar Download progress",
+      "repository": "luthor112/steam-taskbar-progress",
+      "revision": "56678fd10dba9826d34fcf8e6630fe1c099360e1",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/luthor112/steam-taskbar-progress/zip/56678fd10dba9826d34fcf8e6630fe1c099360e1",
+        "sha256": "8a76d8892d0c346988c8dda33706353983186f582b3a8562959ee95698f65170",
+        "localeFiles": []
+      },
+      "extracted": 2
+    },
+    {
+      "id": "plugin-veygax-valve-internal-enabler",
+      "kind": "plugin",
+      "name": "Valve Internal Enabler",
+      "repository": "veygax/valve-internal-enabler",
+      "revision": "e83934d658283d1db32a06567b024dd876dd8f53",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/veygax/valve-internal-enabler/zip/e83934d658283d1db32a06567b024dd876dd8f53",
+        "sha256": "e7f047973105d1009ba88f62e5d03a80ce0f04453cf4af1fca525cd903cf7171",
+        "localeFiles": []
+      },
+      "extracted": 2
+    }
+  ],
+  "counts": {
+    "themes": 26,
+    "plugins": 36,
+    "extracted": 2020
+  }
+}

@@ -1,10 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { createServer } from 'node:http';
 import { JSDOM } from 'jsdom';
 import { readFile } from 'node:fs/promises';
 import { createTranslationStore, downloadLanguage } from '../src/translation-store.js';
-import { createWebdavSync, SyncConflict } from '../src/webdav-sync.js';
 import { mountEditor } from '../src/editor.js';
 
 function memoryStorage() {
@@ -43,55 +41,6 @@ test('a remote catalog cannot redirect language download outside the repository'
   }), /not available/);
 });
 
-test('WebDAV client uploads, downloads and rejects concurrent remote changes using real HTTP', async t => {
-  let body = null;
-  let revision = 0;
-  const server = createServer(async (request, response) => {
-    const chunks = [];
-    for await (const chunk of request) chunks.push(chunk);
-    if (request.method === 'GET') {
-      if (body === null) { response.writeHead(404); response.end(); return; }
-      response.writeHead(200, { ETag: `"${revision}"`, 'Content-Type': 'application/json' }); response.end(body); return;
-    }
-    if (request.method === 'PUT') {
-      if (request.headers['if-none-match'] === '*' && body !== null || request.headers['if-match'] && request.headers['if-match'] !== `"${revision}"`) {
-        response.writeHead(412); response.end(); return;
-      }
-      body = Buffer.concat(chunks).toString(); revision++;
-      response.writeHead(201); response.end(); return;
-    }
-    response.writeHead(405); response.end();
-  });
-  await new Promise(resolve => server.listen(0, '127.0.0.1', resolve));
-  t.after(() => new Promise(resolve => server.close(resolve)));
-  const url = `http://127.0.0.1:${server.address().port}`;
-  const source = createTranslationStore(memoryStorage());
-  source.saveDictionary('fr', { Save: 'Enregistrer' });
-  const client = createWebdavSync({ url, path: '/dictionary.json', password: 'not-in-snapshot' }, source);
-  await client.upload();
-  assert.equal(body.includes('not-in-snapshot'), false);
-  const destination = createTranslationStore(memoryStorage());
-  const secondClient = createWebdavSync({ url, path: '/dictionary.json' }, destination);
-  await secondClient.download();
-  assert.deepEqual(destination.getDictionary(), { Save: 'Enregistrer' });
-  source.saveDictionary('fr', { Save: 'Sauvegarder' });
-  await client.upload();
-  destination.saveDictionary('fr', { Save: 'Conflicting edit' });
-  await secondClient.check();
-  await assert.rejects(secondClient.upload(), SyncConflict);
-  assert.equal(JSON.parse(body).dictionaries.fr.Save, 'Sauvegarder');
-});
-
-test('checking an existing remote file does not grant permission to overwrite it', async () => {
-  const store = createTranslationStore(memoryStorage());
-  store.saveDictionary('en', { Save: 'Save' });
-  const sync = createWebdavSync({ url: 'https://dav.example' }, store, () => ({
-    getFileContents: async () => ({ data: JSON.stringify(store.exportSnapshot()), headers: { etag: '"1"' } }),
-    putFileContents: async () => { throw new Error('Must not upload'); }
-  }));
-  assert.deepEqual(await sync.check(), { exists: true });
-  await assert.rejects(sync.upload(), SyncConflict);
-});
 
 test('the editor switches all plugin labels to English and restores its host on disposal', () => {
   const dom = new JSDOM('<div id="host" style="position:static;height:700px"></div>', { url: 'https://steam.local' });
@@ -110,6 +59,8 @@ test('the editor switches all plugin labels to English and restores its host on 
     select.value = 'en'; select.dispatchEvent(new dom.window.Event('change'));
     assert.equal(doc.querySelector('h1').textContent, 'Translations');
     assert.equal(doc.querySelector('button').textContent, 'Apply & save');
+    assert.equal(doc.querySelector('input[type="password"]'), null);
+    assert.equal(doc.querySelector('details'), null);
     assert.equal(store.uiLanguage, 'en');
     editor.dispose();
     assert.equal(doc.querySelector('section'), null);

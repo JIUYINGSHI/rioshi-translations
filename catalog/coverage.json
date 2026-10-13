@@ -1,0 +1,2485 @@
+{
+  "generatedAt": "2026-10-13T01:08:53.990Z",
+  "catalogDate": "2026-10-13T01:08:14.055Z",
+  "counts": {
+    "themes": 26,
+    "plugins": 36,
+    "extracted": 2020
+  },
+  "extractionLimitations": [
+    "Static display text only; dynamic strings need runtime inspection.",
+    "Paid/promoted themes absent from official API are not part of the 26-item inventory.",
+    "Machine drafts are not human-reviewed."
+  ],
+  "languages": {
+    "en": {
+      "extracted": 1862,
+      "translated": 1862,
+      "missing": [],
+      "machineDrafts": 0,
+      "nativeEntries": 0
+    },
+    "zh-CN": {
+      "extracted": 1862,
+      "translated": 1862,
+      "missing": [],
+      "machineDrafts": 1739,
+      "nativeEntries": 29
+    },
+    "es": {
+      "extracted": 1862,
+      "translated": 1862,
+      "missing": [],
+      "machineDrafts": 1752,
+      "nativeEntries": 76
+    },
+    "fr": {
+      "extracted": 1862,
+      "translated": 1862,
+      "missing": [],
+      "machineDrafts": 1794,
+      "nativeEntries": 17
+    },
+    "de": {
+      "extracted": 1862,
+      "translated": 1862,
+      "missing": [],
+      "machineDrafts": 1793,
+      "nativeEntries": 17
+    },
+    "pt-BR": {
+      "extracted": 1862,
+      "translated": 1862,
+      "missing": [],
+      "machineDrafts": 1794,
+      "nativeEntries": 17
+    },
+    "ja": {
+      "extracted": 1862,
+      "translated": 1862,
+      "missing": [],
+      "machineDrafts": 1789,
+      "nativeEntries": 17
+    }
+  },
+  "projects": [
+    {
+      "id": "plugin-AdamRaichu-aacla",
+      "name": "Auto Accept Custom Launch Arguments",
+      "kind": "plugin",
+      "repository": "AdamRaichu/aacla",
+      "revision": "084d32b5947103aa36fec083db78b51fd80edd3b",
+      "extracted": 2,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 2,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 2,
+          "missing": []
+        },
+        "es": {
+          "translated": 2,
+          "missing": []
+        },
+        "fr": {
+          "translated": 2,
+          "missing": []
+        },
+        "de": {
+          "translated": 2,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 2,
+          "missing": []
+        },
+        "ja": {
+          "translated": 2,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-Alex979-Steam-Recent-Chats-plugin",
+      "name": "Recent Chats",
+      "kind": "plugin",
+      "repository": "Alex979/Steam-Recent-Chats-plugin",
+      "revision": "37eed4d594eea5986839738a79a3bcda0a59b365",
+      "extracted": 5,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 5,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 5,
+          "missing": []
+        },
+        "es": {
+          "translated": 5,
+          "missing": []
+        },
+        "fr": {
+          "translated": 5,
+          "missing": []
+        },
+        "de": {
+          "translated": 5,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 5,
+          "missing": []
+        },
+        "ja": {
+          "translated": 5,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-alowave-millennium-faceit-stats",
+      "name": "FaceIt Stats",
+      "kind": "plugin",
+      "repository": "alowave/millennium-faceit-stats",
+      "revision": "3e55d6bb2275bace8d4e83087fb832919b83ef71",
+      "extracted": 2,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 2,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 2,
+          "missing": []
+        },
+        "es": {
+          "translated": 2,
+          "missing": []
+        },
+        "fr": {
+          "translated": 2,
+          "missing": []
+        },
+        "de": {
+          "translated": 2,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 2,
+          "missing": []
+        },
+        "ja": {
+          "translated": 2,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-BambooFury-Dota-Stats",
+      "name": "Dota 2 Stats",
+      "kind": "plugin",
+      "repository": "BambooFury/Dota-Stats",
+      "revision": "586a34da0c0c8cce1883c6d97b3208ae2eb1037b",
+      "extracted": 14,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 14,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 14,
+          "missing": []
+        },
+        "es": {
+          "translated": 14,
+          "missing": []
+        },
+        "fr": {
+          "translated": 14,
+          "missing": []
+        },
+        "de": {
+          "translated": 14,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 14,
+          "missing": []
+        },
+        "ja": {
+          "translated": 14,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-BlafKing-steam-global-launch-options",
+      "name": "Global Launch Options",
+      "kind": "plugin",
+      "repository": "BlafKing/steam-global-launch-options",
+      "revision": "0043e8ccf244739c18023be80a48509b6c8afade",
+      "extracted": 5,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 5,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 5,
+          "missing": []
+        },
+        "es": {
+          "translated": 5,
+          "missing": []
+        },
+        "fr": {
+          "translated": 5,
+          "missing": []
+        },
+        "de": {
+          "translated": 5,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 5,
+          "missing": []
+        },
+        "ja": {
+          "translated": 5,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-BlythT-Gratitude-Millennium-Plugin",
+      "name": "Gratitude - Gifted Games Reminder",
+      "kind": "plugin",
+      "repository": "BlythT/Gratitude-Millennium-Plugin",
+      "revision": "47fb9dcb58478e2f72e37a617d90b3e8645ee331",
+      "extracted": 32,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 32,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 32,
+          "missing": []
+        },
+        "es": {
+          "translated": 32,
+          "missing": []
+        },
+        "fr": {
+          "translated": 32,
+          "missing": []
+        },
+        "de": {
+          "translated": 32,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 32,
+          "missing": []
+        },
+        "ja": {
+          "translated": 32,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-BossSloth-Extendium",
+      "name": "Extendium",
+      "kind": "plugin",
+      "repository": "BossSloth/Extendium",
+      "revision": "3f9ffb0cd9ada58a7de7f71b3ed8d094ca7130f6",
+      "extracted": 67,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 67,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 67,
+          "missing": []
+        },
+        "es": {
+          "translated": 67,
+          "missing": []
+        },
+        "fr": {
+          "translated": 67,
+          "missing": []
+        },
+        "de": {
+          "translated": 67,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 67,
+          "missing": []
+        },
+        "ja": {
+          "translated": 67,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-BossSloth-SteamHunter-plugin",
+      "name": "Achievement Groups",
+      "kind": "plugin",
+      "repository": "BossSloth/SteamHunter-plugin",
+      "revision": "3662d0fa4f32a0b7d4151004cd241fe009b36f0d",
+      "extracted": 36,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 36,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 36,
+          "missing": []
+        },
+        "es": {
+          "translated": 36,
+          "missing": []
+        },
+        "fr": {
+          "translated": 36,
+          "missing": []
+        },
+        "de": {
+          "translated": 36,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 36,
+          "missing": []
+        },
+        "ja": {
+          "translated": 36,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-diemonic1-RSS-feed-in-whats-new",
+      "name": "RSS feed in whats new",
+      "kind": "plugin",
+      "repository": "diemonic1/RSS-feed-in-whats-new",
+      "revision": "dbce337c1e847021d8007f11d385254526e96766",
+      "extracted": 15,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 15,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 15,
+          "missing": []
+        },
+        "es": {
+          "translated": 15,
+          "missing": []
+        },
+        "fr": {
+          "translated": 15,
+          "missing": []
+        },
+        "de": {
+          "translated": 15,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 15,
+          "missing": []
+        },
+        "ja": {
+          "translated": 15,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-ejalxndr-dwmx",
+      "name": "Window Styler (DWMX)",
+      "kind": "plugin",
+      "repository": "ejalxndr/dwmx",
+      "revision": "28c1a17f533d0ae5e98745616e859548912898e0",
+      "extracted": 2,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 2,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 2,
+          "missing": []
+        },
+        "es": {
+          "translated": 2,
+          "missing": []
+        },
+        "fr": {
+          "translated": 2,
+          "missing": []
+        },
+        "de": {
+          "translated": 2,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 2,
+          "missing": []
+        },
+        "ja": {
+          "translated": 2,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-Inceptofn-Steam-GameRenamer-Plugin",
+      "name": "Game Renamer",
+      "kind": "plugin",
+      "repository": "Inceptofn/Steam-GameRenamer-Plugin",
+      "revision": "f24a9eeeac350bf6ede9baa4af289e9d4d1cedef",
+      "extracted": 9,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 9,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 9,
+          "missing": []
+        },
+        "es": {
+          "translated": 9,
+          "missing": []
+        },
+        "fr": {
+          "translated": 9,
+          "missing": []
+        },
+        "de": {
+          "translated": 9,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 9,
+          "missing": []
+        },
+        "ja": {
+          "translated": 9,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-jcdoll-hltb-millennium-plugin",
+      "name": "HLTB for Steam",
+      "kind": "plugin",
+      "repository": "jcdoll/hltb-millennium-plugin",
+      "revision": "7decc0a06bb26b365a779c9d1a85195834c940e1",
+      "extracted": 27,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 27,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 27,
+          "missing": []
+        },
+        "es": {
+          "translated": 27,
+          "missing": []
+        },
+        "fr": {
+          "translated": 27,
+          "missing": []
+        },
+        "de": {
+          "translated": 27,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 27,
+          "missing": []
+        },
+        "ja": {
+          "translated": 27,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-k0d13-steam-fullscreen-notifications-fix",
+      "name": "Fullscreen Notifications Fix",
+      "kind": "plugin",
+      "repository": "k0d13/steam-fullscreen-notifications-fix",
+      "revision": "a811555dafaef174a98e414098f4725d5ccaaa31",
+      "extracted": 2,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 2,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 2,
+          "missing": []
+        },
+        "es": {
+          "translated": 2,
+          "missing": []
+        },
+        "fr": {
+          "translated": 2,
+          "missing": []
+        },
+        "de": {
+          "translated": 2,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 2,
+          "missing": []
+        },
+        "ja": {
+          "translated": 2,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-k0d13-steam-non-steam-playtimes",
+      "name": "Non-Steam Playtimes",
+      "kind": "plugin",
+      "repository": "k0d13/steam-non-steam-playtimes",
+      "revision": "f2c14ecbc0cfcdff6bba5f1d703231ec6037588f",
+      "extracted": 6,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 6,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 6,
+          "missing": []
+        },
+        "es": {
+          "translated": 6,
+          "missing": []
+        },
+        "fr": {
+          "translated": 6,
+          "missing": []
+        },
+        "de": {
+          "translated": 6,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 6,
+          "missing": []
+        },
+        "ja": {
+          "translated": 6,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-k0d13-steam-size-on-disk",
+      "name": "Size on Disk",
+      "kind": "plugin",
+      "repository": "k0d13/steam-size-on-disk",
+      "revision": "35ee6ab7a221429766ddafcee4d7a2a288246ecc",
+      "extracted": 7,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 7,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 7,
+          "missing": []
+        },
+        "es": {
+          "translated": 7,
+          "missing": []
+        },
+        "fr": {
+          "translated": 7,
+          "missing": []
+        },
+        "de": {
+          "translated": 7,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 7,
+          "missing": []
+        },
+        "ja": {
+          "translated": 7,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-Leon135-cswatch-plugin",
+      "name": "CSWatch Plugin",
+      "kind": "plugin",
+      "repository": "Leon135/cswatch-plugin",
+      "revision": "6d6387f3d2699cc1bc6c0e1ee99b612160745dba",
+      "extracted": 2,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 2,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 2,
+          "missing": []
+        },
+        "es": {
+          "translated": 2,
+          "missing": []
+        },
+        "fr": {
+          "translated": 2,
+          "missing": []
+        },
+        "de": {
+          "translated": 2,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 2,
+          "missing": []
+        },
+        "ja": {
+          "translated": 2,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-luthor112-steam-collections-plus",
+      "name": "Collections+",
+      "kind": "plugin",
+      "repository": "luthor112/steam-collections-plus",
+      "revision": "b5ab1f267a9a148f5c4c7a0e94263a6886c0af2a",
+      "extracted": 49,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 49,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 49,
+          "missing": []
+        },
+        "es": {
+          "translated": 49,
+          "missing": []
+        },
+        "fr": {
+          "translated": 49,
+          "missing": []
+        },
+        "de": {
+          "translated": 49,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 49,
+          "missing": []
+        },
+        "ja": {
+          "translated": 49,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-luthor112-steam-easygrid",
+      "name": "Easy SteamGrid",
+      "kind": "plugin",
+      "repository": "luthor112/steam-easygrid",
+      "revision": "3be3c47ec244d722393be79a6868c35688672c22",
+      "extracted": 71,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 71,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 71,
+          "missing": []
+        },
+        "es": {
+          "translated": 71,
+          "missing": []
+        },
+        "fr": {
+          "translated": 71,
+          "missing": []
+        },
+        "de": {
+          "translated": 71,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 71,
+          "missing": []
+        },
+        "ja": {
+          "translated": 71,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-luthor112-steam-librarian",
+      "name": "Steam Librarian",
+      "kind": "plugin",
+      "repository": "luthor112/steam-librarian",
+      "revision": "c9e5974ad242a6ac0f4918eb0583877f6ea6431c",
+      "extracted": 44,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 44,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 44,
+          "missing": []
+        },
+        "es": {
+          "translated": 44,
+          "missing": []
+        },
+        "fr": {
+          "translated": 44,
+          "missing": []
+        },
+        "de": {
+          "translated": 44,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 44,
+          "missing": []
+        },
+        "ja": {
+          "translated": 44,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-luthor112-steam-logo-pos",
+      "name": "Custom Logo Position",
+      "kind": "plugin",
+      "repository": "luthor112/steam-logo-pos",
+      "revision": "d9261ed33b8b18a6db6aadabbf9af32f42e35da1",
+      "extracted": 10,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 10,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 10,
+          "missing": []
+        },
+        "es": {
+          "translated": 10,
+          "missing": []
+        },
+        "fr": {
+          "translated": 10,
+          "missing": []
+        },
+        "de": {
+          "translated": 10,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 10,
+          "missing": []
+        },
+        "ja": {
+          "translated": 10,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-luthor112-steam-taskbar-progress",
+      "name": "Taskbar Download progress",
+      "kind": "plugin",
+      "repository": "luthor112/steam-taskbar-progress",
+      "revision": "56678fd10dba9826d34fcf8e6630fe1c099360e1",
+      "extracted": 2,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 2,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 2,
+          "missing": []
+        },
+        "es": {
+          "translated": 2,
+          "missing": []
+        },
+        "fr": {
+          "translated": 2,
+          "missing": []
+        },
+        "de": {
+          "translated": 2,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 2,
+          "missing": []
+        },
+        "ja": {
+          "translated": 2,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-nyakuoff-protondb-badge",
+      "name": "ProtonDB Status",
+      "kind": "plugin",
+      "repository": "nyakuoff/protondb-badge",
+      "revision": "b8c8b430d1df1ca90285af354d369b5cdb45131c",
+      "extracted": 3,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 3,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 3,
+          "missing": []
+        },
+        "es": {
+          "translated": 3,
+          "missing": []
+        },
+        "fr": {
+          "translated": 3,
+          "missing": []
+        },
+        "de": {
+          "translated": 3,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 3,
+          "missing": []
+        },
+        "ja": {
+          "translated": 3,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-ricewind012-aerothemesteam",
+      "name": "Microsoft Office 2007 Styled Theme plugin",
+      "kind": "plugin",
+      "repository": "ricewind012/aerothemesteam",
+      "revision": "01471375c1ea2b57244a206edea73c3e322d2634",
+      "extracted": 18,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 18,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 18,
+          "missing": []
+        },
+        "es": {
+          "translated": 18,
+          "missing": []
+        },
+        "fr": {
+          "translated": 18,
+          "missing": []
+        },
+        "de": {
+          "translated": 18,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 18,
+          "missing": []
+        },
+        "ja": {
+          "translated": 18,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-ricewind012-steam-browser-history",
+      "name": "Browser History",
+      "kind": "plugin",
+      "repository": "ricewind012/steam-browser-history",
+      "revision": "8214f3641be641610e8237f9e14a21fdcbb4a735",
+      "extracted": 3,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 3,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 3,
+          "missing": []
+        },
+        "es": {
+          "translated": 3,
+          "missing": []
+        },
+        "fr": {
+          "translated": 3,
+          "missing": []
+        },
+        "de": {
+          "translated": 3,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 3,
+          "missing": []
+        },
+        "ja": {
+          "translated": 3,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-ricewind012-steam-change-window-params",
+      "name": "Change Window Params",
+      "kind": "plugin",
+      "repository": "ricewind012/steam-change-window-params",
+      "revision": "ee57e92f9fe4f058082f8eb35b8ccbb2437cf4be",
+      "extracted": 49,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 49,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 49,
+          "missing": []
+        },
+        "es": {
+          "translated": 49,
+          "missing": []
+        },
+        "fr": {
+          "translated": 49,
+          "missing": []
+        },
+        "de": {
+          "translated": 49,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 49,
+          "missing": []
+        },
+        "ja": {
+          "translated": 49,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-SaiyajinK-Easy-Restart-Reload-for-Steam",
+      "name": "Easy Restart / Reload for Steam",
+      "kind": "plugin",
+      "repository": "SaiyajinK/Easy-Restart-Reload-for-Steam",
+      "revision": "dc79ae21c6a71af946fd71b5867eee1b179ea184",
+      "extracted": 19,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 19,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 19,
+          "missing": []
+        },
+        "es": {
+          "translated": 19,
+          "missing": []
+        },
+        "fr": {
+          "translated": 19,
+          "missing": []
+        },
+        "de": {
+          "translated": 19,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 19,
+          "missing": []
+        },
+        "ja": {
+          "translated": 19,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-SalvadorCorreia-Sortium",
+      "name": "Sortium",
+      "kind": "plugin",
+      "repository": "SalvadorCorreia/Sortium",
+      "revision": "d6a286c51cdbb10765606d0e92fb35b3e14216fa",
+      "extracted": 42,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 42,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 42,
+          "missing": []
+        },
+        "es": {
+          "translated": 42,
+          "missing": []
+        },
+        "fr": {
+          "translated": 42,
+          "missing": []
+        },
+        "de": {
+          "translated": 42,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 42,
+          "missing": []
+        },
+        "ja": {
+          "translated": 42,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-Shightrox-millennium-cs2-profile-stats",
+      "name": "CS2 Profile Stats",
+      "kind": "plugin",
+      "repository": "Shightrox/millennium-cs2-profile-stats",
+      "revision": "7e484ddb86ad4160d92106c2ad9a3e95faa97627",
+      "extracted": 23,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 23,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 23,
+          "missing": []
+        },
+        "es": {
+          "translated": 23,
+          "missing": []
+        },
+        "fr": {
+          "translated": 23,
+          "missing": []
+        },
+        "de": {
+          "translated": 23,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 23,
+          "missing": []
+        },
+        "ja": {
+          "translated": 23,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-swindlesmccoop-playercount-badge",
+      "name": "Player Count",
+      "kind": "plugin",
+      "repository": "swindlesmccoop/playercount-badge",
+      "revision": "9af7579b3a61ede809a090f4d5d095c2684688ed",
+      "extracted": 3,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 3,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 3,
+          "missing": []
+        },
+        "es": {
+          "translated": 3,
+          "missing": []
+        },
+        "fr": {
+          "translated": 3,
+          "missing": []
+        },
+        "de": {
+          "translated": 3,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 3,
+          "missing": []
+        },
+        "ja": {
+          "translated": 3,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-TOR968-csstats-extension",
+      "name": "CSStats.gg Extension",
+      "kind": "plugin",
+      "repository": "TOR968/csstats-extension",
+      "revision": "86dca7f0c6c76d3b7a1f9a912a1f663726374d9f",
+      "extracted": 6,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 6,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 6,
+          "missing": []
+        },
+        "es": {
+          "translated": 6,
+          "missing": []
+        },
+        "fr": {
+          "translated": 6,
+          "missing": []
+        },
+        "de": {
+          "translated": 6,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 6,
+          "missing": []
+        },
+        "ja": {
+          "translated": 6,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-TOR968-leetify-extension",
+      "name": "Leetify Extension",
+      "kind": "plugin",
+      "repository": "TOR968/leetify-extension",
+      "revision": "80082ced08186ceeca7ab9fdcd388fe632b8c633",
+      "extracted": 4,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 4,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 4,
+          "missing": []
+        },
+        "es": {
+          "translated": 4,
+          "missing": []
+        },
+        "fr": {
+          "translated": 4,
+          "missing": []
+        },
+        "de": {
+          "translated": 4,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 4,
+          "missing": []
+        },
+        "ja": {
+          "translated": 4,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-unicxrn-protondb-millennium",
+      "name": "ProtonDB",
+      "kind": "plugin",
+      "repository": "unicxrn/protondb-millennium",
+      "revision": "7913678dca9592b28d2f619aeefd47b06ebf36a2",
+      "extracted": 18,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 18,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 18,
+          "missing": []
+        },
+        "es": {
+          "translated": 18,
+          "missing": []
+        },
+        "fr": {
+          "translated": 18,
+          "missing": []
+        },
+        "de": {
+          "translated": 18,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 18,
+          "missing": []
+        },
+        "ja": {
+          "translated": 18,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-veygax-valve-internal-enabler",
+      "name": "Valve Internal Enabler",
+      "kind": "plugin",
+      "repository": "veygax/valve-internal-enabler",
+      "revision": "e83934d658283d1db32a06567b024dd876dd8f53",
+      "extracted": 2,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 2,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 2,
+          "missing": []
+        },
+        "es": {
+          "translated": 2,
+          "missing": []
+        },
+        "fr": {
+          "translated": 2,
+          "missing": []
+        },
+        "de": {
+          "translated": 2,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 2,
+          "missing": []
+        },
+        "ja": {
+          "translated": 2,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-wopln-Steam-Share",
+      "name": "Steam Share",
+      "kind": "plugin",
+      "repository": "wopln/Steam-Share",
+      "revision": "fe22a68ff5184a93a101e5832aa2c91b38486043",
+      "extracted": 4,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 4,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 4,
+          "missing": []
+        },
+        "es": {
+          "translated": 4,
+          "missing": []
+        },
+        "fr": {
+          "translated": 4,
+          "missing": []
+        },
+        "de": {
+          "translated": 4,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 4,
+          "missing": []
+        },
+        "ja": {
+          "translated": 4,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-xwxfox-millennium-uwp-library-sync",
+      "name": "UWP & XBOX Library Sync",
+      "kind": "plugin",
+      "repository": "xwxfox/millennium-uwp-library-sync",
+      "revision": "d419ff8959a05af0602a1674de86ac6ed4cf0a03",
+      "extracted": 28,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 28,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 28,
+          "missing": []
+        },
+        "es": {
+          "translated": 28,
+          "missing": []
+        },
+        "fr": {
+          "translated": 28,
+          "missing": []
+        },
+        "de": {
+          "translated": 28,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 28,
+          "missing": []
+        },
+        "ja": {
+          "translated": 28,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-Yohlo-protondb-library-badges",
+      "name": "ProtonDB Library Badges",
+      "kind": "plugin",
+      "repository": "Yohlo/protondb-library-badges",
+      "revision": "3e3ea9402a1f729e629270afdcc481c12f31bb42",
+      "extracted": 23,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 23,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 23,
+          "missing": []
+        },
+        "es": {
+          "translated": 23,
+          "missing": []
+        },
+        "fr": {
+          "translated": 23,
+          "missing": []
+        },
+        "de": {
+          "translated": 23,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 23,
+          "missing": []
+        },
+        "ja": {
+          "translated": 23,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-1739321142-TsukushiAria-theme",
+      "name": "TsukushiAria",
+      "kind": "theme",
+      "repository": "1739321142/TsukushiAria-theme",
+      "revision": "2704fdf37ca2ec9a978c0ced17be7ed231eb983b",
+      "extracted": 1,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 1,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 1,
+          "missing": []
+        },
+        "es": {
+          "translated": 1,
+          "missing": []
+        },
+        "fr": {
+          "translated": 1,
+          "missing": []
+        },
+        "de": {
+          "translated": 1,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 1,
+          "missing": []
+        },
+        "ja": {
+          "translated": 1,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-aaeriih-umi-asanagi-theme",
+      "name": "umi-asanagi-theme",
+      "kind": "theme",
+      "repository": "aaeriih/umi-asanagi-theme",
+      "revision": "276bb2efedea7d5a694bd8711c472708f8d49b44",
+      "extracted": 12,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 12,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 12,
+          "missing": []
+        },
+        "es": {
+          "translated": 12,
+          "missing": []
+        },
+        "fr": {
+          "translated": 12,
+          "missing": []
+        },
+        "de": {
+          "translated": 12,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 12,
+          "missing": []
+        },
+        "ja": {
+          "translated": 12,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-Br1Rol2-Steam2.0-modular",
+      "name": "Steam 2.0 modular",
+      "kind": "theme",
+      "repository": "Br1Rol2/Steam2.0-modular",
+      "revision": "303b4e88e499d848ac63bb8476d4cc8afa287bee",
+      "extracted": 1,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 1,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 1,
+          "missing": []
+        },
+        "es": {
+          "translated": 1,
+          "missing": []
+        },
+        "fr": {
+          "translated": 1,
+          "missing": []
+        },
+        "de": {
+          "translated": 1,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 1,
+          "missing": []
+        },
+        "ja": {
+          "translated": 1,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-dotFelixan-NEVKO-UI",
+      "name": "NEVKO-UI",
+      "kind": "theme",
+      "repository": "dotFelixan/NEVKO-UI",
+      "revision": "e8ef4a2c92603e6fcd18dd4a22215de30ab27090",
+      "extracted": 87,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 87,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 87,
+          "missing": []
+        },
+        "es": {
+          "translated": 87,
+          "missing": []
+        },
+        "fr": {
+          "translated": 87,
+          "missing": []
+        },
+        "de": {
+          "translated": 87,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 87,
+          "missing": []
+        },
+        "ja": {
+          "translated": 87,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-EugeneXXXie-blueArchiveSteamSkin",
+      "name": "BlueArchive",
+      "kind": "theme",
+      "repository": "EugeneXXXie/blueArchiveSteamSkin",
+      "revision": "7900c02a30b390315dc2ff5e5a86815ceb9abb4e",
+      "extracted": 1,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 1,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 1,
+          "missing": []
+        },
+        "es": {
+          "translated": 1,
+          "missing": []
+        },
+        "fr": {
+          "translated": 1,
+          "missing": []
+        },
+        "de": {
+          "translated": 1,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 1,
+          "missing": []
+        },
+        "ja": {
+          "translated": 1,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-eyedine2-Classic-Steam-Library",
+      "name": "Classic Steam Library",
+      "kind": "theme",
+      "repository": "eyedine2/Classic-Steam-Library",
+      "revision": "ca2e4a36911832d027153a3c83791b58007122d6",
+      "extracted": 5,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 5,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 5,
+          "missing": []
+        },
+        "es": {
+          "translated": 5,
+          "missing": []
+        },
+        "fr": {
+          "translated": 5,
+          "missing": []
+        },
+        "de": {
+          "translated": 5,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 5,
+          "missing": []
+        },
+        "ja": {
+          "translated": 5,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-guyonphone-UltraWide",
+      "name": "UltraWide",
+      "kind": "theme",
+      "repository": "guyonphone/UltraWide",
+      "revision": "c246f651756aba275b30b2c74c5acfc4c62c5d6a",
+      "extracted": 1,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 1,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 1,
+          "missing": []
+        },
+        "es": {
+          "translated": 1,
+          "missing": []
+        },
+        "fr": {
+          "translated": 1,
+          "missing": []
+        },
+        "de": {
+          "translated": 1,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 1,
+          "missing": []
+        },
+        "ja": {
+          "translated": 1,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-iBedro-MontBlack",
+      "name": "Mont Black",
+      "kind": "theme",
+      "repository": "iBedro/MontBlack",
+      "revision": "2213b29724e36c46b67d7c0721a2e7cfe26be995",
+      "extracted": 1,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 1,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 1,
+          "missing": []
+        },
+        "es": {
+          "translated": 1,
+          "missing": []
+        },
+        "fr": {
+          "translated": 1,
+          "missing": []
+        },
+        "de": {
+          "translated": 1,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 1,
+          "missing": []
+        },
+        "ja": {
+          "translated": 1,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-Jonius7-SteamUI-GoldenEra",
+      "name": "SteamUI-GoldenEra",
+      "kind": "theme",
+      "repository": "Jonius7/SteamUI-GoldenEra",
+      "revision": "7a452d3d66dd7b3b71f6af2914aacf5f48d3fd43",
+      "extracted": 46,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 46,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 46,
+          "missing": []
+        },
+        "es": {
+          "translated": 46,
+          "missing": []
+        },
+        "fr": {
+          "translated": 46,
+          "missing": []
+        },
+        "de": {
+          "translated": 46,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 46,
+          "missing": []
+        },
+        "ja": {
+          "translated": 46,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-kuska1-Material-Theme",
+      "name": "Material",
+      "kind": "theme",
+      "repository": "kuska1/Material-Theme",
+      "revision": "f91b4e9cbc5436f149e6b293391a9a96ab47fbe9",
+      "extracted": 188,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 188,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 188,
+          "missing": []
+        },
+        "es": {
+          "translated": 188,
+          "missing": []
+        },
+        "fr": {
+          "translated": 188,
+          "missing": []
+        },
+        "de": {
+          "translated": 188,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 188,
+          "missing": []
+        },
+        "ja": {
+          "translated": 188,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-lil-fluff-no-more-whats-new",
+      "name": "no more whats new",
+      "kind": "theme",
+      "repository": "lil-fluff/no-more-whats-new",
+      "revision": "990d86493d2a0196ea8a6ea0e754b0d96149e74e",
+      "extracted": 1,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 1,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 1,
+          "missing": []
+        },
+        "es": {
+          "translated": 1,
+          "missing": []
+        },
+        "fr": {
+          "translated": 1,
+          "missing": []
+        },
+        "de": {
+          "translated": 1,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 1,
+          "missing": []
+        },
+        "ja": {
+          "translated": 1,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-madmaxgrey-QOL-Toggles-Steam",
+      "name": "QOL Toggles Steam",
+      "kind": "theme",
+      "repository": "madmaxgrey/QOL-Toggles-Steam",
+      "revision": "d6001ed168451133f9992c1284dc6a2030984edb",
+      "extracted": 27,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 27,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 27,
+          "missing": []
+        },
+        "es": {
+          "translated": 27,
+          "missing": []
+        },
+        "fr": {
+          "translated": 27,
+          "missing": []
+        },
+        "de": {
+          "translated": 27,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 27,
+          "missing": []
+        },
+        "ja": {
+          "translated": 27,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-MapleAtMorning-OldSteam-Theme",
+      "name": "OldSteam",
+      "kind": "theme",
+      "repository": "MapleAtMorning/OldSteam-Theme",
+      "revision": "9a7214a90ddc3af1dae14786719103cd7c186e6e",
+      "extracted": 13,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 13,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 13,
+          "missing": []
+        },
+        "es": {
+          "translated": 13,
+          "missing": []
+        },
+        "fr": {
+          "translated": 13,
+          "missing": []
+        },
+        "de": {
+          "translated": 13,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 13,
+          "missing": []
+        },
+        "ja": {
+          "translated": 13,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-Plaer1-ATOMS",
+      "name": "ATOMS",
+      "kind": "theme",
+      "repository": "Plaer1/ATOMS",
+      "revision": "07f6f836b61125e76a3a66fde8f7d624d89fc0d5",
+      "extracted": 11,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 11,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 11,
+          "missing": []
+        },
+        "es": {
+          "translated": 11,
+          "missing": []
+        },
+        "fr": {
+          "translated": 11,
+          "missing": []
+        },
+        "de": {
+          "translated": 11,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 11,
+          "missing": []
+        },
+        "ja": {
+          "translated": 11,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-ricewind012-aerothemesteam",
+      "name": "Microsoft Office 2007 Styled Theme",
+      "kind": "theme",
+      "repository": "ricewind012/aerothemesteam",
+      "revision": "8e176621470fe461dd668fbe46f761768ecc49c1",
+      "extracted": 1,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 1,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 1,
+          "missing": []
+        },
+        "es": {
+          "translated": 1,
+          "missing": []
+        },
+        "fr": {
+          "translated": 1,
+          "missing": []
+        },
+        "de": {
+          "translated": 1,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 1,
+          "missing": []
+        },
+        "ja": {
+          "translated": 1,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-ricewind012-juxtematic",
+      "name": "Juxtematic",
+      "kind": "theme",
+      "repository": "ricewind012/juxtematic",
+      "revision": "dd071f89e340a303a9e11beb005d4127c63c6784",
+      "extracted": 1,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 1,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 1,
+          "missing": []
+        },
+        "es": {
+          "translated": 1,
+          "missing": []
+        },
+        "fr": {
+          "translated": 1,
+          "missing": []
+        },
+        "de": {
+          "translated": 1,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 1,
+          "missing": []
+        },
+        "ja": {
+          "translated": 1,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-ricewind012-win95-themes",
+      "name": "Windows 95",
+      "kind": "theme",
+      "repository": "ricewind012/win95-themes",
+      "revision": "d2ae4fad38f2c2c349ea2a8b31c506bd57c84dbe",
+      "extracted": 10,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 10,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 10,
+          "missing": []
+        },
+        "es": {
+          "translated": 10,
+          "missing": []
+        },
+        "fr": {
+          "translated": 10,
+          "missing": []
+        },
+        "de": {
+          "translated": 10,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 10,
+          "missing": []
+        },
+        "ja": {
+          "translated": 10,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-RoseTheFlower-MetroSteam",
+      "name": "Metro by Rose",
+      "kind": "theme",
+      "repository": "RoseTheFlower/MetroSteam",
+      "revision": "85d3488e426bfecc5a871f10021d3eab55318791",
+      "extracted": 1,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 1,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 1,
+          "missing": []
+        },
+        "es": {
+          "translated": 1,
+          "missing": []
+        },
+        "fr": {
+          "translated": 1,
+          "missing": []
+        },
+        "de": {
+          "translated": 1,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 1,
+          "missing": []
+        },
+        "ja": {
+          "translated": 1,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-SaiyajinK-Minimal-Dark-for-Steam",
+      "name": "Minimal Dark",
+      "kind": "theme",
+      "repository": "SaiyajinK/Minimal-Dark-for-Steam",
+      "revision": "2d5ace019b1a92ecedcb2b81706ab5955db4101e",
+      "extracted": 470,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 470,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 470,
+          "missing": []
+        },
+        "es": {
+          "translated": 470,
+          "missing": []
+        },
+        "fr": {
+          "translated": 470,
+          "missing": []
+        },
+        "de": {
+          "translated": 470,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 470,
+          "missing": []
+        },
+        "ja": {
+          "translated": 470,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-Sennanon87-AeroXP",
+      "name": "Aero XP",
+      "kind": "theme",
+      "repository": "Sennanon87/AeroXP",
+      "revision": "06055fea6a0a41645c1d7fd77669be24dc59da99",
+      "extracted": 68,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 68,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 68,
+          "missing": []
+        },
+        "es": {
+          "translated": 68,
+          "missing": []
+        },
+        "fr": {
+          "translated": 68,
+          "missing": []
+        },
+        "de": {
+          "translated": 68,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 68,
+          "missing": []
+        },
+        "ja": {
+          "translated": 68,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-shdwmtr-simply-dark",
+      "name": "Simple Dark.",
+      "kind": "theme",
+      "repository": "shdwmtr/simply-dark",
+      "revision": "5163dcbca3cbde75e6aad29af0c6025612ba8607",
+      "extracted": 23,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 23,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 23,
+          "missing": []
+        },
+        "es": {
+          "translated": 23,
+          "missing": []
+        },
+        "fr": {
+          "translated": 23,
+          "missing": []
+        },
+        "de": {
+          "translated": 23,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 23,
+          "missing": []
+        },
+        "ja": {
+          "translated": 23,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-SpaceTheme-Steam",
+      "name": "SpaceTheme for Steam",
+      "kind": "theme",
+      "repository": "SpaceTheme/Steam",
+      "revision": "17f93c585fe18056386ccf5a1cb1d47001be29d1",
+      "extracted": 144,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 144,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 144,
+          "missing": []
+        },
+        "es": {
+          "translated": 144,
+          "missing": []
+        },
+        "fr": {
+          "translated": 144,
+          "missing": []
+        },
+        "de": {
+          "translated": 144,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 144,
+          "missing": []
+        },
+        "ja": {
+          "translated": 144,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-tkashkin-Adwaita-for-Steam",
+      "name": "Adwaita",
+      "kind": "theme",
+      "repository": "tkashkin/Adwaita-for-Steam",
+      "revision": "1e92107a51f6ed53c59c38646444c9eb3a52b030",
+      "extracted": 83,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 83,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 83,
+          "missing": []
+        },
+        "es": {
+          "translated": 83,
+          "missing": []
+        },
+        "fr": {
+          "translated": 83,
+          "missing": []
+        },
+        "de": {
+          "translated": 83,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 83,
+          "missing": []
+        },
+        "ja": {
+          "translated": 83,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-Yareli0i-glass-dusk",
+      "name": "Glass Dusk",
+      "kind": "theme",
+      "repository": "Yareli0i/glass-dusk",
+      "revision": "b94a79cae90c24e5c95c7885385791f008dce5c3",
+      "extracted": 69,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 69,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 69,
+          "missing": []
+        },
+        "es": {
+          "translated": 69,
+          "missing": []
+        },
+        "fr": {
+          "translated": 69,
+          "missing": []
+        },
+        "de": {
+          "translated": 69,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 69,
+          "missing": []
+        },
+        "ja": {
+          "translated": 69,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-yufengOvO-steam-leimu",
+      "name": "leimu",
+      "kind": "theme",
+      "repository": "yufengOvO/steam-leimu",
+      "revision": "9c86ffb54991e1b2cad897fa3cd4504d1a9afa5a",
+      "extracted": 12,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 12,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 12,
+          "missing": []
+        },
+        "es": {
+          "translated": 12,
+          "missing": []
+        },
+        "fr": {
+          "translated": 12,
+          "missing": []
+        },
+        "de": {
+          "translated": 12,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 12,
+          "missing": []
+        },
+        "ja": {
+          "translated": 12,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-yurisuika-Zehn",
+      "name": "Zehn",
+      "kind": "theme",
+      "repository": "yurisuika/Zehn",
+      "revision": "3c325be7bb2c7e6ef8aa0e806bc5e5332c020df5",
+      "extracted": 89,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 89,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 89,
+          "missing": []
+        },
+        "es": {
+          "translated": 89,
+          "missing": []
+        },
+        "fr": {
+          "translated": 89,
+          "missing": []
+        },
+        "de": {
+          "translated": 89,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 89,
+          "missing": []
+        },
+        "ja": {
+          "translated": 89,
+          "missing": []
+        }
+      }
+    }
+  ]
+}

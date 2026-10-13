@@ -1,0 +1,8 @@
+{
+  "A Millennium plugin that adds CSStats.gg integration to Steam profiles.": "Ein Millennium-Plugin, das CSStats.gg-Integration zu Steam-Profilen hinzufügt.",
+  "CS": "CS",
+  "CSStats.gg Extension": "CSStats.gg-Erweiterung",
+  "Open CSStats.gg in your system browser instead of Steam's built-in browser. Useful when the target site is behind Cloudflare, which can block the in-app browser. Reopen profile pages to apply changes.": "Öffnen Sie CSStats.gg in Ihrem Systembrowser statt im integrierten Browser von Steam. Nützlich, wenn sich die Zielseite hinter Cloudflare befindet, wodurch der In-App-Browser blockiert werden kann. Öffnen Sie die Profilseiten erneut, um die Änderungen zu übernehmen.",
+  "Open in external browser": "Im externen Browser öffnen",
+  "stats": "Statistiken"
+}

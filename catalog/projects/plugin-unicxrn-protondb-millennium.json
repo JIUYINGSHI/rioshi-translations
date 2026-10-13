@@ -1,0 +1,34 @@
+{
+  "id": "plugin-unicxrn-protondb-millennium",
+  "kind": "plugin",
+  "name": "ProtonDB",
+  "repository": "unicxrn/protondb-millennium",
+  "revision": "7913678dca9592b28d2f619aeefd47b06ebf36a2",
+  "texts": [
+    "Borked",
+    "Bronze",
+    "Does not run under Proton",
+    "Gold",
+    "Has a native Linux build",
+    "Native",
+    "Platinum",
+    "Platinum — works perfectly. Gold — works great. Silver — runs with workarounds. Bronze — runs but has significant issues. Borked — does not run. Native — has a Linux build.",
+    "ProtonDB",
+    "ProtonDB Ratings",
+    "Runs but with significant issues",
+    "Shows ProtonDB compatibility ratings on Steam store pages.",
+    "Shows ProtonDB compatibility tiers (Platinum / Gold / Silver / Bronze / Borked / Native) as a badge on Steam store pages. Click the badge to open the full ProtonDB page for that game.",
+    "Silver",
+    "Tiers",
+    "Works great with only minor issues",
+    "Works perfectly out of the box",
+    "Works with workarounds"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/unicxrn/protondb-millennium/zip/7913678dca9592b28d2f619aeefd47b06ebf36a2",
+    "sha256": "906d913687472a44752fc63c581ab1ec901145f58b87fb7ac9697a798b69abc0",
+    "localeFiles": []
+  }
+}

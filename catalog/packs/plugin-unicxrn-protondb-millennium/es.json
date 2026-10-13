@@ -1,0 +1,20 @@
+{
+  "Borked": "Borrado",
+  "Bronze": "Bronce",
+  "Does not run under Proton": "No funciona bajo Proton",
+  "Gold": "oro",
+  "Has a native Linux build": "Tiene una compilación nativa de Linux",
+  "Native": "Nativo",
+  "Platinum": "Platino",
+  "Platinum — works perfectly. Gold — works great. Silver — runs with workarounds. Bronze — runs but has significant issues. Borked — does not run. Native — has a Linux build.": "Platino: funciona perfectamente. Oro: funciona muy bien. Silver: funciona con soluciones alternativas. Bronce: funciona pero tiene problemas importantes. Borked — no corre. Nativo: tiene una versión de Linux.",
+  "ProtonDB": "ProtónDB",
+  "ProtonDB Ratings": "Calificaciones de ProtonDB",
+  "Runs but with significant issues": "Funciona pero con problemas importantes.",
+  "Shows ProtonDB compatibility ratings on Steam store pages.": "Muestra calificaciones de compatibilidad de ProtonDB en las páginas de la tienda Steam.",
+  "Shows ProtonDB compatibility tiers (Platinum / Gold / Silver / Bronze / Borked / Native) as a badge on Steam store pages. Click the badge to open the full ProtonDB page for that game.": "Muestra los niveles de compatibilidad de ProtonDB (Platino / Oro / Plata / Bronce / Borked / Nativo) como una insignia en las páginas de la tienda Steam. Haga clic en la insignia para abrir la página completa de ProtonDB para ese juego.",
+  "Silver": "Plata",
+  "Tiers": "Niveles",
+  "Works great with only minor issues": "Funciona muy bien con sólo problemas menores",
+  "Works perfectly out of the box": "Funciona perfectamente desde el primer momento",
+  "Works with workarounds": "Funciona con soluciones alternativas"
+}

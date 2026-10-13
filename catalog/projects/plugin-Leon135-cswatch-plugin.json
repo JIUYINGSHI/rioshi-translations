@@ -1,0 +1,18 @@
+{
+  "id": "plugin-Leon135-cswatch-plugin",
+  "kind": "plugin",
+  "name": "CSWatch Plugin",
+  "repository": "Leon135/cswatch-plugin",
+  "revision": "6d6387f3d2699cc1bc6c0e1ee99b612160745dba",
+  "texts": [
+    "CSWatch Plugin",
+    "Steam Millennium plugin adding button redirecting to CSWat.ch under profile."
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/Leon135/cswatch-plugin/zip/6d6387f3d2699cc1bc6c0e1ee99b612160745dba",
+    "sha256": "f7551bb1704e55b6c6910930ee616bfb3bf89ad8de1709ca30078a9e2848f457",
+    "localeFiles": []
+  }
+}

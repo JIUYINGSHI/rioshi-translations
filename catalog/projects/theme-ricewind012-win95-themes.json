@@ -1,0 +1,22 @@
+{
+  "id": "theme-ricewind012-win95-themes",
+  "kind": "theme",
+  "name": "Windows 95",
+  "repository": "ricewind012/win95-themes",
+  "revision": "d2ae4fad38f2c2c349ea2a8b31c506bd57c84dbe",
+  "texts": [
+    "A faithful Windows 95-styled look",
+    "Colors",
+    "Default",
+    "Hotdog Stand",
+    "Makes the game list entries' height smaller. \n Only use this if you patched Steam! Run [c]./scripts/patch steam[/c] in the repo's directory to apply the patches (Linux only)",
+    "Reduced game list entry height",
+    "VGUI",
+    "Windows 2000",
+    "[b]Only default[/b] will respect system's light/dark/high contrast theme preference",
+    "yes"
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

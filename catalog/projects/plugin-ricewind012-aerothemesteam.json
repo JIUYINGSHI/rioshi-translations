@@ -1,0 +1,66 @@
+{
+  "id": "plugin-ricewind012-aerothemesteam",
+  "kind": "plugin",
+  "name": "Microsoft Office 2007 Styled Theme plugin",
+  "repository": "ricewind012/aerothemesteam",
+  "revision": "01471375c1ea2b57244a206edea73c3e322d2634",
+  "texts": [
+    "Account",
+    "Browser",
+    "Game",
+    "Go back",
+    "Go forward",
+    "Links",
+    "Menu",
+    "Microsoft Office 2007 Styled Theme plugin",
+    "No filters",
+    "Plugin for the theme. Adds a top bar, app filter status, and some buttons.",
+    "Reload",
+    "Showing installed Linux-ready games",
+    "Showing only Linux-ready games",
+    "Showing only Ready to Play games",
+    "Sorting games by recent activity",
+    "Sorting games by recent activity that are Ready to Play",
+    "Sorting games by recent activity that run on Linux",
+    "Sorting games by recent activity that run on Linux and are Ready to Play"
+  ],
+  "native": {
+    "zh-CN": {
+      "No filters": "显示全部",
+      "Showing only Ready to Play games": "仅显示准备就绪的游戏",
+      "Showing only Linux-ready games": "仅显示支持 Linux 的游戏",
+      "Showing installed Linux-ready games": "仅显示支持 Linux 且准备就绪的游戏",
+      "Sorting games by recent activity": "按近期活动排序",
+      "Sorting games by recent activity that run on Linux": "按近期活动排序支持 Linux 的游戏",
+      "Sorting games by recent activity that run on Linux and are Ready to Play": "按近期活动排序支持 Linux 且准备就绪的游戏",
+      "Sorting games by recent activity that are Ready to Play": "按近期活动排序准备就绪的游戏",
+      "Account": "帐户",
+      "Browser": "浏览器",
+      "Game": "游戏",
+      "Links": "链接"
+    },
+    "es": {
+      "No filters": "显示全部",
+      "Showing only Ready to Play games": "仅显示准备就绪的游戏",
+      "Showing only Linux-ready games": "仅显示支持 Linux 的游戏",
+      "Showing installed Linux-ready games": "仅显示支持 Linux 且准备就绪的游戏",
+      "Sorting games by recent activity": "按近期活动排序",
+      "Sorting games by recent activity that run on Linux": "按近期活动排序支持 Linux 的游戏",
+      "Sorting games by recent activity that run on Linux and are Ready to Play": "按近期活动排序支持 Linux 且准备就绪的游戏",
+      "Sorting games by recent activity that are Ready to Play": "按近期活动排序准备就绪的游戏",
+      "Account": "帐户",
+      "Browser": "浏览器",
+      "Game": "游戏",
+      "Links": "链接"
+    }
+  },
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/ricewind012/aerothemesteam/zip/01471375c1ea2b57244a206edea73c3e322d2634",
+    "sha256": "7031338b2963f71c871da76e26a24daef599ff4da1c19059e71b18f9d255abd0",
+    "localeFiles": [
+      "aerothemesteam-01471375c1ea2b57244a206edea73c3e322d2634/locales/english.json",
+      "aerothemesteam-01471375c1ea2b57244a206edea73c3e322d2634/locales/schinese.json"
+    ]
+  }
+}

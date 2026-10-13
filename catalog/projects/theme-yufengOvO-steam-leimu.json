@@ -1,0 +1,24 @@
+{
+  "id": "theme-yufengOvO-steam-leimu",
+  "kind": "theme",
+  "name": "leimu",
+  "repository": "yufengOvO/steam-leimu",
+  "revision": "9c86ffb54991e1b2cad897fa3cd4504d1a9afa5a",
+  "texts": [
+    "Corner Radius",
+    "General",
+    "Set the corner radius size for UI elements",
+    "Style",
+    "Switch between dark and light theme",
+    "Theme Switch",
+    "dark",
+    "large",
+    "leimu skins",
+    "light",
+    "medium",
+    "small"
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

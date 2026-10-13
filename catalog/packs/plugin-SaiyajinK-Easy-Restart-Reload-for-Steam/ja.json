@@ -1,0 +1,21 @@
+{
+  "Adds configurable Restart, Reload UI, and Developer Mode restart actions to the Steam root menu.": "構成可能な再起動、UI の再読み込み、開発者モードの再起動アクションを Steam ルート メニューに追加します。",
+  "Always restart the current Steam session in Developer Mode": "現在の Steam セッションを常に開発者モードで再起動",
+  "Cancel": "キャンセル",
+  "Easy Restart / Reload for Steam": "Steam の簡単な再起動/リロード",
+  "Forces the Restart Steam entry to always relaunch the current Steam session with -dev when the Restart Steam in Developer Mode option is enabled in the plugin settings.": "プラグイン設定で「Steam を開発者モードで再起動」が有効な場合、「Steam を再起動」で現在の Steam セッションを常に -dev 引数付きで再起動します。",
+  "Fully restarts the Steam client.": "Steam クライアントを完全に再起動します。",
+  "NOTE: Manually quitting Steam or restarting your PC ends the current session without changing your settings.\nTo always start Steam in Developer Mode, add the -dev argument to your Steam shortcut.": "注意：Steam を手動で終了するか PC を再起動すると、設定を変更せずに現在のセッションが終了します。\nSteam を常に開発者モードで起動するには、Steam のショートカットに -dev 引数を追加してください。",
+  "Reload UI": "UI を再読み込み",
+  "Reload now": "今すぐ再読み込み",
+  "Reload required": "再読み込みが必要です",
+  "Reloads only the Steam interface without restarting the client.": "Steam クライアントを再起動せずにインターフェースのみを再読み込みします。",
+  "Restart Steam": "Steam を再起動",
+  "Restart Steam in Developer Mode": "Steam を開発者モードで再起動",
+  "Restart Steam in Developer Mode (current session)": "Steam を開発者モードで再起動（現在のセッション）",
+  "Restart now": "今すぐ再起動",
+  "Restart required": "再起動が必要です",
+  "Restarts Steam with the -dev argument to enable Developer Mode.": "-dev 引数を使用して Steam を再起動し、開発者モードを有効にします。",
+  "To enable or disable the selected options, a Steam restart is required. Are you sure you want to continue?": "選択したオプションを有効または無効にするには、Steam の再起動が必要です。続行してもよろしいですか？",
+  "To enable or disable the selected options, a reload is required. Are you sure you want to continue?": "選択したオプションを有効または無効にするには、再読み込みが必要です。続行してもよろしいですか？"
+}

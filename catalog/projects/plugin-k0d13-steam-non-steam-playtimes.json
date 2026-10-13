@@ -1,0 +1,22 @@
+{
+  "id": "plugin-k0d13-steam-non-steam-playtimes",
+  "kind": "plugin",
+  "name": "Non-Steam Playtimes",
+  "repository": "k0d13/steam-non-steam-playtimes",
+  "revision": "f2c14ecbc0cfcdff6bba5f1d703231ec6037588f",
+  "texts": [
+    "Manually set the total playtime for this app. Reducing it below the current total will reset date-based playtime statistics.",
+    "Non-Steam Playtimes",
+    "Play Time",
+    "Playtime",
+    "Track playtime for non-Steam games.",
+    "e.g. 2h 30m"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/k0d13/steam-non-steam-playtimes/zip/f2c14ecbc0cfcdff6bba5f1d703231ec6037588f",
+    "sha256": "663f0d7f55eda31a5f2898b538626e8adf47c64ef21f746991f7ff2450d11eb0",
+    "localeFiles": []
+  }
+}

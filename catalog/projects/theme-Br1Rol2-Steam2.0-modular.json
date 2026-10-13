@@ -1,0 +1,13 @@
+{
+  "id": "theme-Br1Rol2-Steam2.0-modular",
+  "kind": "theme",
+  "name": "Steam 2.0 modular",
+  "repository": "Br1Rol2/Steam2.0-modular",
+  "revision": "303b4e88e499d848ac63bb8476d4cc8afa287bee",
+  "texts": [
+    "Steam 2.0 Modular is an elegant and minimalist theme inspired by GOG 2.0 that modernizes the Steam experience. It allows you to change and create different color gradients for all the app’s backgrounds, manually sort the library, and hide the game list and new shelf. This theme focuses on simplifying the interface by removing unnecessary visual elements and reorganizing content more efficiently, all while maintaining the full functionality of Steam."
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

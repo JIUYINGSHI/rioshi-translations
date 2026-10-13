@@ -1,0 +1,18 @@
+{
+  "id": "plugin-alowave-millennium-faceit-stats",
+  "kind": "plugin",
+  "name": "FaceIt Stats",
+  "repository": "alowave/millennium-faceit-stats",
+  "revision": "3e55d6bb2275bace8d4e83087fb832919b83ef71",
+  "texts": [
+    "Displays player FaceIt statistics on steam profiles.",
+    "FaceIt Stats"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/alowave/millennium-faceit-stats/zip/3e55d6bb2275bace8d4e83087fb832919b83ef71",
+    "sha256": "1af6581b3afd012d9e7583f2896ec0a23ae7db161d1d3f2704dd67eb96ade596",
+    "localeFiles": []
+  }
+}

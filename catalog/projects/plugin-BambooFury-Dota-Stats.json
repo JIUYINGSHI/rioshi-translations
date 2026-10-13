@@ -1,0 +1,30 @@
+{
+  "id": "plugin-BambooFury-Dota-Stats",
+  "kind": "plugin",
+  "name": "Dota 2 Stats",
+  "repository": "BambooFury/Dota-Stats",
+  "revision": "586a34da0c0c8cce1883c6d97b3208ae2eb1037b",
+  "texts": [
+    "Activity",
+    "Could not load Dota 2 stats.",
+    "Dota 2 Stats",
+    "Main Role",
+    "More",
+    "No data",
+    "Private Profile",
+    "Recent Matches",
+    "Teammates",
+    "Top Heroes",
+    "View Dota 2 statistics on player profiles.",
+    "WR",
+    "matches",
+    "⚠ Stats service is experiencing issues · via OpenDota"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/BambooFury/Dota-Stats/zip/586a34da0c0c8cce1883c6d97b3208ae2eb1037b",
+    "sha256": "cb3c9f9bb1c38f9ea1be105542ecac10100634c469116392edb66168a322b228",
+    "localeFiles": []
+  }
+}

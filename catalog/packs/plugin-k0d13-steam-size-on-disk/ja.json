@@ -1,0 +1,9 @@
+{
+  "Clear": "クリア",
+  "Folder": "フォルダー",
+  "Installed Files": "インストールされたファイル",
+  "Instantly see the size of a game on disk.": "ディスク上のゲームのサイズを即座に確認できます。",
+  "Select Installed Files Folder": "インストールされたファイルフォルダーを選択",
+  "Set the folder this app is installed in, so its size on disk can be calculated. Clear it to stop showing a size for this app entirely.": "ディスク上のサイズを計算できるように、このアプリがインストールされているフォルダーを設定します。このアプリのサイズの表示を完全に停止するには、これをクリアします。",
+  "Size on Disk": "ディスク上のサイズ"
+}

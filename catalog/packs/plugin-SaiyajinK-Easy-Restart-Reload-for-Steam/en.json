@@ -1,0 +1,21 @@
+{
+  "Adds configurable Restart, Reload UI, and Developer Mode restart actions to the Steam root menu.": "Adds configurable Restart, Reload UI, and Developer Mode restart actions to the Steam root menu.",
+  "Always restart the current Steam session in Developer Mode": "Always restart the current Steam session in Developer Mode",
+  "Cancel": "Cancel",
+  "Easy Restart / Reload for Steam": "Easy Restart / Reload for Steam",
+  "Forces the Restart Steam entry to always relaunch the current Steam session with -dev when the Restart Steam in Developer Mode option is enabled in the plugin settings.": "Forces the Restart Steam entry to always relaunch the current Steam session with -dev when the Restart Steam in Developer Mode option is enabled in the plugin settings.",
+  "Fully restarts the Steam client.": "Fully restarts the Steam client.",
+  "NOTE: Manually quitting Steam or restarting your PC ends the current session without changing your settings.\nTo always start Steam in Developer Mode, add the -dev argument to your Steam shortcut.": "NOTE: Manually quitting Steam or restarting your PC ends the current session without changing your settings.\nTo always start Steam in Developer Mode, add the -dev argument to your Steam shortcut.",
+  "Reload UI": "Reload UI",
+  "Reload now": "Reload now",
+  "Reload required": "Reload required",
+  "Reloads only the Steam interface without restarting the client.": "Reloads only the Steam interface without restarting the client.",
+  "Restart Steam": "Restart Steam",
+  "Restart Steam in Developer Mode": "Restart Steam in Developer Mode",
+  "Restart Steam in Developer Mode (current session)": "Restart Steam in Developer Mode (current session)",
+  "Restart now": "Restart now",
+  "Restart required": "Restart required",
+  "Restarts Steam with the -dev argument to enable Developer Mode.": "Restarts Steam with the -dev argument to enable Developer Mode.",
+  "To enable or disable the selected options, a Steam restart is required. Are you sure you want to continue?": "To enable or disable the selected options, a Steam restart is required. Are you sure you want to continue?",
+  "To enable or disable the selected options, a reload is required. Are you sure you want to continue?": "To enable or disable the selected options, a reload is required. Are you sure you want to continue?"
+}

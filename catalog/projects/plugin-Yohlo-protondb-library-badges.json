@@ -1,0 +1,39 @@
+{
+  "id": "plugin-Yohlo-protondb-library-badges",
+  "kind": "plugin",
+  "name": "ProtonDB Library Badges",
+  "repository": "Yohlo/protondb-library-badges",
+  "revision": "3e3ea9402a1f729e629270afdcc481c12f31bb42",
+  "texts": [
+    "Borked",
+    "Bronze",
+    "Cached ratings",
+    "Does not run under Proton",
+    "Game page stat",
+    "Gold",
+    "Library filter section",
+    "No ProtonDB reports for this game",
+    "No data",
+    "Not enough reports yet",
+    "Pending",
+    "Platinum",
+    "ProtonDB",
+    "ProtonDB Library Badges",
+    "ProtonDB compatibility tiers in the desktop Steam library: inline game-page stat, sidebar indicators, and a tier section in the Library Filters panel.",
+    "ProtonDB rating",
+    "Runs, but with significant issues",
+    "Sidebar indicators",
+    "Silver",
+    "Unavailable",
+    "Works great with minor issues",
+    "Works perfectly out of the box",
+    "Works with workarounds"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/Yohlo/protondb-library-badges/zip/3e3ea9402a1f729e629270afdcc481c12f31bb42",
+    "sha256": "5aa648ed7dee7ca0b50f849b7cd9bcd84aa5a88a44d9b6028f89347a264a95bf",
+    "localeFiles": []
+  }
+}

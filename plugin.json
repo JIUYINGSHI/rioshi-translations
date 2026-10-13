@@ -2,8 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
   "name": "rioshi-plugin-translations",
   "common_name": "RIOSHI Translations",
-  "description": "Community translation dictionaries, GitHub language packs and WebDAV sync for Millennium plugins.",
-  "version": "4.0.1",
+  "description": "Community translation dictionaries for Millennium themes and plugins, delivered through GitHub.",
+  "version": "5.0.0",
   "include": [
     "translations.json",
     "locales/*.json",

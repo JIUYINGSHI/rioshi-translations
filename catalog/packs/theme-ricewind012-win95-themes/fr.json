@@ -1,0 +1,12 @@
+{
+  "A faithful Windows 95-styled look": "Un look fidèle au style Windows 95",
+  "Colors": "Couleurs",
+  "Default": "Par défaut",
+  "Hotdog Stand": "Stand de hot-dogs",
+  "Makes the game list entries' height smaller. \n Only use this if you patched Steam! Run [c]./scripts/patch steam[/c] in the repo's directory to apply the patches (Linux only)": "Réduit la hauteur des entrées de la liste de jeux. \n Utilisez-le uniquement si vous avez patché Steam ! Exécutez [c]./scripts/patch steam[/c] dans le répertoire du dépôt pour appliquer les correctifs (Linux uniquement)",
+  "Reduced game list entry height": "Hauteur d'entrée de la liste de jeux réduite",
+  "VGUI": "Interface graphique virtuelle",
+  "Windows 2000": "Windows 2000",
+  "[b]Only default[/b] will respect system's light/dark/high contrast theme preference": "[b]Uniquement par défaut[/b] respectera la préférence de thème clair/sombre/contraste élevé du système",
+  "yes": "oui"
+}

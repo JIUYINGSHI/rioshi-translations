@@ -1,0 +1,13 @@
+{
+  "id": "theme-RoseTheFlower-MetroSteam",
+  "kind": "theme",
+  "name": "Metro by Rose",
+  "repository": "RoseTheFlower/MetroSteam",
+  "revision": "85d3488e426bfecc5a871f10021d3eab55318791",
+  "texts": [
+    "A skin heavily inspired by the original Metro for Steam."
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

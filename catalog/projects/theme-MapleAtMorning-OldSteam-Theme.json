@@ -1,0 +1,25 @@
+{
+  "id": "theme-MapleAtMorning-OldSteam-Theme",
+  "kind": "theme",
+  "name": "OldSteam",
+  "repository": "MapleAtMorning/OldSteam-Theme",
+  "revision": "9a7214a90ddc3af1dae14786719103cd7c186e6e",
+  "texts": [
+    "Disable Avatar Frames",
+    "Disable Avatar Status Lines",
+    "Disable Chat Tab PFPs",
+    "Disable Download Logo",
+    "Disable New Message Line",
+    "Disable the avatar frames around profile pictures",
+    "Disable the avatar status lines on friends",
+    "Disable the logo that shows up on the downloads page for the currently downloading game",
+    "Disable the profile pictures in tabs for steam chat",
+    "Disable the yellow line and \"New Message\" text in chats",
+    "The weirdest amalgamation of modern and old steam",
+    "false",
+    "true"
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

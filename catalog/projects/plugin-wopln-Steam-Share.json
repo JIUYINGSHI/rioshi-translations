@@ -1,0 +1,20 @@
+{
+  "id": "plugin-wopln-Steam-Share",
+  "kind": "plugin",
+  "name": "Steam Share",
+  "repository": "wopln/Steam-Share",
+  "revision": "fe22a68ff5184a93a101e5832aa2c91b38486043",
+  "texts": [
+    "Adds a native-style Share action to Steam Store game pages.",
+    "Share",
+    "Share with Friends",
+    "Steam Share"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/wopln/Steam-Share/zip/fe22a68ff5184a93a101e5832aa2c91b38486043",
+    "sha256": "310156925885b4c7f4428e89c8b39e33192b27a364a3036668acfa9d1b5e0984",
+    "localeFiles": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "plugin-k0d13-steam-fullscreen-notifications-fix",
+  "kind": "plugin",
+  "name": "Fullscreen Notifications Fix",
+  "repository": "k0d13/steam-fullscreen-notifications-fix",
+  "revision": "a811555dafaef174a98e414098f4725d5ccaaa31",
+  "texts": [
+    "Fixes Steam notifications not appearing when a fullscreen non-Steam app is focused.",
+    "Fullscreen Notifications Fix"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/k0d13/steam-fullscreen-notifications-fix/zip/a811555dafaef174a98e414098f4725d5ccaaa31",
+    "sha256": "7ab9f3528a62917d474e6ab45f7a6958d15417947a5bf6c9cc1763c98f6e527e",
+    "localeFiles": []
+  }
+}

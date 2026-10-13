@@ -1,0 +1,12 @@
+{
+  "A faithful Windows 95-styled look": "忠实 Windows 95 风格的外观",
+  "Colors": "颜色",
+  "Default": "默认",
+  "Hotdog Stand": "热狗摊",
+  "Makes the game list entries' height smaller. \n Only use this if you patched Steam! Run [c]./scripts/patch steam[/c] in the repo's directory to apply the patches (Linux only)": "使游戏列表条目的高度变小。 \n 仅当您修补过 Steam 时才使用此功能！在存储库目录中运行 [c]./scripts/patch steam[/c] 以应用补丁（仅限 Linux）",
+  "Reduced game list entry height": "降低游戏列表条目高度",
+  "VGUI": "图形用户界面",
+  "Windows 2000": "视窗2000",
+  "[b]Only default[/b] will respect system's light/dark/high contrast theme preference": "[b]仅默认[/b]将尊重系统的浅色/深色/高对比度主题偏好",
+  "yes": "是的"
+}

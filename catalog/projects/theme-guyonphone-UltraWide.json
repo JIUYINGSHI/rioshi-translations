@@ -1,0 +1,13 @@
+{
+  "id": "theme-guyonphone-UltraWide",
+  "kind": "theme",
+  "name": "UltraWide",
+  "repository": "guyonphone/UltraWide",
+  "revision": "c246f651756aba275b30b2c74c5acfc4c62c5d6a",
+  "texts": [
+    "An ultrawide-focused Steam Store redesign with a three-lane homepage, expanded app pages, deterministic purchase placement, a React-safe in-page customer review browser with pinned controls, mouse gutters, natural page scroll chaining, paint-safe toggleable review graphs, strict app/home runtime isolation, and early cold-start loading feedback."
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

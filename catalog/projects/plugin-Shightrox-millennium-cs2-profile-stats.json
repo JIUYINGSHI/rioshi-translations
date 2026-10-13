@@ -1,0 +1,39 @@
+{
+  "id": "plugin-Shightrox-millennium-cs2-profile-stats",
+  "kind": "plugin",
+  "name": "CS2 Profile Stats",
+  "repository": "Shightrox/millennium-cs2-profile-stats",
+  "revision": "7e484ddb86ad4160d92106c2ad9a3e95faa97627",
+  "texts": [
+    "Average aim rating",
+    "CS2 Profile Stats",
+    "Checking FACEIT account…",
+    "Developing aim rating",
+    "Displays useful Leetify, FACEIT, and Steam CS2 statistics directly on Steam profiles.",
+    "Elite aim rating",
+    "Expand details by default",
+    "FACEIT",
+    "FACEIT status unavailable",
+    "Good aim rating",
+    "Great aim rating",
+    "Leetify API key",
+    "Low aim rating",
+    "Matches",
+    "No FACEIT account",
+    "Open the detailed Leetify, FACEIT, and Steam metrics when a profile loads.",
+    "Optional. Public requests work without a key, while a personal key provides better rate limits.",
+    "Overview",
+    "Show Steam activity",
+    "Show total CS2 hours, recent hours, and the Steam account creation date in the expanded view.",
+    "Steam",
+    "Unusually high aim rating",
+    "Very low aim rating"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/Shightrox/millennium-cs2-profile-stats/zip/7e484ddb86ad4160d92106c2ad9a3e95faa97627",
+    "sha256": "4710833eaa7adff257f58f106e6fbae084762af73c2bd7708c85e27212e4f0d8",
+    "localeFiles": []
+  }
+}

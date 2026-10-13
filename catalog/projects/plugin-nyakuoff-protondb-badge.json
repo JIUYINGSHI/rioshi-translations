@@ -1,0 +1,19 @@
+{
+  "id": "plugin-nyakuoff-protondb-badge",
+  "kind": "plugin",
+  "name": "ProtonDB Status",
+  "repository": "nyakuoff/protondb-badge",
+  "revision": "b8c8b430d1df1ca90285af354d369b5cdb45131c",
+  "texts": [
+    "ProtonDB Status",
+    "Show ProtonDB Status",
+    "Show ProtonDB compatibility ratings on game library pages."
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/nyakuoff/protondb-badge/zip/b8c8b430d1df1ca90285af354d369b5cdb45131c",
+    "sha256": "ee599b2d5bc6b1f4d4fca47555e623eac77db3beda1429f0cc848bc17c14e332",
+    "localeFiles": []
+  }
+}

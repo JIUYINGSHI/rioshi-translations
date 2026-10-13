@@ -1,0 +1,23 @@
+{
+  "id": "plugin-k0d13-steam-size-on-disk",
+  "kind": "plugin",
+  "name": "Size on Disk",
+  "repository": "k0d13/steam-size-on-disk",
+  "revision": "35ee6ab7a221429766ddafcee4d7a2a288246ecc",
+  "texts": [
+    "Clear",
+    "Folder",
+    "Installed Files",
+    "Instantly see the size of a game on disk.",
+    "Select Installed Files Folder",
+    "Set the folder this app is installed in, so its size on disk can be calculated. Clear it to stop showing a size for this app entirely.",
+    "Size on Disk"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/k0d13/steam-size-on-disk/zip/35ee6ab7a221429766ddafcee4d7a2a288246ecc",
+    "sha256": "e021def2c3107ff41fe39ab32369fa1f18a03833cf21707d7b4ed7c6fff587e1",
+    "localeFiles": []
+  }
+}

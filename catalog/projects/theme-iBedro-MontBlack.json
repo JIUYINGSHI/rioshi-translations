@@ -1,0 +1,17 @@
+{
+  "id": "theme-iBedro-MontBlack",
+  "kind": "theme",
+  "name": "Mont Black",
+  "repository": "iBedro/MontBlack",
+  "revision": "2213b29724e36c46b67d7c0721a2e7cfe26be995",
+  "texts": [
+    "Dark charcoal Steam theme with cyan accents."
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2",
+  "rootColorSource": {
+    "url": "https://raw.githubusercontent.com/iBedro/MontBlack/2213b29724e36c46b67d7c0721a2e7cfe26be995/colors.css",
+    "sha256": "b880e468aac467d98189ba011f889432eb562069d45f7dbe5246622e4002be20"
+  }
+}

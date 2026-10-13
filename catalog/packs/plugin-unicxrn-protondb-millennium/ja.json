@@ -1,0 +1,20 @@
+{
+  "Borked": "ボークした",
+  "Bronze": "ブロンズ",
+  "Does not run under Proton": "Protonでは動作しません",
+  "Gold": "ゴールド",
+  "Has a native Linux build": "ネイティブ Linux ビルドがある",
+  "Native": "ネイティブ",
+  "Platinum": "プラチナ",
+  "Platinum — works perfectly. Gold — works great. Silver — runs with workarounds. Bronze — runs but has significant issues. Borked — does not run. Native — has a Linux build.": "プラチナ — 完璧に動作します。ゴールド — 素晴らしい効果を発揮します。シルバー — 回避策を適用して実行します。ブロンズ — 実行されますが、重大な問題があります。停止しました — 実行されません。ネイティブ — Linux ビルドが含まれています。",
+  "ProtonDB": "プロトンDB",
+  "ProtonDB Ratings": "ProtonDB の評価",
+  "Runs but with significant issues": "実行されるが重大な問題がある",
+  "Shows ProtonDB compatibility ratings on Steam store pages.": "Steam ストア ページの ProtonDB 互換性評価を表示します。",
+  "Shows ProtonDB compatibility tiers (Platinum / Gold / Silver / Bronze / Borked / Native) as a badge on Steam store pages. Click the badge to open the full ProtonDB page for that game.": "Steam ストア ページに ProtonDB 互換性層 (Platinum / Gold / Silver / Bronze / Borked / Native) をバッジとして表示します。バッジをクリックすると、そのゲームの完全な ProtonDB ページが開きます。",
+  "Silver": "シルバー",
+  "Tiers": "階層",
+  "Works great with only minor issues": "軽微な問題のみで問題なく動作します",
+  "Works perfectly out of the box": "箱から出してすぐに完璧に動作します",
+  "Works with workarounds": "回避策で動作します"
+}

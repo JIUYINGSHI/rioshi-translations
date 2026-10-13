@@ -1,0 +1,20 @@
+{
+  "Account": "帐户",
+  "Browser": "浏览器",
+  "Game": "游戏",
+  "Go back": "volver",
+  "Go forward": "seguir adelante",
+  "Links": "链接",
+  "Menu": "Menú",
+  "Microsoft Office 2007 Styled Theme plugin": "Complemento de tema con estilo de Microsoft Office 2007",
+  "No filters": "显示全部",
+  "Plugin for the theme. Adds a top bar, app filter status, and some buttons.": "Complemento para el tema. Agrega una barra superior, estado de filtro de aplicaciones y algunos botones.",
+  "Reload": "recargar",
+  "Showing installed Linux-ready games": "仅显示支持 Linux 且准备就绪的游戏",
+  "Showing only Linux-ready games": "仅显示支持 Linux 的游戏",
+  "Showing only Ready to Play games": "仅显示准备就绪的游戏",
+  "Sorting games by recent activity": "按近期活动排序",
+  "Sorting games by recent activity that are Ready to Play": "按近期活动排序准备就绪的游戏",
+  "Sorting games by recent activity that run on Linux": "按近期活动排序支持 Linux 的游戏",
+  "Sorting games by recent activity that run on Linux and are Ready to Play": "按近期活动排序支持 Linux 且准备就绪的游戏"
+}

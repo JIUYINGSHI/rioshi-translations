@@ -1,0 +1,7 @@
+{
+  "Comma-separated list of Steam App IDs to exclude from global launch options (e.g., 570,730,440)": "Lista separada por comas de ID de aplicaciones de Steam para excluir de las opciones de lanzamiento global (por ejemplo, 570,730,440)",
+  "Excluded Game IDs": "ID de juegos excluidos",
+  "Global Launch Options": "Opciones de lanzamiento global",
+  "Launch options to apply to all games (e.g., MANGOHUD=1 %command%). Use %command% as placeholder for the game executable.": "Opciones de inicio para aplicar a todos los juegos (por ejemplo, MANGOHUD=1 %command%). Utilice %command% como marcador de posición para el ejecutable del juego.",
+  "Set default launch options that automatically apply to all Steam games.": "Establece opciones de inicio predeterminadas que se aplican automáticamente a todos los juegos de Steam."
+}

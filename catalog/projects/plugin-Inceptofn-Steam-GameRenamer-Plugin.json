@@ -1,0 +1,25 @@
+{
+  "id": "plugin-Inceptofn-Steam-GameRenamer-Plugin",
+  "kind": "plugin",
+  "name": "Game Renamer",
+  "repository": "Inceptofn/Steam-GameRenamer-Plugin",
+  "revision": "f24a9eeeac350bf6ede9baa4af289e9d4d1cedef",
+  "texts": [
+    "Enter the name you'd like to display instead:",
+    "Game Renamer",
+    "No custom names yet — right-click a game and choose Rename to add one.",
+    "Options",
+    "Rename different games in the Steam library",
+    "Save",
+    "Sets Steam's sort-as field when you rename a game. Turn off to stop affecting library sort order.",
+    "Sort library by custom name",
+    "Your renames ("
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/Inceptofn/Steam-GameRenamer-Plugin/zip/f24a9eeeac350bf6ede9baa4af289e9d4d1cedef",
+    "sha256": "a9ca832fe368a3207e9d1b0ab3546ee7055f3a015aec97bc03cfc0d3dae642cd",
+    "localeFiles": []
+  }
+}

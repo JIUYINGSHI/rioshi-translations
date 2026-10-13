@@ -1,0 +1,13 @@
+{
+  "id": "theme-EugeneXXXie-blueArchiveSteamSkin",
+  "kind": "theme",
+  "name": "BlueArchive",
+  "repository": "EugeneXXXie/blueArchiveSteamSkin",
+  "revision": "7900c02a30b390315dc2ff5e5a86815ceb9abb4e",
+  "texts": [
+    "BlueArchive Steam theme"
+  ],
+  "native": {},
+  "extraction": "official-skin-config",
+  "source": "https://steambrew.app/api/v2"
+}

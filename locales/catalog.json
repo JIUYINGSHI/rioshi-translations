@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "sourceLanguage": "en",
+  "languages": [
+    {
+      "id": "en",
+      "name": "English",
+      "full": true,
+      "path": "locales/en.json",
+      "entries": 146,
+      "status": "complete-for-bundled-source"
+    },
+    {
+      "id": "zh-CN",
+      "name": "简体中文",
+      "full": true,
+      "path": "locales/zh-CN.json",
+      "entries": 146,
+      "status": "complete-for-bundled-source"
+    },
+    {
+      "id": "es",
+      "name": "Español",
+      "path": "locales/es.json",
+      "entries": 80,
+      "status": "starter"
+    },
+    {
+      "id": "fr",
+      "name": "Français",
+      "path": "locales/fr.json",
+      "entries": 80,
+      "status": "starter"
+    },
+    {
+      "id": "de",
+      "name": "Deutsch",
+      "path": "locales/de.json",
+      "entries": 80,
+      "status": "starter"
+    },
+    {
+      "id": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "locales/pt-BR.json",
+      "entries": 80,
+      "status": "starter"
+    },
+    {
+      "id": "ja",
+      "name": "日本語",
+      "path": "locales/ja.json",
+      "entries": 80,
+      "status": "starter"
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "name": "rioshi-plugin-translations",
   "common_name": "RIOSHI Translations",
   "description": "Community translation dictionaries, GitHub language packs and WebDAV sync for Millennium plugins.",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "include": [
     "translations.json",
     "locales/*.json",

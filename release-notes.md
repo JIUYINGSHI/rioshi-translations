@@ -1,4 +1,11 @@
-# RIOSHI Translations 4.0.0
+# RIOSHI Translations 4.0.1
+
+- Removed repository/branch controls and the GitHub download accordion.
+- Added a single Download & apply toolbar button for the selected dictionary language.
+- Downloads are fixed to JIUYINGSHI/rioshi-translations, main; old local source overrides are ignored.
+- All eight regression tests pass, including fixed-source download, WebDAV conflicts and popup navigation.
+
+## Included 4.0 features
 
 - Renamed the displayed plugin to RIOSHI Translations while preserving the internal ID and existing Chinese custom dictionary migration.
 - Added independent Chinese/English plugin interface selection in the upper-right corner.

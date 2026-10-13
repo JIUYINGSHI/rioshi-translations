@@ -117,6 +117,37 @@ test('the editor switches all plugin labels to English and restores its host on 
   } finally { globalThis.localStorage = oldStorage; dom.window.close(); }
 });
 
+test('download and apply uses the fixed repository with no source fields or legacy overrides', async () => {
+  const dom = new JSDOM('<div id="host" style="position:static"></div>', { url: 'https://steam.local' });
+  const oldStorage = globalThis.localStorage;
+  const oldFetch = globalThis.fetch;
+  globalThis.localStorage = dom.window.localStorage;
+  dom.window.localStorage.setItem('rioshi-plugin-translations:sync-config-v4', JSON.stringify({ repository: 'wrong/repo', branch: 'wrong' }));
+  const requests = [];
+  globalThis.fetch = async url => {
+    requests.push(url);
+    return new Response(JSON.stringify(url.endsWith('catalog.json')
+      ? { languages: [{ id: 'fr', path: 'locales/fr.json' }] } : { Save: 'Enregistrer' }));
+  };
+  let editor;
+  try {
+    const store = createTranslationStore(dom.window.localStorage);
+    store.setUiLanguage('en'); store.saveDictionary('fr', { Save: 'Old text' });
+    editor = mountEditor({ documentRef: dom.window.document, host: dom.window.document.getElementById('host'), store,
+      catalog: { languages: [{ id: 'fr', name: 'Français' }] },
+      defaults: { repository: 'JIUYINGSHI/rioshi-translations', branch: 'main' },
+      loadBundled: async () => ({}), apply() {}
+    });
+    assert.equal(Array.from(dom.window.document.querySelectorAll('label')).some(label => ['Repository', 'Branch'].includes(label.textContent)), false);
+    Array.from(dom.window.document.querySelectorAll('button')).find(button => button.textContent === 'Download & apply').click();
+    await new Promise(resolve => setTimeout(resolve, 20));
+    assert.equal(requests[0], 'https://raw.githubusercontent.com/JIUYINGSHI/rioshi-translations/main/locales/catalog.json');
+    assert.deepEqual(store.getDictionary(), { Save: 'Enregistrer' });
+  } finally {
+    editor?.dispose(); globalThis.localStorage = oldStorage; globalThis.fetch = oldFetch; dom.window.close();
+  }
+});
+
 test('Millennium popup navigation can leave and reopen Translations without an editor overlay remaining', async () => {
   const bootstrap = new JSDOM('<script src="https://steam.local/rioshi-plugin-translations/.millennium/Dist/index.js"></script>', { url: 'https://steam.local', runScripts: 'outside-only' });
   const popup = new JSDOM(`<div class="MillenniumSettings"><div><nav>

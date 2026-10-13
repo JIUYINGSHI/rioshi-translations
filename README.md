@@ -22,7 +22,7 @@ The internal ID stays `rioshi-plugin-translations` to migrate existing custom Ch
 
 ## Dictionaries and GitHub downloads
 
-Select a dictionary language to load the local or bundled pack. Expand **GitHub language packs**, select the same language, and click **Download & apply**. Default repository: `JIUYINGSHI/rioshi-translations`, branch `main`. Enter another owner/repository and branch to use a compatible fork.
+Select a dictionary language to load the local or bundled pack, then click **Download & apply** in the toolbar. The download source is fixed to `JIUYINGSHI/rioshi-translations`, branch `main`; the UI has no repository or branch fields. Old local repository overrides are ignored. Developers can change the shipped `remote-config.json` for a fork.
 
 Download catalog: `locales/catalog.json`. Each `languages` entry contains `id`, `name`, `path`, `entries` and `status`; paths must be `locales/<language>.json`. Each language file is a JSON object of `"English source": "translated text"` pairs. Files with invalid entries are rejected before application. Downloaded/edited dictionaries are saved on the current computer in Steam browser local storage; bundled plugin files are not overwritten. **Restore bundled dictionary** resets the selected language to its shipped pack.
 
@@ -57,6 +57,6 @@ npm test
 
 ## 中文说明
 
-在 Millennium 主设置中进入“翻译”。右上角选择 **简体中文 / English** 切换插件自身界面；“词典语言”控制其他插件的翻译。展开 GitHub 语言包即可从仓库下载并应用，展开 WebDAV 即可测试连接、上传或下载。首次覆盖已有远程词典需要先下载或确认覆盖。退出翻译页会卸载编辑器，插件不注册库管理器侧栏。
+在 Millennium 主设置中进入“翻译”。右上角选择 **简体中文 / English** 切换插件自身界面；“词典语言”控制其他插件的翻译。点击工具栏的“下载并应用”即可从固定仓库下载当前语言，界面不显示仓库和分支。展开 WebDAV 即可测试连接、上传或下载。首次覆盖已有远程词典需要先下载或确认覆盖。退出翻译页会卸载编辑器，插件不注册库管理器侧栏。
 
 旧版备份位于本机 `.backups/`，不会提交到 GitHub，也不会打包进发布文件。

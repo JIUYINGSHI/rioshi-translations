@@ -75,13 +75,7 @@ export function mountEditor({ documentRef: doc, host, store, catalog, defaults, 
   }
   language.value = store.language;
 
-  const github = el('details', root);
-  el('summary', github, 'github').style.cursor = 'pointer';
-  const githubRow = row(github);
-  const repository = field(githubRow, 'repository', config.repository || defaults.repository);
-  const branch = field(githubRow, 'branch', config.branch || defaults.branch || 'main');
-  const downloadButton = button(githubRow, 'download');
-  el('p', github, 'starter').style.fontSize = '12px';
+  const downloadButton = button(toolbar, 'download');
 
   const dav = el('details', root);
   el('summary', dav, 'webdav').style.cursor = 'pointer';
@@ -118,7 +112,7 @@ export function mountEditor({ documentRef: doc, host, store, catalog, defaults, 
     language.value = store.language;
   }
   function saveConfig() {
-    const next = { repository: repository.value, branch: branch.value, url: url.value, username: username.value, path: path.value, remember: remember.checked };
+    const next = { url: url.value, username: username.value, path: path.value, remember: remember.checked };
     if (remember.checked) next.password = password.value;
     localStorage.setItem(CONFIG_KEY, JSON.stringify(next));
   }
@@ -164,7 +158,7 @@ export function mountEditor({ documentRef: doc, host, store, catalog, defaults, 
   downloadButton.addEventListener('click', () => run(async () => {
     if (!mayReplace()) return;
     const selected = language.value;
-    const dictionary = await downloadLanguage({ repository: repository.value, branch: branch.value, language: selected });
+    const dictionary = await downloadLanguage({ repository: defaults.repository, branch: defaults.branch, language: selected });
     if (disposed) return;
     saveConfig(); store.saveDictionary(selected, dictionary); apply(dictionary); showDictionary(dictionary); message(ui.success);
   }));
@@ -187,7 +181,7 @@ export function mountEditor({ documentRef: doc, host, store, catalog, defaults, 
     for (const [node, key] of localized) node.textContent = ui[key];
     message(ui.success);
   }));
-  for (const input of [repository, branch, url, username, password, path, remember]) input.addEventListener('change', saveConfig);
+  for (const input of [url, username, password, path, remember]) input.addEventListener('change', saveConfig);
   showDictionary(store.getDictionary() || initialDictionary);
   host.appendChild(root);
   return { overlay: root, dispose() {

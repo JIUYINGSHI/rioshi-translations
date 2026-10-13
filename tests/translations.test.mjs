@@ -77,6 +77,7 @@ test('WebDAV client uploads, downloads and rejects concurrent remote changes usi
   source.saveDictionary('fr', { Save: 'Sauvegarder' });
   await client.upload();
   destination.saveDictionary('fr', { Save: 'Conflicting edit' });
+  await secondClient.check();
   await assert.rejects(secondClient.upload(), SyncConflict);
   assert.equal(JSON.parse(body).dictionaries.fr.Save, 'Sauvegarder');
 });

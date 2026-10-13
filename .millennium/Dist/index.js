@@ -4443,7 +4443,17 @@ caused by: ${_a.fullStack(e2)}` : t2.stack ?? "";
       }
     };
     return {
-      check: () => exclusive(async () => ({ exists: await readRemote() !== null })),
+      check: () => exclusive(async () => {
+        const baseline = { etag, missing };
+        try {
+          return { exists: await readRemote() !== null };
+        } finally {
+          if (hasBaseline) {
+            etag = baseline.etag;
+            missing = baseline.missing;
+          }
+        }
+      }),
       download: () => exclusive(async () => {
         const snapshot = await readRemote();
         if (!snapshot) throw new Error("Remote sync file does not exist");
@@ -4453,8 +4463,8 @@ caused by: ${_a.fullStack(e2)}` : t2.stack ?? "";
       }),
       upload: (force = false) => exclusive(async () => {
         if (!etag && !missing) {
-          const snapshot = await readRemote();
-          if (snapshot && !force) throw new SyncConflict();
+          const snapshot2 = await readRemote();
+          if (snapshot2 && !force) throw new SyncConflict();
         }
         if (!missing && !hasBaseline && !force) throw new SyncConflict();
         if (!missing && !etag && !force) throw new SyncConflict();
@@ -4462,7 +4472,8 @@ caused by: ${_a.fullStack(e2)}` : t2.stack ?? "";
         if (parent) await client.createDirectory(parent, { recursive: true });
         const headers = { "Content-Type": "application/json; charset=utf-8" };
         if (etag && !force) headers["If-Match"] = etag;
-        const result = await client.putFileContents(path, JSON.stringify(store.exportSnapshot(), null, 2), {
+        const snapshot = store.exportSnapshot();
+        const result = await client.putFileContents(path, JSON.stringify(snapshot, null, 2), {
           overwrite: !missing || force,
           contentLength: false,
           headers
@@ -4471,7 +4482,11 @@ caused by: ${_a.fullStack(e2)}` : t2.stack ?? "";
           throw error;
         });
         if (!result) throw new SyncConflict();
-        await readRemote();
+        const remote = await readRemote();
+        if (JSON.stringify(remote) !== JSON.stringify(snapshot)) {
+          hasBaseline = false;
+          throw new SyncConflict();
+        }
         hasBaseline = true;
       })
     };

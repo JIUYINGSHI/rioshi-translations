@@ -35,7 +35,14 @@ export function createWebdavSync(options, store, create = createClient) {
     }
   };
   return {
-    check: () => exclusive(async () => ({ exists: (await readRemote()) !== null })),
+    check: () => exclusive(async () => {
+      const baseline = { etag, missing };
+      try { return { exists: (await readRemote()) !== null }; }
+      finally {
+        // Connectivity checks must not advance the version last synchronized.
+        if (hasBaseline) { etag = baseline.etag; missing = baseline.missing; }
+      }
+    }),
     download: () => exclusive(async () => {
       const snapshot = await readRemote();
       if (!snapshot) throw new Error('Remote sync file does not exist');
@@ -54,11 +61,16 @@ export function createWebdavSync(options, store, create = createClient) {
       if (parent) await client.createDirectory(parent, { recursive: true });
       const headers = { 'Content-Type': 'application/json; charset=utf-8' };
       if (etag && !force) headers['If-Match'] = etag;
-      const result = await client.putFileContents(path, JSON.stringify(store.exportSnapshot(), null, 2), {
+      const snapshot = store.exportSnapshot();
+      const result = await client.putFileContents(path, JSON.stringify(snapshot, null, 2), {
         overwrite: !missing || force, contentLength: false, headers
       }).catch(error => { if (error.status === 412) throw new SyncConflict(); throw error; });
       if (!result) throw new SyncConflict();
-      await readRemote();
+      const remote = await readRemote();
+      if (JSON.stringify(remote) !== JSON.stringify(snapshot)) {
+        hasBaseline = false;
+        throw new SyncConflict();
+      }
       hasBaseline = true;
     })
   };

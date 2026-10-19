@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T01:08:53.990Z",
-  "catalogDate": "2026-10-13T01:08:14.055Z",
+  "generatedAt": "2026-10-19T07:21:49.208Z",
+  "catalogDate": "2026-10-19T07:21:41.088Z",
   "counts": {
-    "themes": 26,
+    "themes": 27,
     "plugins": 36,
-    "extracted": 2020
+    "extracted": 2167
   },
   "extractionLimitations": [
     "Static display text only; dynamic strings need runtime inspection.",
@@ -13,51 +13,1089 @@
   ],
   "languages": {
     "en": {
-      "extracted": 1862,
-      "translated": 1862,
+      "extracted": 1985,
+      "translated": 1985,
       "missing": [],
       "machineDrafts": 0,
       "nativeEntries": 0
     },
     "zh-CN": {
-      "extracted": 1862,
-      "translated": 1862,
-      "missing": [],
+      "extracted": 1985,
+      "translated": 1813,
+      "missing": [
+        "Show floating theme toggle?",
+        "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button.",
+        "Always show the sidebar don't matter on which page \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]",
+        "Hide Settings button from userpanel",
+        "Links panel buttons",
+        "Settings button",
+        "Show the links in the links panel (Store Page, DLC, Community Hub, ...) in full width",
+        "Achievement progress of the game on the Continue card.",
+        "Continue card: achievements",
+        "Dusk",
+        "Game page: collection tags",
+        "Home games",
+        "Installed",
+        "Off",
+        "Point at a cover in the recently played row: a card with the game's screenshots, its name and hours. The store's screenshots are fetched from Steam at that moment.",
+        "Rail",
+        "Recently played: preview",
+        "Sign-in screen",
+        "Steam's row for adding a shelf to the library home.",
+        "Steam's wall",
+        "Store: game list",
+        "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+        "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
+        "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
+        "Whole library",
+        "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list.",
+        "Account Button",
+        "Achievements Tab",
+        "Add a header button with a menu to launch Big Picture or SteamVR",
+        "Always Animated",
+        "Animate stickers in the menu on hover or always",
+        "Animated on Hover",
+        "Another Design for Steam",
+        "Apple",
+        "Apply blur effect to your account/login name",
+        "Apply blur effect to your wallet balance",
+        "Automatically pass the age check on store pages",
+        "Button Press Animation",
+        "Buttons shrink slightly when pressed",
+        "Bypass Age Verification",
+        "Change how round avatars with a profile frame look",
+        "Change how round message bubbles look",
+        "Change how round or sharp avatars look throughout Steam",
+        "Change how round or sharp buttons look throughout Steam",
+        "Chat Avatars",
+        "Chat Header Background",
+        "Chats",
+        "Choose what the account button in the header shows",
+        "Compact Manage Downloads Button",
+        "Context Menu",
+        "Contributors",
+        "Default Friends Tab",
+        "Disable",
+        "Display special badges for theme contributors on their profiles",
+        "Dock the emoticon menu as a side panel on click",
+        "Emoji Style",
+        "Emoji look in the emoticon menu (sets are loaded from the internet)",
+        "Emoticon Side Panel",
+        "Emoticon Size",
+        "Emoticons in Message Field",
+        "Exact Time",
+        "Exact Time: 'Last seen: Today at 14:00' | Disable: keeps '3 hours ago', only renames the label",
+        "Facebook",
+        "Fake Device Status",
+        "Friends",
+        "Friends&Chat",
+        "Group Chats Position",
+        "Header",
+        "Hide Both",
+        "Hide Custom Username Icon",
+        "Hide Friends Tabs",
+        "Hide Nickname",
+        "Hide Unread Count in Friends",
+        "Hide Unread Messages Group",
+        "Hide avatar frames",
+        "Hide specific elements from the achievements tab",
+        "Hide the 'Unread Messages' group in the friends list",
+        "Hide the Friends / Chats tabs above the list",
+        "Hide unread message counters next to friends",
+        "Inside",
+        "Large",
+        "Library Items",
+        "Main",
+        "Main Buttons",
+        "Menus",
+        "Message Field Buttons",
+        "Mobile",
+        "Modern",
+        "My Messages Side",
+        "Outside",
+        "Place emoticon and attachment buttons outside or inside the message field",
+        "Refresh",
+        "Refresh: redesigned context menus | Legacy: default Steam menus",
+        "Relative Last Seen",
+        "Replaces default indicator with a modern dot-style badge",
+        "Root Colors",
+        "Rounding Buttons",
+        "Rounding Framed Avatars",
+        "Rounding Messages",
+        "Show Steam emoticons as pictures while typing",
+        "Show avatars beside messages in one-on-one chats",
+        "Show group chats above or below recent chats",
+        "Show header buttons as text, icons, or both",
+        "Show the Big Picture or Mobile mark next to your status (applied on Steam launch)",
+        "Show the friend's mini profile background behind the chat header",
+        "Show your own messages on the right or on the left",
+        "Shrink the downloads button in the header to an icon with a progress bar",
+        "Size of emoticons in the emoticon menu",
+        "Size of stickers in the emoticon menu",
+        "Steam Modes Button",
+        "Sticker Size",
+        "Stickers in Menu",
+        "Tab opened on Steam launch (Chats requires the Recent Chats plugin)",
+        "Text",
+        "Text and Icons",
+        "Toggle visibility of custom username icon",
+        "Twitter",
+        "Users",
+        "Window Buttons",
+        "[Recent] Only",
+        "[Unreached Achievements] Only",
+        "3D tilt",
+        "A soft accent glow under the cursor on large library blocks (game page panels, What's New, collections).",
+        "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+        "Add Shelf visibility",
+        "Aika",
+        "Balance",
+        "Balanced",
+        "Blurs the wallet balance (or the account name and the balance) in the top-right account button until you hover over it; inside its menu the login and the balance are blurred until hovered — handy for streams and screenshots.",
+        "Center",
+        "Cinematic",
+        "Classic",
+        "Color preset",
+        "Color set",
+        "Compact header",
+        "Compact: the menus, the tabs and the account buttons share one line.",
+        "Cursor glow",
+        "Cursor glow radius",
+        "Custom colors",
+        "Full",
+        "Gothic",
+        "Greeny",
+        "Hello Bert",
+        "How game covers in the library (Home shelves, collections) react to the cursor. 3D tilt: the cover turns toward the cursor in 3D with a moving glare. Lift: it rises a little. Zoom: the art zooms in its frame with a glare sweep.",
+        "How much a notification covers the desktop: lower is more transparent.",
+        "How much the theme moves on its own. Full: everything as designed (the default; already tuned to cost as little as it can). Balanced: fewer moving elements on and around items — no light following the cursor around store blocks and library panels, no shimmer on Play, no glares or light sweeps, 3D tilt covers lift instead, the Cinematic description stays still, the background light spots stand still; menus, hovers, page transitions, trailers, the store backgrounds (30 frames a second) and the glass notifications stay. Low: no Aika motion and no heavy effects at all — every look stays, but nothing the theme added moves (only Steam's own animations remain); the light spots are one still picture, no backdrop blur, no glass on notifications, no animated store backgrounds, no trailers playing behind the Cinematic page.",
+        "Japanese",
+        "Library covers",
+        "Lift",
+        "Low",
+        "Name and balance",
+        "Notification opacity",
+        "Notification wordmark",
+        "Privacy blur",
+        "Rose Ash",
+        "Steam News visibility",
+        "The \"Add shelf\" row at the bottom of the library home.",
+        "The \"What's New\" shelf at the top of the library home.",
+        "The Steam news (megaphone) button in the top bar.",
+        "The address capsule over store and community pages, top left (takes a Steam restart to reach the pages).",
+        "The font of the \"Aika\" wordmark in the background of notification toasts.",
+        "The layout of a game's store page. Cinematic: the trailers play muted over the whole window behind the logo, price and buttons, with a media gallery below; the editions and everything else stay as in Classic. Needs theme scripts.",
+        "The size of the cursor glow, in pixels.",
+        "The theme color set: the accent and the light spots. To set colors manually, turn on \"Custom colors\" in the \"Color set\" tab.",
+        "The wallet balance next to the account name in the top bar.",
+        "Top bar",
+        "URL visibility",
+        "Use your own colors instead of the preset. The colors themselves (accent, accent hover, three light spots) are on the \"Colors\" page right below.",
+        "Wallet visibility",
+        "What's New visibility",
+        "Where the Store, Library, Community and profile tabs sit in the top bar.",
+        "Zoom"
+      ],
       "machineDrafts": 1739,
       "nativeEntries": 29
     },
     "es": {
-      "extracted": 1862,
-      "translated": 1862,
-      "missing": [],
+      "extracted": 1985,
+      "translated": 1813,
+      "missing": [
+        "Show floating theme toggle?",
+        "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button.",
+        "Always show the sidebar don't matter on which page \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]",
+        "Hide Settings button from userpanel",
+        "Links panel buttons",
+        "Settings button",
+        "Show the links in the links panel (Store Page, DLC, Community Hub, ...) in full width",
+        "Achievement progress of the game on the Continue card.",
+        "Continue card: achievements",
+        "Dusk",
+        "Game page: collection tags",
+        "Home games",
+        "Installed",
+        "Off",
+        "Point at a cover in the recently played row: a card with the game's screenshots, its name and hours. The store's screenshots are fetched from Steam at that moment.",
+        "Rail",
+        "Recently played: preview",
+        "Sign-in screen",
+        "Steam's row for adding a shelf to the library home.",
+        "Steam's wall",
+        "Store: game list",
+        "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+        "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
+        "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
+        "Whole library",
+        "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list.",
+        "Account Button",
+        "Achievements Tab",
+        "Add a header button with a menu to launch Big Picture or SteamVR",
+        "Always Animated",
+        "Animate stickers in the menu on hover or always",
+        "Animated on Hover",
+        "Another Design for Steam",
+        "Apple",
+        "Apply blur effect to your account/login name",
+        "Apply blur effect to your wallet balance",
+        "Automatically pass the age check on store pages",
+        "Button Press Animation",
+        "Buttons shrink slightly when pressed",
+        "Bypass Age Verification",
+        "Change how round avatars with a profile frame look",
+        "Change how round message bubbles look",
+        "Change how round or sharp avatars look throughout Steam",
+        "Change how round or sharp buttons look throughout Steam",
+        "Chat Avatars",
+        "Chat Header Background",
+        "Chats",
+        "Choose what the account button in the header shows",
+        "Compact Manage Downloads Button",
+        "Context Menu",
+        "Contributors",
+        "Default Friends Tab",
+        "Disable",
+        "Display special badges for theme contributors on their profiles",
+        "Dock the emoticon menu as a side panel on click",
+        "Emoji Style",
+        "Emoji look in the emoticon menu (sets are loaded from the internet)",
+        "Emoticon Side Panel",
+        "Emoticon Size",
+        "Emoticons in Message Field",
+        "Exact Time",
+        "Exact Time: 'Last seen: Today at 14:00' | Disable: keeps '3 hours ago', only renames the label",
+        "Facebook",
+        "Fake Device Status",
+        "Friends",
+        "Friends&Chat",
+        "Group Chats Position",
+        "Header",
+        "Hide Both",
+        "Hide Custom Username Icon",
+        "Hide Friends Tabs",
+        "Hide Nickname",
+        "Hide Unread Count in Friends",
+        "Hide Unread Messages Group",
+        "Hide avatar frames",
+        "Hide specific elements from the achievements tab",
+        "Hide the 'Unread Messages' group in the friends list",
+        "Hide the Friends / Chats tabs above the list",
+        "Hide unread message counters next to friends",
+        "Inside",
+        "Large",
+        "Library Items",
+        "Main",
+        "Main Buttons",
+        "Menus",
+        "Message Field Buttons",
+        "Mobile",
+        "Modern",
+        "My Messages Side",
+        "Outside",
+        "Place emoticon and attachment buttons outside or inside the message field",
+        "Refresh",
+        "Refresh: redesigned context menus | Legacy: default Steam menus",
+        "Relative Last Seen",
+        "Replaces default indicator with a modern dot-style badge",
+        "Root Colors",
+        "Rounding Buttons",
+        "Rounding Framed Avatars",
+        "Rounding Messages",
+        "Show Steam emoticons as pictures while typing",
+        "Show avatars beside messages in one-on-one chats",
+        "Show group chats above or below recent chats",
+        "Show header buttons as text, icons, or both",
+        "Show the Big Picture or Mobile mark next to your status (applied on Steam launch)",
+        "Show the friend's mini profile background behind the chat header",
+        "Show your own messages on the right or on the left",
+        "Shrink the downloads button in the header to an icon with a progress bar",
+        "Size of emoticons in the emoticon menu",
+        "Size of stickers in the emoticon menu",
+        "Steam Modes Button",
+        "Sticker Size",
+        "Stickers in Menu",
+        "Tab opened on Steam launch (Chats requires the Recent Chats plugin)",
+        "Text",
+        "Text and Icons",
+        "Toggle visibility of custom username icon",
+        "Twitter",
+        "Users",
+        "Window Buttons",
+        "[Recent] Only",
+        "[Unreached Achievements] Only",
+        "3D tilt",
+        "A soft accent glow under the cursor on large library blocks (game page panels, What's New, collections).",
+        "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+        "Add Shelf visibility",
+        "Aika",
+        "Balance",
+        "Balanced",
+        "Blurs the wallet balance (or the account name and the balance) in the top-right account button until you hover over it; inside its menu the login and the balance are blurred until hovered — handy for streams and screenshots.",
+        "Center",
+        "Cinematic",
+        "Classic",
+        "Color preset",
+        "Color set",
+        "Compact header",
+        "Compact: the menus, the tabs and the account buttons share one line.",
+        "Cursor glow",
+        "Cursor glow radius",
+        "Custom colors",
+        "Full",
+        "Gothic",
+        "Greeny",
+        "Hello Bert",
+        "How game covers in the library (Home shelves, collections) react to the cursor. 3D tilt: the cover turns toward the cursor in 3D with a moving glare. Lift: it rises a little. Zoom: the art zooms in its frame with a glare sweep.",
+        "How much a notification covers the desktop: lower is more transparent.",
+        "How much the theme moves on its own. Full: everything as designed (the default; already tuned to cost as little as it can). Balanced: fewer moving elements on and around items — no light following the cursor around store blocks and library panels, no shimmer on Play, no glares or light sweeps, 3D tilt covers lift instead, the Cinematic description stays still, the background light spots stand still; menus, hovers, page transitions, trailers, the store backgrounds (30 frames a second) and the glass notifications stay. Low: no Aika motion and no heavy effects at all — every look stays, but nothing the theme added moves (only Steam's own animations remain); the light spots are one still picture, no backdrop blur, no glass on notifications, no animated store backgrounds, no trailers playing behind the Cinematic page.",
+        "Japanese",
+        "Library covers",
+        "Lift",
+        "Low",
+        "Name and balance",
+        "Notification opacity",
+        "Notification wordmark",
+        "Privacy blur",
+        "Rose Ash",
+        "Steam News visibility",
+        "The \"Add shelf\" row at the bottom of the library home.",
+        "The \"What's New\" shelf at the top of the library home.",
+        "The Steam news (megaphone) button in the top bar.",
+        "The address capsule over store and community pages, top left (takes a Steam restart to reach the pages).",
+        "The font of the \"Aika\" wordmark in the background of notification toasts.",
+        "The layout of a game's store page. Cinematic: the trailers play muted over the whole window behind the logo, price and buttons, with a media gallery below; the editions and everything else stay as in Classic. Needs theme scripts.",
+        "The size of the cursor glow, in pixels.",
+        "The theme color set: the accent and the light spots. To set colors manually, turn on \"Custom colors\" in the \"Color set\" tab.",
+        "The wallet balance next to the account name in the top bar.",
+        "Top bar",
+        "URL visibility",
+        "Use your own colors instead of the preset. The colors themselves (accent, accent hover, three light spots) are on the \"Colors\" page right below.",
+        "Wallet visibility",
+        "What's New visibility",
+        "Where the Store, Library, Community and profile tabs sit in the top bar.",
+        "Zoom"
+      ],
       "machineDrafts": 1752,
       "nativeEntries": 76
     },
     "fr": {
-      "extracted": 1862,
-      "translated": 1862,
-      "missing": [],
+      "extracted": 1985,
+      "translated": 1813,
+      "missing": [
+        "Show floating theme toggle?",
+        "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button.",
+        "Always show the sidebar don't matter on which page \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]",
+        "Hide Settings button from userpanel",
+        "Links panel buttons",
+        "Settings button",
+        "Show the links in the links panel (Store Page, DLC, Community Hub, ...) in full width",
+        "Achievement progress of the game on the Continue card.",
+        "Continue card: achievements",
+        "Dusk",
+        "Game page: collection tags",
+        "Home games",
+        "Installed",
+        "Off",
+        "Point at a cover in the recently played row: a card with the game's screenshots, its name and hours. The store's screenshots are fetched from Steam at that moment.",
+        "Rail",
+        "Recently played: preview",
+        "Sign-in screen",
+        "Steam's row for adding a shelf to the library home.",
+        "Steam's wall",
+        "Store: game list",
+        "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+        "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
+        "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
+        "Whole library",
+        "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list.",
+        "Account Button",
+        "Achievements Tab",
+        "Add a header button with a menu to launch Big Picture or SteamVR",
+        "Always Animated",
+        "Animate stickers in the menu on hover or always",
+        "Animated on Hover",
+        "Another Design for Steam",
+        "Apple",
+        "Apply blur effect to your account/login name",
+        "Apply blur effect to your wallet balance",
+        "Automatically pass the age check on store pages",
+        "Button Press Animation",
+        "Buttons shrink slightly when pressed",
+        "Bypass Age Verification",
+        "Change how round avatars with a profile frame look",
+        "Change how round message bubbles look",
+        "Change how round or sharp avatars look throughout Steam",
+        "Change how round or sharp buttons look throughout Steam",
+        "Chat Avatars",
+        "Chat Header Background",
+        "Chats",
+        "Choose what the account button in the header shows",
+        "Compact Manage Downloads Button",
+        "Context Menu",
+        "Contributors",
+        "Default Friends Tab",
+        "Disable",
+        "Display special badges for theme contributors on their profiles",
+        "Dock the emoticon menu as a side panel on click",
+        "Emoji Style",
+        "Emoji look in the emoticon menu (sets are loaded from the internet)",
+        "Emoticon Side Panel",
+        "Emoticon Size",
+        "Emoticons in Message Field",
+        "Exact Time",
+        "Exact Time: 'Last seen: Today at 14:00' | Disable: keeps '3 hours ago', only renames the label",
+        "Facebook",
+        "Fake Device Status",
+        "Friends",
+        "Friends&Chat",
+        "Group Chats Position",
+        "Header",
+        "Hide Both",
+        "Hide Custom Username Icon",
+        "Hide Friends Tabs",
+        "Hide Nickname",
+        "Hide Unread Count in Friends",
+        "Hide Unread Messages Group",
+        "Hide avatar frames",
+        "Hide specific elements from the achievements tab",
+        "Hide the 'Unread Messages' group in the friends list",
+        "Hide the Friends / Chats tabs above the list",
+        "Hide unread message counters next to friends",
+        "Inside",
+        "Large",
+        "Library Items",
+        "Main",
+        "Main Buttons",
+        "Menus",
+        "Message Field Buttons",
+        "Mobile",
+        "Modern",
+        "My Messages Side",
+        "Outside",
+        "Place emoticon and attachment buttons outside or inside the message field",
+        "Refresh",
+        "Refresh: redesigned context menus | Legacy: default Steam menus",
+        "Relative Last Seen",
+        "Replaces default indicator with a modern dot-style badge",
+        "Root Colors",
+        "Rounding Buttons",
+        "Rounding Framed Avatars",
+        "Rounding Messages",
+        "Show Steam emoticons as pictures while typing",
+        "Show avatars beside messages in one-on-one chats",
+        "Show group chats above or below recent chats",
+        "Show header buttons as text, icons, or both",
+        "Show the Big Picture or Mobile mark next to your status (applied on Steam launch)",
+        "Show the friend's mini profile background behind the chat header",
+        "Show your own messages on the right or on the left",
+        "Shrink the downloads button in the header to an icon with a progress bar",
+        "Size of emoticons in the emoticon menu",
+        "Size of stickers in the emoticon menu",
+        "Steam Modes Button",
+        "Sticker Size",
+        "Stickers in Menu",
+        "Tab opened on Steam launch (Chats requires the Recent Chats plugin)",
+        "Text",
+        "Text and Icons",
+        "Toggle visibility of custom username icon",
+        "Twitter",
+        "Users",
+        "Window Buttons",
+        "[Recent] Only",
+        "[Unreached Achievements] Only",
+        "3D tilt",
+        "A soft accent glow under the cursor on large library blocks (game page panels, What's New, collections).",
+        "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+        "Add Shelf visibility",
+        "Aika",
+        "Balance",
+        "Balanced",
+        "Blurs the wallet balance (or the account name and the balance) in the top-right account button until you hover over it; inside its menu the login and the balance are blurred until hovered — handy for streams and screenshots.",
+        "Center",
+        "Cinematic",
+        "Classic",
+        "Color preset",
+        "Color set",
+        "Compact header",
+        "Compact: the menus, the tabs and the account buttons share one line.",
+        "Cursor glow",
+        "Cursor glow radius",
+        "Custom colors",
+        "Full",
+        "Gothic",
+        "Greeny",
+        "Hello Bert",
+        "How game covers in the library (Home shelves, collections) react to the cursor. 3D tilt: the cover turns toward the cursor in 3D with a moving glare. Lift: it rises a little. Zoom: the art zooms in its frame with a glare sweep.",
+        "How much a notification covers the desktop: lower is more transparent.",
+        "How much the theme moves on its own. Full: everything as designed (the default; already tuned to cost as little as it can). Balanced: fewer moving elements on and around items — no light following the cursor around store blocks and library panels, no shimmer on Play, no glares or light sweeps, 3D tilt covers lift instead, the Cinematic description stays still, the background light spots stand still; menus, hovers, page transitions, trailers, the store backgrounds (30 frames a second) and the glass notifications stay. Low: no Aika motion and no heavy effects at all — every look stays, but nothing the theme added moves (only Steam's own animations remain); the light spots are one still picture, no backdrop blur, no glass on notifications, no animated store backgrounds, no trailers playing behind the Cinematic page.",
+        "Japanese",
+        "Library covers",
+        "Lift",
+        "Low",
+        "Name and balance",
+        "Notification opacity",
+        "Notification wordmark",
+        "Privacy blur",
+        "Rose Ash",
+        "Steam News visibility",
+        "The \"Add shelf\" row at the bottom of the library home.",
+        "The \"What's New\" shelf at the top of the library home.",
+        "The Steam news (megaphone) button in the top bar.",
+        "The address capsule over store and community pages, top left (takes a Steam restart to reach the pages).",
+        "The font of the \"Aika\" wordmark in the background of notification toasts.",
+        "The layout of a game's store page. Cinematic: the trailers play muted over the whole window behind the logo, price and buttons, with a media gallery below; the editions and everything else stay as in Classic. Needs theme scripts.",
+        "The size of the cursor glow, in pixels.",
+        "The theme color set: the accent and the light spots. To set colors manually, turn on \"Custom colors\" in the \"Color set\" tab.",
+        "The wallet balance next to the account name in the top bar.",
+        "Top bar",
+        "URL visibility",
+        "Use your own colors instead of the preset. The colors themselves (accent, accent hover, three light spots) are on the \"Colors\" page right below.",
+        "Wallet visibility",
+        "What's New visibility",
+        "Where the Store, Library, Community and profile tabs sit in the top bar.",
+        "Zoom"
+      ],
       "machineDrafts": 1794,
       "nativeEntries": 17
     },
     "de": {
-      "extracted": 1862,
-      "translated": 1862,
-      "missing": [],
+      "extracted": 1985,
+      "translated": 1813,
+      "missing": [
+        "Show floating theme toggle?",
+        "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button.",
+        "Always show the sidebar don't matter on which page \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]",
+        "Hide Settings button from userpanel",
+        "Links panel buttons",
+        "Settings button",
+        "Show the links in the links panel (Store Page, DLC, Community Hub, ...) in full width",
+        "Achievement progress of the game on the Continue card.",
+        "Continue card: achievements",
+        "Dusk",
+        "Game page: collection tags",
+        "Home games",
+        "Installed",
+        "Off",
+        "Point at a cover in the recently played row: a card with the game's screenshots, its name and hours. The store's screenshots are fetched from Steam at that moment.",
+        "Rail",
+        "Recently played: preview",
+        "Sign-in screen",
+        "Steam's row for adding a shelf to the library home.",
+        "Steam's wall",
+        "Store: game list",
+        "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+        "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
+        "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
+        "Whole library",
+        "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list.",
+        "Account Button",
+        "Achievements Tab",
+        "Add a header button with a menu to launch Big Picture or SteamVR",
+        "Always Animated",
+        "Animate stickers in the menu on hover or always",
+        "Animated on Hover",
+        "Another Design for Steam",
+        "Apple",
+        "Apply blur effect to your account/login name",
+        "Apply blur effect to your wallet balance",
+        "Automatically pass the age check on store pages",
+        "Button Press Animation",
+        "Buttons shrink slightly when pressed",
+        "Bypass Age Verification",
+        "Change how round avatars with a profile frame look",
+        "Change how round message bubbles look",
+        "Change how round or sharp avatars look throughout Steam",
+        "Change how round or sharp buttons look throughout Steam",
+        "Chat Avatars",
+        "Chat Header Background",
+        "Chats",
+        "Choose what the account button in the header shows",
+        "Compact Manage Downloads Button",
+        "Context Menu",
+        "Contributors",
+        "Default Friends Tab",
+        "Disable",
+        "Display special badges for theme contributors on their profiles",
+        "Dock the emoticon menu as a side panel on click",
+        "Emoji Style",
+        "Emoji look in the emoticon menu (sets are loaded from the internet)",
+        "Emoticon Side Panel",
+        "Emoticon Size",
+        "Emoticons in Message Field",
+        "Exact Time",
+        "Exact Time: 'Last seen: Today at 14:00' | Disable: keeps '3 hours ago', only renames the label",
+        "Facebook",
+        "Fake Device Status",
+        "Friends",
+        "Friends&Chat",
+        "Group Chats Position",
+        "Header",
+        "Hide Both",
+        "Hide Custom Username Icon",
+        "Hide Friends Tabs",
+        "Hide Nickname",
+        "Hide Unread Count in Friends",
+        "Hide Unread Messages Group",
+        "Hide avatar frames",
+        "Hide specific elements from the achievements tab",
+        "Hide the 'Unread Messages' group in the friends list",
+        "Hide the Friends / Chats tabs above the list",
+        "Hide unread message counters next to friends",
+        "Inside",
+        "Large",
+        "Library Items",
+        "Main",
+        "Main Buttons",
+        "Menus",
+        "Message Field Buttons",
+        "Mobile",
+        "Modern",
+        "My Messages Side",
+        "Outside",
+        "Place emoticon and attachment buttons outside or inside the message field",
+        "Refresh",
+        "Refresh: redesigned context menus | Legacy: default Steam menus",
+        "Relative Last Seen",
+        "Replaces default indicator with a modern dot-style badge",
+        "Root Colors",
+        "Rounding Buttons",
+        "Rounding Framed Avatars",
+        "Rounding Messages",
+        "Show Steam emoticons as pictures while typing",
+        "Show avatars beside messages in one-on-one chats",
+        "Show group chats above or below recent chats",
+        "Show header buttons as text, icons, or both",
+        "Show the Big Picture or Mobile mark next to your status (applied on Steam launch)",
+        "Show the friend's mini profile background behind the chat header",
+        "Show your own messages on the right or on the left",
+        "Shrink the downloads button in the header to an icon with a progress bar",
+        "Size of emoticons in the emoticon menu",
+        "Size of stickers in the emoticon menu",
+        "Steam Modes Button",
+        "Sticker Size",
+        "Stickers in Menu",
+        "Tab opened on Steam launch (Chats requires the Recent Chats plugin)",
+        "Text",
+        "Text and Icons",
+        "Toggle visibility of custom username icon",
+        "Twitter",
+        "Users",
+        "Window Buttons",
+        "[Recent] Only",
+        "[Unreached Achievements] Only",
+        "3D tilt",
+        "A soft accent glow under the cursor on large library blocks (game page panels, What's New, collections).",
+        "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+        "Add Shelf visibility",
+        "Aika",
+        "Balance",
+        "Balanced",
+        "Blurs the wallet balance (or the account name and the balance) in the top-right account button until you hover over it; inside its menu the login and the balance are blurred until hovered — handy for streams and screenshots.",
+        "Center",
+        "Cinematic",
+        "Classic",
+        "Color preset",
+        "Color set",
+        "Compact header",
+        "Compact: the menus, the tabs and the account buttons share one line.",
+        "Cursor glow",
+        "Cursor glow radius",
+        "Custom colors",
+        "Full",
+        "Gothic",
+        "Greeny",
+        "Hello Bert",
+        "How game covers in the library (Home shelves, collections) react to the cursor. 3D tilt: the cover turns toward the cursor in 3D with a moving glare. Lift: it rises a little. Zoom: the art zooms in its frame with a glare sweep.",
+        "How much a notification covers the desktop: lower is more transparent.",
+        "How much the theme moves on its own. Full: everything as designed (the default; already tuned to cost as little as it can). Balanced: fewer moving elements on and around items — no light following the cursor around store blocks and library panels, no shimmer on Play, no glares or light sweeps, 3D tilt covers lift instead, the Cinematic description stays still, the background light spots stand still; menus, hovers, page transitions, trailers, the store backgrounds (30 frames a second) and the glass notifications stay. Low: no Aika motion and no heavy effects at all — every look stays, but nothing the theme added moves (only Steam's own animations remain); the light spots are one still picture, no backdrop blur, no glass on notifications, no animated store backgrounds, no trailers playing behind the Cinematic page.",
+        "Japanese",
+        "Library covers",
+        "Lift",
+        "Low",
+        "Name and balance",
+        "Notification opacity",
+        "Notification wordmark",
+        "Privacy blur",
+        "Rose Ash",
+        "Steam News visibility",
+        "The \"Add shelf\" row at the bottom of the library home.",
+        "The \"What's New\" shelf at the top of the library home.",
+        "The Steam news (megaphone) button in the top bar.",
+        "The address capsule over store and community pages, top left (takes a Steam restart to reach the pages).",
+        "The font of the \"Aika\" wordmark in the background of notification toasts.",
+        "The layout of a game's store page. Cinematic: the trailers play muted over the whole window behind the logo, price and buttons, with a media gallery below; the editions and everything else stay as in Classic. Needs theme scripts.",
+        "The size of the cursor glow, in pixels.",
+        "The theme color set: the accent and the light spots. To set colors manually, turn on \"Custom colors\" in the \"Color set\" tab.",
+        "The wallet balance next to the account name in the top bar.",
+        "Top bar",
+        "URL visibility",
+        "Use your own colors instead of the preset. The colors themselves (accent, accent hover, three light spots) are on the \"Colors\" page right below.",
+        "Wallet visibility",
+        "What's New visibility",
+        "Where the Store, Library, Community and profile tabs sit in the top bar.",
+        "Zoom"
+      ],
       "machineDrafts": 1793,
       "nativeEntries": 17
     },
     "pt-BR": {
-      "extracted": 1862,
-      "translated": 1862,
-      "missing": [],
+      "extracted": 1985,
+      "translated": 1813,
+      "missing": [
+        "Show floating theme toggle?",
+        "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button.",
+        "Always show the sidebar don't matter on which page \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]",
+        "Hide Settings button from userpanel",
+        "Links panel buttons",
+        "Settings button",
+        "Show the links in the links panel (Store Page, DLC, Community Hub, ...) in full width",
+        "Achievement progress of the game on the Continue card.",
+        "Continue card: achievements",
+        "Dusk",
+        "Game page: collection tags",
+        "Home games",
+        "Installed",
+        "Off",
+        "Point at a cover in the recently played row: a card with the game's screenshots, its name and hours. The store's screenshots are fetched from Steam at that moment.",
+        "Rail",
+        "Recently played: preview",
+        "Sign-in screen",
+        "Steam's row for adding a shelf to the library home.",
+        "Steam's wall",
+        "Store: game list",
+        "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+        "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
+        "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
+        "Whole library",
+        "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list.",
+        "Account Button",
+        "Achievements Tab",
+        "Add a header button with a menu to launch Big Picture or SteamVR",
+        "Always Animated",
+        "Animate stickers in the menu on hover or always",
+        "Animated on Hover",
+        "Another Design for Steam",
+        "Apple",
+        "Apply blur effect to your account/login name",
+        "Apply blur effect to your wallet balance",
+        "Automatically pass the age check on store pages",
+        "Button Press Animation",
+        "Buttons shrink slightly when pressed",
+        "Bypass Age Verification",
+        "Change how round avatars with a profile frame look",
+        "Change how round message bubbles look",
+        "Change how round or sharp avatars look throughout Steam",
+        "Change how round or sharp buttons look throughout Steam",
+        "Chat Avatars",
+        "Chat Header Background",
+        "Chats",
+        "Choose what the account button in the header shows",
+        "Compact Manage Downloads Button",
+        "Context Menu",
+        "Contributors",
+        "Default Friends Tab",
+        "Disable",
+        "Display special badges for theme contributors on their profiles",
+        "Dock the emoticon menu as a side panel on click",
+        "Emoji Style",
+        "Emoji look in the emoticon menu (sets are loaded from the internet)",
+        "Emoticon Side Panel",
+        "Emoticon Size",
+        "Emoticons in Message Field",
+        "Exact Time",
+        "Exact Time: 'Last seen: Today at 14:00' | Disable: keeps '3 hours ago', only renames the label",
+        "Facebook",
+        "Fake Device Status",
+        "Friends",
+        "Friends&Chat",
+        "Group Chats Position",
+        "Header",
+        "Hide Both",
+        "Hide Custom Username Icon",
+        "Hide Friends Tabs",
+        "Hide Nickname",
+        "Hide Unread Count in Friends",
+        "Hide Unread Messages Group",
+        "Hide avatar frames",
+        "Hide specific elements from the achievements tab",
+        "Hide the 'Unread Messages' group in the friends list",
+        "Hide the Friends / Chats tabs above the list",
+        "Hide unread message counters next to friends",
+        "Inside",
+        "Large",
+        "Library Items",
+        "Main",
+        "Main Buttons",
+        "Menus",
+        "Message Field Buttons",
+        "Mobile",
+        "Modern",
+        "My Messages Side",
+        "Outside",
+        "Place emoticon and attachment buttons outside or inside the message field",
+        "Refresh",
+        "Refresh: redesigned context menus | Legacy: default Steam menus",
+        "Relative Last Seen",
+        "Replaces default indicator with a modern dot-style badge",
+        "Root Colors",
+        "Rounding Buttons",
+        "Rounding Framed Avatars",
+        "Rounding Messages",
+        "Show Steam emoticons as pictures while typing",
+        "Show avatars beside messages in one-on-one chats",
+        "Show group chats above or below recent chats",
+        "Show header buttons as text, icons, or both",
+        "Show the Big Picture or Mobile mark next to your status (applied on Steam launch)",
+        "Show the friend's mini profile background behind the chat header",
+        "Show your own messages on the right or on the left",
+        "Shrink the downloads button in the header to an icon with a progress bar",
+        "Size of emoticons in the emoticon menu",
+        "Size of stickers in the emoticon menu",
+        "Steam Modes Button",
+        "Sticker Size",
+        "Stickers in Menu",
+        "Tab opened on Steam launch (Chats requires the Recent Chats plugin)",
+        "Text",
+        "Text and Icons",
+        "Toggle visibility of custom username icon",
+        "Twitter",
+        "Users",
+        "Window Buttons",
+        "[Recent] Only",
+        "[Unreached Achievements] Only",
+        "3D tilt",
+        "A soft accent glow under the cursor on large library blocks (game page panels, What's New, collections).",
+        "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+        "Add Shelf visibility",
+        "Aika",
+        "Balance",
+        "Balanced",
+        "Blurs the wallet balance (or the account name and the balance) in the top-right account button until you hover over it; inside its menu the login and the balance are blurred until hovered — handy for streams and screenshots.",
+        "Center",
+        "Cinematic",
+        "Classic",
+        "Color preset",
+        "Color set",
+        "Compact header",
+        "Compact: the menus, the tabs and the account buttons share one line.",
+        "Cursor glow",
+        "Cursor glow radius",
+        "Custom colors",
+        "Full",
+        "Gothic",
+        "Greeny",
+        "Hello Bert",
+        "How game covers in the library (Home shelves, collections) react to the cursor. 3D tilt: the cover turns toward the cursor in 3D with a moving glare. Lift: it rises a little. Zoom: the art zooms in its frame with a glare sweep.",
+        "How much a notification covers the desktop: lower is more transparent.",
+        "How much the theme moves on its own. Full: everything as designed (the default; already tuned to cost as little as it can). Balanced: fewer moving elements on and around items — no light following the cursor around store blocks and library panels, no shimmer on Play, no glares or light sweeps, 3D tilt covers lift instead, the Cinematic description stays still, the background light spots stand still; menus, hovers, page transitions, trailers, the store backgrounds (30 frames a second) and the glass notifications stay. Low: no Aika motion and no heavy effects at all — every look stays, but nothing the theme added moves (only Steam's own animations remain); the light spots are one still picture, no backdrop blur, no glass on notifications, no animated store backgrounds, no trailers playing behind the Cinematic page.",
+        "Japanese",
+        "Library covers",
+        "Lift",
+        "Low",
+        "Name and balance",
+        "Notification opacity",
+        "Notification wordmark",
+        "Privacy blur",
+        "Rose Ash",
+        "Steam News visibility",
+        "The \"Add shelf\" row at the bottom of the library home.",
+        "The \"What's New\" shelf at the top of the library home.",
+        "The Steam news (megaphone) button in the top bar.",
+        "The address capsule over store and community pages, top left (takes a Steam restart to reach the pages).",
+        "The font of the \"Aika\" wordmark in the background of notification toasts.",
+        "The layout of a game's store page. Cinematic: the trailers play muted over the whole window behind the logo, price and buttons, with a media gallery below; the editions and everything else stay as in Classic. Needs theme scripts.",
+        "The size of the cursor glow, in pixels.",
+        "The theme color set: the accent and the light spots. To set colors manually, turn on \"Custom colors\" in the \"Color set\" tab.",
+        "The wallet balance next to the account name in the top bar.",
+        "Top bar",
+        "URL visibility",
+        "Use your own colors instead of the preset. The colors themselves (accent, accent hover, three light spots) are on the \"Colors\" page right below.",
+        "Wallet visibility",
+        "What's New visibility",
+        "Where the Store, Library, Community and profile tabs sit in the top bar.",
+        "Zoom"
+      ],
       "machineDrafts": 1794,
       "nativeEntries": 17
     },
     "ja": {
-      "extracted": 1862,
-      "translated": 1862,
-      "missing": [],
+      "extracted": 1985,
+      "translated": 1813,
+      "missing": [
+        "Show floating theme toggle?",
+        "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button.",
+        "Always show the sidebar don't matter on which page \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]",
+        "Hide Settings button from userpanel",
+        "Links panel buttons",
+        "Settings button",
+        "Show the links in the links panel (Store Page, DLC, Community Hub, ...) in full width",
+        "Achievement progress of the game on the Continue card.",
+        "Continue card: achievements",
+        "Dusk",
+        "Game page: collection tags",
+        "Home games",
+        "Installed",
+        "Off",
+        "Point at a cover in the recently played row: a card with the game's screenshots, its name and hours. The store's screenshots are fetched from Steam at that moment.",
+        "Rail",
+        "Recently played: preview",
+        "Sign-in screen",
+        "Steam's row for adding a shelf to the library home.",
+        "Steam's wall",
+        "Store: game list",
+        "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+        "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
+        "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
+        "Whole library",
+        "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list.",
+        "Account Button",
+        "Achievements Tab",
+        "Add a header button with a menu to launch Big Picture or SteamVR",
+        "Always Animated",
+        "Animate stickers in the menu on hover or always",
+        "Animated on Hover",
+        "Another Design for Steam",
+        "Apple",
+        "Apply blur effect to your account/login name",
+        "Apply blur effect to your wallet balance",
+        "Automatically pass the age check on store pages",
+        "Button Press Animation",
+        "Buttons shrink slightly when pressed",
+        "Bypass Age Verification",
+        "Change how round avatars with a profile frame look",
+        "Change how round message bubbles look",
+        "Change how round or sharp avatars look throughout Steam",
+        "Change how round or sharp buttons look throughout Steam",
+        "Chat Avatars",
+        "Chat Header Background",
+        "Chats",
+        "Choose what the account button in the header shows",
+        "Compact Manage Downloads Button",
+        "Context Menu",
+        "Contributors",
+        "Default Friends Tab",
+        "Disable",
+        "Display special badges for theme contributors on their profiles",
+        "Dock the emoticon menu as a side panel on click",
+        "Emoji Style",
+        "Emoji look in the emoticon menu (sets are loaded from the internet)",
+        "Emoticon Side Panel",
+        "Emoticon Size",
+        "Emoticons in Message Field",
+        "Exact Time",
+        "Exact Time: 'Last seen: Today at 14:00' | Disable: keeps '3 hours ago', only renames the label",
+        "Facebook",
+        "Fake Device Status",
+        "Friends",
+        "Friends&Chat",
+        "Group Chats Position",
+        "Header",
+        "Hide Both",
+        "Hide Custom Username Icon",
+        "Hide Friends Tabs",
+        "Hide Nickname",
+        "Hide Unread Count in Friends",
+        "Hide Unread Messages Group",
+        "Hide avatar frames",
+        "Hide specific elements from the achievements tab",
+        "Hide the 'Unread Messages' group in the friends list",
+        "Hide the Friends / Chats tabs above the list",
+        "Hide unread message counters next to friends",
+        "Inside",
+        "Large",
+        "Library Items",
+        "Main",
+        "Main Buttons",
+        "Menus",
+        "Message Field Buttons",
+        "Mobile",
+        "Modern",
+        "My Messages Side",
+        "Outside",
+        "Place emoticon and attachment buttons outside or inside the message field",
+        "Refresh",
+        "Refresh: redesigned context menus | Legacy: default Steam menus",
+        "Relative Last Seen",
+        "Replaces default indicator with a modern dot-style badge",
+        "Root Colors",
+        "Rounding Buttons",
+        "Rounding Framed Avatars",
+        "Rounding Messages",
+        "Show Steam emoticons as pictures while typing",
+        "Show avatars beside messages in one-on-one chats",
+        "Show group chats above or below recent chats",
+        "Show header buttons as text, icons, or both",
+        "Show the Big Picture or Mobile mark next to your status (applied on Steam launch)",
+        "Show the friend's mini profile background behind the chat header",
+        "Show your own messages on the right or on the left",
+        "Shrink the downloads button in the header to an icon with a progress bar",
+        "Size of emoticons in the emoticon menu",
+        "Size of stickers in the emoticon menu",
+        "Steam Modes Button",
+        "Sticker Size",
+        "Stickers in Menu",
+        "Tab opened on Steam launch (Chats requires the Recent Chats plugin)",
+        "Text",
+        "Text and Icons",
+        "Toggle visibility of custom username icon",
+        "Twitter",
+        "Users",
+        "Window Buttons",
+        "[Recent] Only",
+        "[Unreached Achievements] Only",
+        "3D tilt",
+        "A soft accent glow under the cursor on large library blocks (game page panels, What's New, collections).",
+        "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+        "Add Shelf visibility",
+        "Aika",
+        "Balance",
+        "Balanced",
+        "Blurs the wallet balance (or the account name and the balance) in the top-right account button until you hover over it; inside its menu the login and the balance are blurred until hovered — handy for streams and screenshots.",
+        "Center",
+        "Cinematic",
+        "Classic",
+        "Color preset",
+        "Color set",
+        "Compact header",
+        "Compact: the menus, the tabs and the account buttons share one line.",
+        "Cursor glow",
+        "Cursor glow radius",
+        "Custom colors",
+        "Full",
+        "Gothic",
+        "Greeny",
+        "Hello Bert",
+        "How game covers in the library (Home shelves, collections) react to the cursor. 3D tilt: the cover turns toward the cursor in 3D with a moving glare. Lift: it rises a little. Zoom: the art zooms in its frame with a glare sweep.",
+        "How much a notification covers the desktop: lower is more transparent.",
+        "How much the theme moves on its own. Full: everything as designed (the default; already tuned to cost as little as it can). Balanced: fewer moving elements on and around items — no light following the cursor around store blocks and library panels, no shimmer on Play, no glares or light sweeps, 3D tilt covers lift instead, the Cinematic description stays still, the background light spots stand still; menus, hovers, page transitions, trailers, the store backgrounds (30 frames a second) and the glass notifications stay. Low: no Aika motion and no heavy effects at all — every look stays, but nothing the theme added moves (only Steam's own animations remain); the light spots are one still picture, no backdrop blur, no glass on notifications, no animated store backgrounds, no trailers playing behind the Cinematic page.",
+        "Japanese",
+        "Library covers",
+        "Lift",
+        "Low",
+        "Name and balance",
+        "Notification opacity",
+        "Notification wordmark",
+        "Privacy blur",
+        "Rose Ash",
+        "Steam News visibility",
+        "The \"Add shelf\" row at the bottom of the library home.",
+        "The \"What's New\" shelf at the top of the library home.",
+        "The Steam news (megaphone) button in the top bar.",
+        "The address capsule over store and community pages, top left (takes a Steam restart to reach the pages).",
+        "The font of the \"Aika\" wordmark in the background of notification toasts.",
+        "The layout of a game's store page. Cinematic: the trailers play muted over the whole window behind the logo, price and buttons, with a media gallery below; the editions and everything else stay as in Classic. Needs theme scripts.",
+        "The size of the cursor glow, in pixels.",
+        "The theme color set: the accent and the light spots. To set colors manually, turn on \"Custom colors\" in the \"Color set\" tab.",
+        "The wallet balance next to the account name in the top bar.",
+        "Top bar",
+        "URL visibility",
+        "Use your own colors instead of the preset. The colors themselves (accent, accent hover, three light spots) are on the \"Colors\" page right below.",
+        "Wallet visibility",
+        "What's New visibility",
+        "Where the Store, Library, Community and profile tabs sit in the top bar.",
+        "Zoom"
+      ],
       "machineDrafts": 1789,
       "nativeEntries": 17
     }
@@ -137,45 +1175,6 @@
         },
         "ja": {
           "translated": 5,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "plugin-alowave-millennium-faceit-stats",
-      "name": "FaceIt Stats",
-      "kind": "plugin",
-      "repository": "alowave/millennium-faceit-stats",
-      "revision": "3e55d6bb2275bace8d4e83087fb832919b83ef71",
-      "extracted": 2,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 2,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 2,
-          "missing": []
-        },
-        "es": {
-          "translated": 2,
-          "missing": []
-        },
-        "fr": {
-          "translated": 2,
-          "missing": []
-        },
-        "de": {
-          "translated": 2,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 2,
-          "missing": []
-        },
-        "ja": {
-          "translated": 2,
           "missing": []
         }
       }
@@ -302,7 +1301,7 @@
       "name": "Extendium",
       "kind": "plugin",
       "repository": "BossSloth/Extendium",
-      "revision": "3f9ffb0cd9ada58a7de7f71b3ed8d094ca7130f6",
+      "revision": "550bb1c0b3fd7c5165677e7a226112af11a842e1",
       "extracted": 67,
       "sourceError": null,
       "languages": {
@@ -341,7 +1340,7 @@
       "name": "Achievement Groups",
       "kind": "plugin",
       "repository": "BossSloth/SteamHunter-plugin",
-      "revision": "3662d0fa4f32a0b7d4151004cd241fe009b36f0d",
+      "revision": "582147fb1c7f1e471d1b377d200aaaf4af239723",
       "extracted": 36,
       "sourceError": null,
       "languages": {
@@ -371,6 +1370,357 @@
         },
         "ja": {
           "translated": 36,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-Inceptofn-Steam-GameRenamer-Plugin",
+      "name": "Game Renamer",
+      "kind": "plugin",
+      "repository": "Inceptofn/Steam-GameRenamer-Plugin",
+      "revision": "f24a9eeeac350bf6ede9baa4af289e9d4d1cedef",
+      "extracted": 9,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 9,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 9,
+          "missing": []
+        },
+        "es": {
+          "translated": 9,
+          "missing": []
+        },
+        "fr": {
+          "translated": 9,
+          "missing": []
+        },
+        "de": {
+          "translated": 9,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 9,
+          "missing": []
+        },
+        "ja": {
+          "translated": 9,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-Leon135-cswatch-plugin",
+      "name": "CSWatch Plugin",
+      "kind": "plugin",
+      "repository": "Leon135/cswatch-plugin",
+      "revision": "6d6387f3d2699cc1bc6c0e1ee99b612160745dba",
+      "extracted": 2,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 2,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 2,
+          "missing": []
+        },
+        "es": {
+          "translated": 2,
+          "missing": []
+        },
+        "fr": {
+          "translated": 2,
+          "missing": []
+        },
+        "de": {
+          "translated": 2,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 2,
+          "missing": []
+        },
+        "ja": {
+          "translated": 2,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-SaiyajinK-Easy-Restart-Reload-for-Steam",
+      "name": "Easy Restart / Reload for Steam",
+      "kind": "plugin",
+      "repository": "SaiyajinK/Easy-Restart-Reload-for-Steam",
+      "revision": "dc79ae21c6a71af946fd71b5867eee1b179ea184",
+      "extracted": 19,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 19,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 19,
+          "missing": []
+        },
+        "es": {
+          "translated": 19,
+          "missing": []
+        },
+        "fr": {
+          "translated": 19,
+          "missing": []
+        },
+        "de": {
+          "translated": 19,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 19,
+          "missing": []
+        },
+        "ja": {
+          "translated": 19,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-SalvadorCorreia-Sortium",
+      "name": "Sortium",
+      "kind": "plugin",
+      "repository": "SalvadorCorreia/Sortium",
+      "revision": "d6a286c51cdbb10765606d0e92fb35b3e14216fa",
+      "extracted": 42,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 42,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 42,
+          "missing": []
+        },
+        "es": {
+          "translated": 42,
+          "missing": []
+        },
+        "fr": {
+          "translated": 42,
+          "missing": []
+        },
+        "de": {
+          "translated": 42,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 42,
+          "missing": []
+        },
+        "ja": {
+          "translated": 42,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-Shightrox-millennium-cs2-profile-stats",
+      "name": "CS2 Profile Stats",
+      "kind": "plugin",
+      "repository": "Shightrox/millennium-cs2-profile-stats",
+      "revision": "7e484ddb86ad4160d92106c2ad9a3e95faa97627",
+      "extracted": 23,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 23,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 23,
+          "missing": []
+        },
+        "es": {
+          "translated": 23,
+          "missing": []
+        },
+        "fr": {
+          "translated": 23,
+          "missing": []
+        },
+        "de": {
+          "translated": 23,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 23,
+          "missing": []
+        },
+        "ja": {
+          "translated": 23,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-TOR968-csstats-extension",
+      "name": "CSStats.gg Extension",
+      "kind": "plugin",
+      "repository": "TOR968/csstats-extension",
+      "revision": "86dca7f0c6c76d3b7a1f9a912a1f663726374d9f",
+      "extracted": 6,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 6,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 6,
+          "missing": []
+        },
+        "es": {
+          "translated": 6,
+          "missing": []
+        },
+        "fr": {
+          "translated": 6,
+          "missing": []
+        },
+        "de": {
+          "translated": 6,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 6,
+          "missing": []
+        },
+        "ja": {
+          "translated": 6,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-TOR968-leetify-extension",
+      "name": "Leetify Extension",
+      "kind": "plugin",
+      "repository": "TOR968/leetify-extension",
+      "revision": "80082ced08186ceeca7ab9fdcd388fe632b8c633",
+      "extracted": 4,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 4,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 4,
+          "missing": []
+        },
+        "es": {
+          "translated": 4,
+          "missing": []
+        },
+        "fr": {
+          "translated": 4,
+          "missing": []
+        },
+        "de": {
+          "translated": 4,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 4,
+          "missing": []
+        },
+        "ja": {
+          "translated": 4,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-Yohlo-protondb-library-badges",
+      "name": "ProtonDB Library Badges",
+      "kind": "plugin",
+      "repository": "Yohlo/protondb-library-badges",
+      "revision": "3e3ea9402a1f729e629270afdcc481c12f31bb42",
+      "extracted": 23,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 23,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 23,
+          "missing": []
+        },
+        "es": {
+          "translated": 23,
+          "missing": []
+        },
+        "fr": {
+          "translated": 23,
+          "missing": []
+        },
+        "de": {
+          "translated": 23,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 23,
+          "missing": []
+        },
+        "ja": {
+          "translated": 23,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "plugin-alowave-millennium-faceit-stats",
+      "name": "FaceIt Stats",
+      "kind": "plugin",
+      "repository": "alowave/millennium-faceit-stats",
+      "revision": "3e55d6bb2275bace8d4e83087fb832919b83ef71",
+      "extracted": 2,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 2,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 2,
+          "missing": []
+        },
+        "es": {
+          "translated": 2,
+          "missing": []
+        },
+        "fr": {
+          "translated": 2,
+          "missing": []
+        },
+        "de": {
+          "translated": 2,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 2,
+          "missing": []
+        },
+        "ja": {
+          "translated": 2,
           "missing": []
         }
       }
@@ -449,45 +1799,6 @@
         },
         "ja": {
           "translated": 2,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "plugin-Inceptofn-Steam-GameRenamer-Plugin",
-      "name": "Game Renamer",
-      "kind": "plugin",
-      "repository": "Inceptofn/Steam-GameRenamer-Plugin",
-      "revision": "f24a9eeeac350bf6ede9baa4af289e9d4d1cedef",
-      "extracted": 9,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 9,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 9,
-          "missing": []
-        },
-        "es": {
-          "translated": 9,
-          "missing": []
-        },
-        "fr": {
-          "translated": 9,
-          "missing": []
-        },
-        "de": {
-          "translated": 9,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 9,
-          "missing": []
-        },
-        "ja": {
-          "translated": 9,
           "missing": []
         }
       }
@@ -614,7 +1925,7 @@
       "name": "Size on Disk",
       "kind": "plugin",
       "repository": "k0d13/steam-size-on-disk",
-      "revision": "35ee6ab7a221429766ddafcee4d7a2a288246ecc",
+      "revision": "600e00f66bf2dc84093c7af47624e563b177c827",
       "extracted": 7,
       "sourceError": null,
       "languages": {
@@ -644,45 +1955,6 @@
         },
         "ja": {
           "translated": 7,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "plugin-Leon135-cswatch-plugin",
-      "name": "CSWatch Plugin",
-      "kind": "plugin",
-      "repository": "Leon135/cswatch-plugin",
-      "revision": "6d6387f3d2699cc1bc6c0e1ee99b612160745dba",
-      "extracted": 2,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 2,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 2,
-          "missing": []
-        },
-        "es": {
-          "translated": 2,
-          "missing": []
-        },
-        "fr": {
-          "translated": 2,
-          "missing": []
-        },
-        "de": {
-          "translated": 2,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 2,
-          "missing": []
-        },
-        "ja": {
-          "translated": 2,
           "missing": []
         }
       }
@@ -1039,123 +2311,6 @@
       }
     },
     {
-      "id": "plugin-SaiyajinK-Easy-Restart-Reload-for-Steam",
-      "name": "Easy Restart / Reload for Steam",
-      "kind": "plugin",
-      "repository": "SaiyajinK/Easy-Restart-Reload-for-Steam",
-      "revision": "dc79ae21c6a71af946fd71b5867eee1b179ea184",
-      "extracted": 19,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 19,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 19,
-          "missing": []
-        },
-        "es": {
-          "translated": 19,
-          "missing": []
-        },
-        "fr": {
-          "translated": 19,
-          "missing": []
-        },
-        "de": {
-          "translated": 19,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 19,
-          "missing": []
-        },
-        "ja": {
-          "translated": 19,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "plugin-SalvadorCorreia-Sortium",
-      "name": "Sortium",
-      "kind": "plugin",
-      "repository": "SalvadorCorreia/Sortium",
-      "revision": "d6a286c51cdbb10765606d0e92fb35b3e14216fa",
-      "extracted": 42,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 42,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 42,
-          "missing": []
-        },
-        "es": {
-          "translated": 42,
-          "missing": []
-        },
-        "fr": {
-          "translated": 42,
-          "missing": []
-        },
-        "de": {
-          "translated": 42,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 42,
-          "missing": []
-        },
-        "ja": {
-          "translated": 42,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "plugin-Shightrox-millennium-cs2-profile-stats",
-      "name": "CS2 Profile Stats",
-      "kind": "plugin",
-      "repository": "Shightrox/millennium-cs2-profile-stats",
-      "revision": "7e484ddb86ad4160d92106c2ad9a3e95faa97627",
-      "extracted": 23,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 23,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 23,
-          "missing": []
-        },
-        "es": {
-          "translated": 23,
-          "missing": []
-        },
-        "fr": {
-          "translated": 23,
-          "missing": []
-        },
-        "de": {
-          "translated": 23,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 23,
-          "missing": []
-        },
-        "ja": {
-          "translated": 23,
-          "missing": []
-        }
-      }
-    },
-    {
       "id": "plugin-swindlesmccoop-playercount-badge",
       "name": "Player Count",
       "kind": "plugin",
@@ -1190,84 +2345,6 @@
         },
         "ja": {
           "translated": 3,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "plugin-TOR968-csstats-extension",
-      "name": "CSStats.gg Extension",
-      "kind": "plugin",
-      "repository": "TOR968/csstats-extension",
-      "revision": "86dca7f0c6c76d3b7a1f9a912a1f663726374d9f",
-      "extracted": 6,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 6,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 6,
-          "missing": []
-        },
-        "es": {
-          "translated": 6,
-          "missing": []
-        },
-        "fr": {
-          "translated": 6,
-          "missing": []
-        },
-        "de": {
-          "translated": 6,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 6,
-          "missing": []
-        },
-        "ja": {
-          "translated": 6,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "plugin-TOR968-leetify-extension",
-      "name": "Leetify Extension",
-      "kind": "plugin",
-      "repository": "TOR968/leetify-extension",
-      "revision": "80082ced08186ceeca7ab9fdcd388fe632b8c633",
-      "extracted": 4,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 4,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 4,
-          "missing": []
-        },
-        "es": {
-          "translated": 4,
-          "missing": []
-        },
-        "fr": {
-          "translated": 4,
-          "missing": []
-        },
-        "de": {
-          "translated": 4,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 4,
-          "missing": []
-        },
-        "ja": {
-          "translated": 4,
           "missing": []
         }
       }
@@ -1429,45 +2506,6 @@
       }
     },
     {
-      "id": "plugin-Yohlo-protondb-library-badges",
-      "name": "ProtonDB Library Badges",
-      "kind": "plugin",
-      "repository": "Yohlo/protondb-library-badges",
-      "revision": "3e3ea9402a1f729e629270afdcc481c12f31bb42",
-      "extracted": 23,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 23,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 23,
-          "missing": []
-        },
-        "es": {
-          "translated": 23,
-          "missing": []
-        },
-        "fr": {
-          "translated": 23,
-          "missing": []
-        },
-        "de": {
-          "translated": 23,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 23,
-          "missing": []
-        },
-        "ja": {
-          "translated": 23,
-          "missing": []
-        }
-      }
-    },
-    {
       "id": "theme-1739321142-TsukushiAria-theme",
       "name": "TsukushiAria",
       "kind": "theme",
@@ -1502,45 +2540,6 @@
         },
         "ja": {
           "translated": 1,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "theme-aaeriih-umi-asanagi-theme",
-      "name": "umi-asanagi-theme",
-      "kind": "theme",
-      "repository": "aaeriih/umi-asanagi-theme",
-      "revision": "276bb2efedea7d5a694bd8711c472708f8d49b44",
-      "extracted": 12,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 12,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 12,
-          "missing": []
-        },
-        "es": {
-          "translated": 12,
-          "missing": []
-        },
-        "fr": {
-          "translated": 12,
-          "missing": []
-        },
-        "de": {
-          "translated": 12,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 12,
-          "missing": []
-        },
-        "ja": {
-          "translated": 12,
           "missing": []
         }
       }
@@ -1585,45 +2584,6 @@
       }
     },
     {
-      "id": "theme-dotFelixan-NEVKO-UI",
-      "name": "NEVKO-UI",
-      "kind": "theme",
-      "repository": "dotFelixan/NEVKO-UI",
-      "revision": "e8ef4a2c92603e6fcd18dd4a22215de30ab27090",
-      "extracted": 87,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 87,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 87,
-          "missing": []
-        },
-        "es": {
-          "translated": 87,
-          "missing": []
-        },
-        "fr": {
-          "translated": 87,
-          "missing": []
-        },
-        "de": {
-          "translated": 87,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 87,
-          "missing": []
-        },
-        "ja": {
-          "translated": 87,
-          "missing": []
-        }
-      }
-    },
-    {
       "id": "theme-EugeneXXXie-blueArchiveSteamSkin",
       "name": "BlueArchive",
       "kind": "theme",
@@ -1659,6 +2619,1146 @@
         "ja": {
           "translated": 1,
           "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-Jonius7-SteamUI-GoldenEra",
+      "name": "SteamUI-GoldenEra",
+      "kind": "theme",
+      "repository": "Jonius7/SteamUI-GoldenEra",
+      "revision": "7a452d3d66dd7b3b71f6af2914aacf5f48d3fd43",
+      "extracted": 46,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 46,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 46,
+          "missing": []
+        },
+        "es": {
+          "translated": 46,
+          "missing": []
+        },
+        "fr": {
+          "translated": 46,
+          "missing": []
+        },
+        "de": {
+          "translated": 46,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 46,
+          "missing": []
+        },
+        "ja": {
+          "translated": 46,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-MapleAtMorning-OldSteam-Theme",
+      "name": "OldSteam",
+      "kind": "theme",
+      "repository": "MapleAtMorning/OldSteam-Theme",
+      "revision": "9a7214a90ddc3af1dae14786719103cd7c186e6e",
+      "extracted": 13,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 13,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 13,
+          "missing": []
+        },
+        "es": {
+          "translated": 13,
+          "missing": []
+        },
+        "fr": {
+          "translated": 13,
+          "missing": []
+        },
+        "de": {
+          "translated": 13,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 13,
+          "missing": []
+        },
+        "ja": {
+          "translated": 13,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-Plaer1-ATOMS",
+      "name": "ATOMS",
+      "kind": "theme",
+      "repository": "Plaer1/ATOMS",
+      "revision": "ff4172b4c708420280a15f2c94beac7c1018c5b4",
+      "extracted": 14,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 14,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 12,
+          "missing": [
+            "Show floating theme toggle?",
+            "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button."
+          ]
+        },
+        "es": {
+          "translated": 12,
+          "missing": [
+            "Show floating theme toggle?",
+            "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button."
+          ]
+        },
+        "fr": {
+          "translated": 12,
+          "missing": [
+            "Show floating theme toggle?",
+            "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button."
+          ]
+        },
+        "de": {
+          "translated": 12,
+          "missing": [
+            "Show floating theme toggle?",
+            "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button."
+          ]
+        },
+        "pt-BR": {
+          "translated": 12,
+          "missing": [
+            "Show floating theme toggle?",
+            "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button."
+          ]
+        },
+        "ja": {
+          "translated": 12,
+          "missing": [
+            "Show floating theme toggle?",
+            "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button."
+          ]
+        }
+      }
+    },
+    {
+      "id": "theme-RoseTheFlower-MetroSteam",
+      "name": "Metro by Rose",
+      "kind": "theme",
+      "repository": "RoseTheFlower/MetroSteam",
+      "revision": "85d3488e426bfecc5a871f10021d3eab55318791",
+      "extracted": 1,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 1,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 1,
+          "missing": []
+        },
+        "es": {
+          "translated": 1,
+          "missing": []
+        },
+        "fr": {
+          "translated": 1,
+          "missing": []
+        },
+        "de": {
+          "translated": 1,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 1,
+          "missing": []
+        },
+        "ja": {
+          "translated": 1,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-SaiyajinK-Minimal-Dark-for-Steam",
+      "name": "Minimal Dark",
+      "kind": "theme",
+      "repository": "SaiyajinK/Minimal-Dark-for-Steam",
+      "revision": "6a2f10be191f8ea7ef8a1ebfc27e4ad86d31f198",
+      "extracted": 470,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 470,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 470,
+          "missing": []
+        },
+        "es": {
+          "translated": 470,
+          "missing": []
+        },
+        "fr": {
+          "translated": 470,
+          "missing": []
+        },
+        "de": {
+          "translated": 470,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 470,
+          "missing": []
+        },
+        "ja": {
+          "translated": 470,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-Sennanon87-AeroXP",
+      "name": "Aero XP",
+      "kind": "theme",
+      "repository": "Sennanon87/AeroXP",
+      "revision": "06055fea6a0a41645c1d7fd77669be24dc59da99",
+      "extracted": 68,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 68,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 68,
+          "missing": []
+        },
+        "es": {
+          "translated": 68,
+          "missing": []
+        },
+        "fr": {
+          "translated": 68,
+          "missing": []
+        },
+        "de": {
+          "translated": 68,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 68,
+          "missing": []
+        },
+        "ja": {
+          "translated": 68,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-SpaceTheme-Steam",
+      "name": "SpaceTheme for Steam",
+      "kind": "theme",
+      "repository": "SpaceTheme/Steam",
+      "revision": "650f3961021720b8c1ee88fc9ca2cdf97f12ed0d",
+      "extracted": 148,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 148,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 143,
+          "missing": [
+            "Always show the sidebar don't matter on which page \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]",
+            "Hide Settings button from userpanel",
+            "Links panel buttons",
+            "Settings button",
+            "Show the links in the links panel (Store Page, DLC, Community Hub, ...) in full width"
+          ]
+        },
+        "es": {
+          "translated": 143,
+          "missing": [
+            "Always show the sidebar don't matter on which page \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]",
+            "Hide Settings button from userpanel",
+            "Links panel buttons",
+            "Settings button",
+            "Show the links in the links panel (Store Page, DLC, Community Hub, ...) in full width"
+          ]
+        },
+        "fr": {
+          "translated": 143,
+          "missing": [
+            "Always show the sidebar don't matter on which page \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]",
+            "Hide Settings button from userpanel",
+            "Links panel buttons",
+            "Settings button",
+            "Show the links in the links panel (Store Page, DLC, Community Hub, ...) in full width"
+          ]
+        },
+        "de": {
+          "translated": 143,
+          "missing": [
+            "Always show the sidebar don't matter on which page \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]",
+            "Hide Settings button from userpanel",
+            "Links panel buttons",
+            "Settings button",
+            "Show the links in the links panel (Store Page, DLC, Community Hub, ...) in full width"
+          ]
+        },
+        "pt-BR": {
+          "translated": 143,
+          "missing": [
+            "Always show the sidebar don't matter on which page \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]",
+            "Hide Settings button from userpanel",
+            "Links panel buttons",
+            "Settings button",
+            "Show the links in the links panel (Store Page, DLC, Community Hub, ...) in full width"
+          ]
+        },
+        "ja": {
+          "translated": 143,
+          "missing": [
+            "Always show the sidebar don't matter on which page \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]",
+            "Hide Settings button from userpanel",
+            "Links panel buttons",
+            "Settings button",
+            "Show the links in the links panel (Store Page, DLC, Community Hub, ...) in full width"
+          ]
+        }
+      }
+    },
+    {
+      "id": "theme-Yareli0i-glass-dusk",
+      "name": "Glass Dusk",
+      "kind": "theme",
+      "repository": "Yareli0i/glass-dusk",
+      "revision": "079654612ce19586d68e1268863338d9b484bc1d",
+      "extracted": 91,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 91,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 72,
+          "missing": [
+            "Achievement progress of the game on the Continue card.",
+            "Continue card: achievements",
+            "Dusk",
+            "Game page: collection tags",
+            "Home games",
+            "Installed",
+            "Off",
+            "Point at a cover in the recently played row: a card with the game's screenshots, its name and hours. The store's screenshots are fetched from Steam at that moment.",
+            "Rail",
+            "Recently played: preview",
+            "Sign-in screen",
+            "Steam's row for adding a shelf to the library home.",
+            "Steam's wall",
+            "Store: game list",
+            "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+            "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
+            "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
+            "Whole library",
+            "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list."
+          ]
+        },
+        "es": {
+          "translated": 72,
+          "missing": [
+            "Achievement progress of the game on the Continue card.",
+            "Continue card: achievements",
+            "Dusk",
+            "Game page: collection tags",
+            "Home games",
+            "Installed",
+            "Off",
+            "Point at a cover in the recently played row: a card with the game's screenshots, its name and hours. The store's screenshots are fetched from Steam at that moment.",
+            "Rail",
+            "Recently played: preview",
+            "Sign-in screen",
+            "Steam's row for adding a shelf to the library home.",
+            "Steam's wall",
+            "Store: game list",
+            "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+            "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
+            "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
+            "Whole library",
+            "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list."
+          ]
+        },
+        "fr": {
+          "translated": 72,
+          "missing": [
+            "Achievement progress of the game on the Continue card.",
+            "Continue card: achievements",
+            "Dusk",
+            "Game page: collection tags",
+            "Home games",
+            "Installed",
+            "Off",
+            "Point at a cover in the recently played row: a card with the game's screenshots, its name and hours. The store's screenshots are fetched from Steam at that moment.",
+            "Rail",
+            "Recently played: preview",
+            "Sign-in screen",
+            "Steam's row for adding a shelf to the library home.",
+            "Steam's wall",
+            "Store: game list",
+            "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+            "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
+            "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
+            "Whole library",
+            "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list."
+          ]
+        },
+        "de": {
+          "translated": 72,
+          "missing": [
+            "Achievement progress of the game on the Continue card.",
+            "Continue card: achievements",
+            "Dusk",
+            "Game page: collection tags",
+            "Home games",
+            "Installed",
+            "Off",
+            "Point at a cover in the recently played row: a card with the game's screenshots, its name and hours. The store's screenshots are fetched from Steam at that moment.",
+            "Rail",
+            "Recently played: preview",
+            "Sign-in screen",
+            "Steam's row for adding a shelf to the library home.",
+            "Steam's wall",
+            "Store: game list",
+            "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+            "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
+            "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
+            "Whole library",
+            "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list."
+          ]
+        },
+        "pt-BR": {
+          "translated": 72,
+          "missing": [
+            "Achievement progress of the game on the Continue card.",
+            "Continue card: achievements",
+            "Dusk",
+            "Game page: collection tags",
+            "Home games",
+            "Installed",
+            "Off",
+            "Point at a cover in the recently played row: a card with the game's screenshots, its name and hours. The store's screenshots are fetched from Steam at that moment.",
+            "Rail",
+            "Recently played: preview",
+            "Sign-in screen",
+            "Steam's row for adding a shelf to the library home.",
+            "Steam's wall",
+            "Store: game list",
+            "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+            "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
+            "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
+            "Whole library",
+            "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list."
+          ]
+        },
+        "ja": {
+          "translated": 72,
+          "missing": [
+            "Achievement progress of the game on the Continue card.",
+            "Continue card: achievements",
+            "Dusk",
+            "Game page: collection tags",
+            "Home games",
+            "Installed",
+            "Off",
+            "Point at a cover in the recently played row: a card with the game's screenshots, its name and hours. The store's screenshots are fetched from Steam at that moment.",
+            "Rail",
+            "Recently played: preview",
+            "Sign-in screen",
+            "Steam's row for adding a shelf to the library home.",
+            "Steam's wall",
+            "Store: game list",
+            "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+            "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
+            "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
+            "Whole library",
+            "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list."
+          ]
+        }
+      }
+    },
+    {
+      "id": "theme-aaeriih-umi-asanagi-theme",
+      "name": "umi-asanagi-theme",
+      "kind": "theme",
+      "repository": "aaeriih/umi-asanagi-theme",
+      "revision": "276bb2efedea7d5a694bd8711c472708f8d49b44",
+      "extracted": 12,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 12,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 12,
+          "missing": []
+        },
+        "es": {
+          "translated": 12,
+          "missing": []
+        },
+        "fr": {
+          "translated": 12,
+          "missing": []
+        },
+        "de": {
+          "translated": 12,
+          "missing": []
+        },
+        "pt-BR": {
+          "translated": 12,
+          "missing": []
+        },
+        "ja": {
+          "translated": 12,
+          "missing": []
+        }
+      }
+    },
+    {
+      "id": "theme-dotFelixan-NEVKO-UI",
+      "name": "NEVKO-UI",
+      "kind": "theme",
+      "repository": "dotFelixan/NEVKO-UI",
+      "revision": "80698f434b734f91b14888d14e493f4b3059e25c",
+      "extracted": 142,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 142,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 47,
+          "missing": [
+            "Account Button",
+            "Achievements Tab",
+            "Add a header button with a menu to launch Big Picture or SteamVR",
+            "Always Animated",
+            "Animate stickers in the menu on hover or always",
+            "Animated on Hover",
+            "Another Design for Steam",
+            "Apple",
+            "Apply blur effect to your account/login name",
+            "Apply blur effect to your wallet balance",
+            "Automatically pass the age check on store pages",
+            "Button Press Animation",
+            "Buttons shrink slightly when pressed",
+            "Bypass Age Verification",
+            "Change how round avatars with a profile frame look",
+            "Change how round message bubbles look",
+            "Change how round or sharp avatars look throughout Steam",
+            "Change how round or sharp buttons look throughout Steam",
+            "Chat Avatars",
+            "Chat Header Background",
+            "Chats",
+            "Choose what the account button in the header shows",
+            "Compact Manage Downloads Button",
+            "Context Menu",
+            "Contributors",
+            "Default Friends Tab",
+            "Disable",
+            "Display special badges for theme contributors on their profiles",
+            "Dock the emoticon menu as a side panel on click",
+            "Emoji Style",
+            "Emoji look in the emoticon menu (sets are loaded from the internet)",
+            "Emoticon Side Panel",
+            "Emoticon Size",
+            "Emoticons in Message Field",
+            "Exact Time",
+            "Exact Time: 'Last seen: Today at 14:00' | Disable: keeps '3 hours ago', only renames the label",
+            "Facebook",
+            "Fake Device Status",
+            "Friends",
+            "Friends&Chat",
+            "Group Chats Position",
+            "Header",
+            "Hide Both",
+            "Hide Custom Username Icon",
+            "Hide Friends Tabs",
+            "Hide Nickname",
+            "Hide Unread Count in Friends",
+            "Hide Unread Messages Group",
+            "Hide avatar frames",
+            "Hide specific elements from the achievements tab",
+            "Hide the 'Unread Messages' group in the friends list",
+            "Hide the Friends / Chats tabs above the list",
+            "Hide unread message counters next to friends",
+            "Inside",
+            "Large",
+            "Library Items",
+            "Main",
+            "Main Buttons",
+            "Menus",
+            "Message Field Buttons",
+            "Mobile",
+            "Modern",
+            "My Messages Side",
+            "Outside",
+            "Place emoticon and attachment buttons outside or inside the message field",
+            "Refresh",
+            "Refresh: redesigned context menus | Legacy: default Steam menus",
+            "Relative Last Seen",
+            "Replaces default indicator with a modern dot-style badge",
+            "Root Colors",
+            "Rounding Buttons",
+            "Rounding Framed Avatars",
+            "Rounding Messages",
+            "Show Steam emoticons as pictures while typing",
+            "Show avatars beside messages in one-on-one chats",
+            "Show group chats above or below recent chats",
+            "Show header buttons as text, icons, or both",
+            "Show the Big Picture or Mobile mark next to your status (applied on Steam launch)",
+            "Show the friend's mini profile background behind the chat header",
+            "Show your own messages on the right or on the left",
+            "Shrink the downloads button in the header to an icon with a progress bar",
+            "Size of emoticons in the emoticon menu",
+            "Size of stickers in the emoticon menu",
+            "Steam Modes Button",
+            "Sticker Size",
+            "Stickers in Menu",
+            "Tab opened on Steam launch (Chats requires the Recent Chats plugin)",
+            "Text",
+            "Text and Icons",
+            "Toggle visibility of custom username icon",
+            "Twitter",
+            "Users",
+            "Window Buttons",
+            "[Recent] Only",
+            "[Unreached Achievements] Only"
+          ]
+        },
+        "es": {
+          "translated": 47,
+          "missing": [
+            "Account Button",
+            "Achievements Tab",
+            "Add a header button with a menu to launch Big Picture or SteamVR",
+            "Always Animated",
+            "Animate stickers in the menu on hover or always",
+            "Animated on Hover",
+            "Another Design for Steam",
+            "Apple",
+            "Apply blur effect to your account/login name",
+            "Apply blur effect to your wallet balance",
+            "Automatically pass the age check on store pages",
+            "Button Press Animation",
+            "Buttons shrink slightly when pressed",
+            "Bypass Age Verification",
+            "Change how round avatars with a profile frame look",
+            "Change how round message bubbles look",
+            "Change how round or sharp avatars look throughout Steam",
+            "Change how round or sharp buttons look throughout Steam",
+            "Chat Avatars",
+            "Chat Header Background",
+            "Chats",
+            "Choose what the account button in the header shows",
+            "Compact Manage Downloads Button",
+            "Context Menu",
+            "Contributors",
+            "Default Friends Tab",
+            "Disable",
+            "Display special badges for theme contributors on their profiles",
+            "Dock the emoticon menu as a side panel on click",
+            "Emoji Style",
+            "Emoji look in the emoticon menu (sets are loaded from the internet)",
+            "Emoticon Side Panel",
+            "Emoticon Size",
+            "Emoticons in Message Field",
+            "Exact Time",
+            "Exact Time: 'Last seen: Today at 14:00' | Disable: keeps '3 hours ago', only renames the label",
+            "Facebook",
+            "Fake Device Status",
+            "Friends",
+            "Friends&Chat",
+            "Group Chats Position",
+            "Header",
+            "Hide Both",
+            "Hide Custom Username Icon",
+            "Hide Friends Tabs",
+            "Hide Nickname",
+            "Hide Unread Count in Friends",
+            "Hide Unread Messages Group",
+            "Hide avatar frames",
+            "Hide specific elements from the achievements tab",
+            "Hide the 'Unread Messages' group in the friends list",
+            "Hide the Friends / Chats tabs above the list",
+            "Hide unread message counters next to friends",
+            "Inside",
+            "Large",
+            "Library Items",
+            "Main",
+            "Main Buttons",
+            "Menus",
+            "Message Field Buttons",
+            "Mobile",
+            "Modern",
+            "My Messages Side",
+            "Outside",
+            "Place emoticon and attachment buttons outside or inside the message field",
+            "Refresh",
+            "Refresh: redesigned context menus | Legacy: default Steam menus",
+            "Relative Last Seen",
+            "Replaces default indicator with a modern dot-style badge",
+            "Root Colors",
+            "Rounding Buttons",
+            "Rounding Framed Avatars",
+            "Rounding Messages",
+            "Show Steam emoticons as pictures while typing",
+            "Show avatars beside messages in one-on-one chats",
+            "Show group chats above or below recent chats",
+            "Show header buttons as text, icons, or both",
+            "Show the Big Picture or Mobile mark next to your status (applied on Steam launch)",
+            "Show the friend's mini profile background behind the chat header",
+            "Show your own messages on the right or on the left",
+            "Shrink the downloads button in the header to an icon with a progress bar",
+            "Size of emoticons in the emoticon menu",
+            "Size of stickers in the emoticon menu",
+            "Steam Modes Button",
+            "Sticker Size",
+            "Stickers in Menu",
+            "Tab opened on Steam launch (Chats requires the Recent Chats plugin)",
+            "Text",
+            "Text and Icons",
+            "Toggle visibility of custom username icon",
+            "Twitter",
+            "Users",
+            "Window Buttons",
+            "[Recent] Only",
+            "[Unreached Achievements] Only"
+          ]
+        },
+        "fr": {
+          "translated": 47,
+          "missing": [
+            "Account Button",
+            "Achievements Tab",
+            "Add a header button with a menu to launch Big Picture or SteamVR",
+            "Always Animated",
+            "Animate stickers in the menu on hover or always",
+            "Animated on Hover",
+            "Another Design for Steam",
+            "Apple",
+            "Apply blur effect to your account/login name",
+            "Apply blur effect to your wallet balance",
+            "Automatically pass the age check on store pages",
+            "Button Press Animation",
+            "Buttons shrink slightly when pressed",
+            "Bypass Age Verification",
+            "Change how round avatars with a profile frame look",
+            "Change how round message bubbles look",
+            "Change how round or sharp avatars look throughout Steam",
+            "Change how round or sharp buttons look throughout Steam",
+            "Chat Avatars",
+            "Chat Header Background",
+            "Chats",
+            "Choose what the account button in the header shows",
+            "Compact Manage Downloads Button",
+            "Context Menu",
+            "Contributors",
+            "Default Friends Tab",
+            "Disable",
+            "Display special badges for theme contributors on their profiles",
+            "Dock the emoticon menu as a side panel on click",
+            "Emoji Style",
+            "Emoji look in the emoticon menu (sets are loaded from the internet)",
+            "Emoticon Side Panel",
+            "Emoticon Size",
+            "Emoticons in Message Field",
+            "Exact Time",
+            "Exact Time: 'Last seen: Today at 14:00' | Disable: keeps '3 hours ago', only renames the label",
+            "Facebook",
+            "Fake Device Status",
+            "Friends",
+            "Friends&Chat",
+            "Group Chats Position",
+            "Header",
+            "Hide Both",
+            "Hide Custom Username Icon",
+            "Hide Friends Tabs",
+            "Hide Nickname",
+            "Hide Unread Count in Friends",
+            "Hide Unread Messages Group",
+            "Hide avatar frames",
+            "Hide specific elements from the achievements tab",
+            "Hide the 'Unread Messages' group in the friends list",
+            "Hide the Friends / Chats tabs above the list",
+            "Hide unread message counters next to friends",
+            "Inside",
+            "Large",
+            "Library Items",
+            "Main",
+            "Main Buttons",
+            "Menus",
+            "Message Field Buttons",
+            "Mobile",
+            "Modern",
+            "My Messages Side",
+            "Outside",
+            "Place emoticon and attachment buttons outside or inside the message field",
+            "Refresh",
+            "Refresh: redesigned context menus | Legacy: default Steam menus",
+            "Relative Last Seen",
+            "Replaces default indicator with a modern dot-style badge",
+            "Root Colors",
+            "Rounding Buttons",
+            "Rounding Framed Avatars",
+            "Rounding Messages",
+            "Show Steam emoticons as pictures while typing",
+            "Show avatars beside messages in one-on-one chats",
+            "Show group chats above or below recent chats",
+            "Show header buttons as text, icons, or both",
+            "Show the Big Picture or Mobile mark next to your status (applied on Steam launch)",
+            "Show the friend's mini profile background behind the chat header",
+            "Show your own messages on the right or on the left",
+            "Shrink the downloads button in the header to an icon with a progress bar",
+            "Size of emoticons in the emoticon menu",
+            "Size of stickers in the emoticon menu",
+            "Steam Modes Button",
+            "Sticker Size",
+            "Stickers in Menu",
+            "Tab opened on Steam launch (Chats requires the Recent Chats plugin)",
+            "Text",
+            "Text and Icons",
+            "Toggle visibility of custom username icon",
+            "Twitter",
+            "Users",
+            "Window Buttons",
+            "[Recent] Only",
+            "[Unreached Achievements] Only"
+          ]
+        },
+        "de": {
+          "translated": 47,
+          "missing": [
+            "Account Button",
+            "Achievements Tab",
+            "Add a header button with a menu to launch Big Picture or SteamVR",
+            "Always Animated",
+            "Animate stickers in the menu on hover or always",
+            "Animated on Hover",
+            "Another Design for Steam",
+            "Apple",
+            "Apply blur effect to your account/login name",
+            "Apply blur effect to your wallet balance",
+            "Automatically pass the age check on store pages",
+            "Button Press Animation",
+            "Buttons shrink slightly when pressed",
+            "Bypass Age Verification",
+            "Change how round avatars with a profile frame look",
+            "Change how round message bubbles look",
+            "Change how round or sharp avatars look throughout Steam",
+            "Change how round or sharp buttons look throughout Steam",
+            "Chat Avatars",
+            "Chat Header Background",
+            "Chats",
+            "Choose what the account button in the header shows",
+            "Compact Manage Downloads Button",
+            "Context Menu",
+            "Contributors",
+            "Default Friends Tab",
+            "Disable",
+            "Display special badges for theme contributors on their profiles",
+            "Dock the emoticon menu as a side panel on click",
+            "Emoji Style",
+            "Emoji look in the emoticon menu (sets are loaded from the internet)",
+            "Emoticon Side Panel",
+            "Emoticon Size",
+            "Emoticons in Message Field",
+            "Exact Time",
+            "Exact Time: 'Last seen: Today at 14:00' | Disable: keeps '3 hours ago', only renames the label",
+            "Facebook",
+            "Fake Device Status",
+            "Friends",
+            "Friends&Chat",
+            "Group Chats Position",
+            "Header",
+            "Hide Both",
+            "Hide Custom Username Icon",
+            "Hide Friends Tabs",
+            "Hide Nickname",
+            "Hide Unread Count in Friends",
+            "Hide Unread Messages Group",
+            "Hide avatar frames",
+            "Hide specific elements from the achievements tab",
+            "Hide the 'Unread Messages' group in the friends list",
+            "Hide the Friends / Chats tabs above the list",
+            "Hide unread message counters next to friends",
+            "Inside",
+            "Large",
+            "Library Items",
+            "Main",
+            "Main Buttons",
+            "Menus",
+            "Message Field Buttons",
+            "Mobile",
+            "Modern",
+            "My Messages Side",
+            "Outside",
+            "Place emoticon and attachment buttons outside or inside the message field",
+            "Refresh",
+            "Refresh: redesigned context menus | Legacy: default Steam menus",
+            "Relative Last Seen",
+            "Replaces default indicator with a modern dot-style badge",
+            "Root Colors",
+            "Rounding Buttons",
+            "Rounding Framed Avatars",
+            "Rounding Messages",
+            "Show Steam emoticons as pictures while typing",
+            "Show avatars beside messages in one-on-one chats",
+            "Show group chats above or below recent chats",
+            "Show header buttons as text, icons, or both",
+            "Show the Big Picture or Mobile mark next to your status (applied on Steam launch)",
+            "Show the friend's mini profile background behind the chat header",
+            "Show your own messages on the right or on the left",
+            "Shrink the downloads button in the header to an icon with a progress bar",
+            "Size of emoticons in the emoticon menu",
+            "Size of stickers in the emoticon menu",
+            "Steam Modes Button",
+            "Sticker Size",
+            "Stickers in Menu",
+            "Tab opened on Steam launch (Chats requires the Recent Chats plugin)",
+            "Text",
+            "Text and Icons",
+            "Toggle visibility of custom username icon",
+            "Twitter",
+            "Users",
+            "Window Buttons",
+            "[Recent] Only",
+            "[Unreached Achievements] Only"
+          ]
+        },
+        "pt-BR": {
+          "translated": 47,
+          "missing": [
+            "Account Button",
+            "Achievements Tab",
+            "Add a header button with a menu to launch Big Picture or SteamVR",
+            "Always Animated",
+            "Animate stickers in the menu on hover or always",
+            "Animated on Hover",
+            "Another Design for Steam",
+            "Apple",
+            "Apply blur effect to your account/login name",
+            "Apply blur effect to your wallet balance",
+            "Automatically pass the age check on store pages",
+            "Button Press Animation",
+            "Buttons shrink slightly when pressed",
+            "Bypass Age Verification",
+            "Change how round avatars with a profile frame look",
+            "Change how round message bubbles look",
+            "Change how round or sharp avatars look throughout Steam",
+            "Change how round or sharp buttons look throughout Steam",
+            "Chat Avatars",
+            "Chat Header Background",
+            "Chats",
+            "Choose what the account button in the header shows",
+            "Compact Manage Downloads Button",
+            "Context Menu",
+            "Contributors",
+            "Default Friends Tab",
+            "Disable",
+            "Display special badges for theme contributors on their profiles",
+            "Dock the emoticon menu as a side panel on click",
+            "Emoji Style",
+            "Emoji look in the emoticon menu (sets are loaded from the internet)",
+            "Emoticon Side Panel",
+            "Emoticon Size",
+            "Emoticons in Message Field",
+            "Exact Time",
+            "Exact Time: 'Last seen: Today at 14:00' | Disable: keeps '3 hours ago', only renames the label",
+            "Facebook",
+            "Fake Device Status",
+            "Friends",
+            "Friends&Chat",
+            "Group Chats Position",
+            "Header",
+            "Hide Both",
+            "Hide Custom Username Icon",
+            "Hide Friends Tabs",
+            "Hide Nickname",
+            "Hide Unread Count in Friends",
+            "Hide Unread Messages Group",
+            "Hide avatar frames",
+            "Hide specific elements from the achievements tab",
+            "Hide the 'Unread Messages' group in the friends list",
+            "Hide the Friends / Chats tabs above the list",
+            "Hide unread message counters next to friends",
+            "Inside",
+            "Large",
+            "Library Items",
+            "Main",
+            "Main Buttons",
+            "Menus",
+            "Message Field Buttons",
+            "Mobile",
+            "Modern",
+            "My Messages Side",
+            "Outside",
+            "Place emoticon and attachment buttons outside or inside the message field",
+            "Refresh",
+            "Refresh: redesigned context menus | Legacy: default Steam menus",
+            "Relative Last Seen",
+            "Replaces default indicator with a modern dot-style badge",
+            "Root Colors",
+            "Rounding Buttons",
+            "Rounding Framed Avatars",
+            "Rounding Messages",
+            "Show Steam emoticons as pictures while typing",
+            "Show avatars beside messages in one-on-one chats",
+            "Show group chats above or below recent chats",
+            "Show header buttons as text, icons, or both",
+            "Show the Big Picture or Mobile mark next to your status (applied on Steam launch)",
+            "Show the friend's mini profile background behind the chat header",
+            "Show your own messages on the right or on the left",
+            "Shrink the downloads button in the header to an icon with a progress bar",
+            "Size of emoticons in the emoticon menu",
+            "Size of stickers in the emoticon menu",
+            "Steam Modes Button",
+            "Sticker Size",
+            "Stickers in Menu",
+            "Tab opened on Steam launch (Chats requires the Recent Chats plugin)",
+            "Text",
+            "Text and Icons",
+            "Toggle visibility of custom username icon",
+            "Twitter",
+            "Users",
+            "Window Buttons",
+            "[Recent] Only",
+            "[Unreached Achievements] Only"
+          ]
+        },
+        "ja": {
+          "translated": 47,
+          "missing": [
+            "Account Button",
+            "Achievements Tab",
+            "Add a header button with a menu to launch Big Picture or SteamVR",
+            "Always Animated",
+            "Animate stickers in the menu on hover or always",
+            "Animated on Hover",
+            "Another Design for Steam",
+            "Apple",
+            "Apply blur effect to your account/login name",
+            "Apply blur effect to your wallet balance",
+            "Automatically pass the age check on store pages",
+            "Button Press Animation",
+            "Buttons shrink slightly when pressed",
+            "Bypass Age Verification",
+            "Change how round avatars with a profile frame look",
+            "Change how round message bubbles look",
+            "Change how round or sharp avatars look throughout Steam",
+            "Change how round or sharp buttons look throughout Steam",
+            "Chat Avatars",
+            "Chat Header Background",
+            "Chats",
+            "Choose what the account button in the header shows",
+            "Compact Manage Downloads Button",
+            "Context Menu",
+            "Contributors",
+            "Default Friends Tab",
+            "Disable",
+            "Display special badges for theme contributors on their profiles",
+            "Dock the emoticon menu as a side panel on click",
+            "Emoji Style",
+            "Emoji look in the emoticon menu (sets are loaded from the internet)",
+            "Emoticon Side Panel",
+            "Emoticon Size",
+            "Emoticons in Message Field",
+            "Exact Time",
+            "Exact Time: 'Last seen: Today at 14:00' | Disable: keeps '3 hours ago', only renames the label",
+            "Facebook",
+            "Fake Device Status",
+            "Friends",
+            "Friends&Chat",
+            "Group Chats Position",
+            "Header",
+            "Hide Both",
+            "Hide Custom Username Icon",
+            "Hide Friends Tabs",
+            "Hide Nickname",
+            "Hide Unread Count in Friends",
+            "Hide Unread Messages Group",
+            "Hide avatar frames",
+            "Hide specific elements from the achievements tab",
+            "Hide the 'Unread Messages' group in the friends list",
+            "Hide the Friends / Chats tabs above the list",
+            "Hide unread message counters next to friends",
+            "Inside",
+            "Large",
+            "Library Items",
+            "Main",
+            "Main Buttons",
+            "Menus",
+            "Message Field Buttons",
+            "Mobile",
+            "Modern",
+            "My Messages Side",
+            "Outside",
+            "Place emoticon and attachment buttons outside or inside the message field",
+            "Refresh",
+            "Refresh: redesigned context menus | Legacy: default Steam menus",
+            "Relative Last Seen",
+            "Replaces default indicator with a modern dot-style badge",
+            "Root Colors",
+            "Rounding Buttons",
+            "Rounding Framed Avatars",
+            "Rounding Messages",
+            "Show Steam emoticons as pictures while typing",
+            "Show avatars beside messages in one-on-one chats",
+            "Show group chats above or below recent chats",
+            "Show header buttons as text, icons, or both",
+            "Show the Big Picture or Mobile mark next to your status (applied on Steam launch)",
+            "Show the friend's mini profile background behind the chat header",
+            "Show your own messages on the right or on the left",
+            "Shrink the downloads button in the header to an icon with a progress bar",
+            "Size of emoticons in the emoticon menu",
+            "Size of stickers in the emoticon menu",
+            "Steam Modes Button",
+            "Sticker Size",
+            "Stickers in Menu",
+            "Tab opened on Steam launch (Chats requires the Recent Chats plugin)",
+            "Text",
+            "Text and Icons",
+            "Toggle visibility of custom username icon",
+            "Twitter",
+            "Users",
+            "Window Buttons",
+            "[Recent] Only",
+            "[Unreached Achievements] Only"
+          ]
         }
       }
     },
@@ -1741,6 +3841,369 @@
       }
     },
     {
+      "id": "theme-hatewxb-Aika",
+      "name": "Aika",
+      "kind": "theme",
+      "repository": "hatewxb/Aika",
+      "revision": "fbc08aea653bdd91f9730f9da11bce516c8ec909",
+      "extracted": 63,
+      "sourceError": null,
+      "languages": {
+        "en": {
+          "translated": 63,
+          "missing": []
+        },
+        "zh-CN": {
+          "translated": 10,
+          "missing": [
+            "3D tilt",
+            "A soft accent glow under the cursor on large library blocks (game page panels, What's New, collections).",
+            "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+            "Add Shelf visibility",
+            "Aika",
+            "Balance",
+            "Balanced",
+            "Blurs the wallet balance (or the account name and the balance) in the top-right account button until you hover over it; inside its menu the login and the balance are blurred until hovered — handy for streams and screenshots.",
+            "Center",
+            "Cinematic",
+            "Classic",
+            "Color preset",
+            "Color set",
+            "Compact header",
+            "Compact: the menus, the tabs and the account buttons share one line.",
+            "Cursor glow",
+            "Cursor glow radius",
+            "Custom colors",
+            "Full",
+            "Gothic",
+            "Greeny",
+            "Hello Bert",
+            "How game covers in the library (Home shelves, collections) react to the cursor. 3D tilt: the cover turns toward the cursor in 3D with a moving glare. Lift: it rises a little. Zoom: the art zooms in its frame with a glare sweep.",
+            "How much a notification covers the desktop: lower is more transparent.",
+            "How much the theme moves on its own. Full: everything as designed (the default; already tuned to cost as little as it can). Balanced: fewer moving elements on and around items — no light following the cursor around store blocks and library panels, no shimmer on Play, no glares or light sweeps, 3D tilt covers lift instead, the Cinematic description stays still, the background light spots stand still; menus, hovers, page transitions, trailers, the store backgrounds (30 frames a second) and the glass notifications stay. Low: no Aika motion and no heavy effects at all — every look stays, but nothing the theme added moves (only Steam's own animations remain); the light spots are one still picture, no backdrop blur, no glass on notifications, no animated store backgrounds, no trailers playing behind the Cinematic page.",
+            "Japanese",
+            "Library covers",
+            "Lift",
+            "Low",
+            "Main",
+            "Name and balance",
+            "Notification opacity",
+            "Notification wordmark",
+            "Off",
+            "Privacy blur",
+            "Rose Ash",
+            "Steam News visibility",
+            "The \"Add shelf\" row at the bottom of the library home.",
+            "The \"What's New\" shelf at the top of the library home.",
+            "The Steam news (megaphone) button in the top bar.",
+            "The address capsule over store and community pages, top left (takes a Steam restart to reach the pages).",
+            "The font of the \"Aika\" wordmark in the background of notification toasts.",
+            "The layout of a game's store page. Cinematic: the trailers play muted over the whole window behind the logo, price and buttons, with a media gallery below; the editions and everything else stay as in Classic. Needs theme scripts.",
+            "The size of the cursor glow, in pixels.",
+            "The theme color set: the accent and the light spots. To set colors manually, turn on \"Custom colors\" in the \"Color set\" tab.",
+            "The wallet balance next to the account name in the top bar.",
+            "Top bar",
+            "URL visibility",
+            "Use your own colors instead of the preset. The colors themselves (accent, accent hover, three light spots) are on the \"Colors\" page right below.",
+            "Wallet visibility",
+            "What's New visibility",
+            "Where the Store, Library, Community and profile tabs sit in the top bar.",
+            "Zoom"
+          ]
+        },
+        "es": {
+          "translated": 10,
+          "missing": [
+            "3D tilt",
+            "A soft accent glow under the cursor on large library blocks (game page panels, What's New, collections).",
+            "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+            "Add Shelf visibility",
+            "Aika",
+            "Balance",
+            "Balanced",
+            "Blurs the wallet balance (or the account name and the balance) in the top-right account button until you hover over it; inside its menu the login and the balance are blurred until hovered — handy for streams and screenshots.",
+            "Center",
+            "Cinematic",
+            "Classic",
+            "Color preset",
+            "Color set",
+            "Compact header",
+            "Compact: the menus, the tabs and the account buttons share one line.",
+            "Cursor glow",
+            "Cursor glow radius",
+            "Custom colors",
+            "Full",
+            "Gothic",
+            "Greeny",
+            "Hello Bert",
+            "How game covers in the library (Home shelves, collections) react to the cursor. 3D tilt: the cover turns toward the cursor in 3D with a moving glare. Lift: it rises a little. Zoom: the art zooms in its frame with a glare sweep.",
+            "How much a notification covers the desktop: lower is more transparent.",
+            "How much the theme moves on its own. Full: everything as designed (the default; already tuned to cost as little as it can). Balanced: fewer moving elements on and around items — no light following the cursor around store blocks and library panels, no shimmer on Play, no glares or light sweeps, 3D tilt covers lift instead, the Cinematic description stays still, the background light spots stand still; menus, hovers, page transitions, trailers, the store backgrounds (30 frames a second) and the glass notifications stay. Low: no Aika motion and no heavy effects at all — every look stays, but nothing the theme added moves (only Steam's own animations remain); the light spots are one still picture, no backdrop blur, no glass on notifications, no animated store backgrounds, no trailers playing behind the Cinematic page.",
+            "Japanese",
+            "Library covers",
+            "Lift",
+            "Low",
+            "Main",
+            "Name and balance",
+            "Notification opacity",
+            "Notification wordmark",
+            "Off",
+            "Privacy blur",
+            "Rose Ash",
+            "Steam News visibility",
+            "The \"Add shelf\" row at the bottom of the library home.",
+            "The \"What's New\" shelf at the top of the library home.",
+            "The Steam news (megaphone) button in the top bar.",
+            "The address capsule over store and community pages, top left (takes a Steam restart to reach the pages).",
+            "The font of the \"Aika\" wordmark in the background of notification toasts.",
+            "The layout of a game's store page. Cinematic: the trailers play muted over the whole window behind the logo, price and buttons, with a media gallery below; the editions and everything else stay as in Classic. Needs theme scripts.",
+            "The size of the cursor glow, in pixels.",
+            "The theme color set: the accent and the light spots. To set colors manually, turn on \"Custom colors\" in the \"Color set\" tab.",
+            "The wallet balance next to the account name in the top bar.",
+            "Top bar",
+            "URL visibility",
+            "Use your own colors instead of the preset. The colors themselves (accent, accent hover, three light spots) are on the \"Colors\" page right below.",
+            "Wallet visibility",
+            "What's New visibility",
+            "Where the Store, Library, Community and profile tabs sit in the top bar.",
+            "Zoom"
+          ]
+        },
+        "fr": {
+          "translated": 10,
+          "missing": [
+            "3D tilt",
+            "A soft accent glow under the cursor on large library blocks (game page panels, What's New, collections).",
+            "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+            "Add Shelf visibility",
+            "Aika",
+            "Balance",
+            "Balanced",
+            "Blurs the wallet balance (or the account name and the balance) in the top-right account button until you hover over it; inside its menu the login and the balance are blurred until hovered — handy for streams and screenshots.",
+            "Center",
+            "Cinematic",
+            "Classic",
+            "Color preset",
+            "Color set",
+            "Compact header",
+            "Compact: the menus, the tabs and the account buttons share one line.",
+            "Cursor glow",
+            "Cursor glow radius",
+            "Custom colors",
+            "Full",
+            "Gothic",
+            "Greeny",
+            "Hello Bert",
+            "How game covers in the library (Home shelves, collections) react to the cursor. 3D tilt: the cover turns toward the cursor in 3D with a moving glare. Lift: it rises a little. Zoom: the art zooms in its frame with a glare sweep.",
+            "How much a notification covers the desktop: lower is more transparent.",
+            "How much the theme moves on its own. Full: everything as designed (the default; already tuned to cost as little as it can). Balanced: fewer moving elements on and around items — no light following the cursor around store blocks and library panels, no shimmer on Play, no glares or light sweeps, 3D tilt covers lift instead, the Cinematic description stays still, the background light spots stand still; menus, hovers, page transitions, trailers, the store backgrounds (30 frames a second) and the glass notifications stay. Low: no Aika motion and no heavy effects at all — every look stays, but nothing the theme added moves (only Steam's own animations remain); the light spots are one still picture, no backdrop blur, no glass on notifications, no animated store backgrounds, no trailers playing behind the Cinematic page.",
+            "Japanese",
+            "Library covers",
+            "Lift",
+            "Low",
+            "Main",
+            "Name and balance",
+            "Notification opacity",
+            "Notification wordmark",
+            "Off",
+            "Privacy blur",
+            "Rose Ash",
+            "Steam News visibility",
+            "The \"Add shelf\" row at the bottom of the library home.",
+            "The \"What's New\" shelf at the top of the library home.",
+            "The Steam news (megaphone) button in the top bar.",
+            "The address capsule over store and community pages, top left (takes a Steam restart to reach the pages).",
+            "The font of the \"Aika\" wordmark in the background of notification toasts.",
+            "The layout of a game's store page. Cinematic: the trailers play muted over the whole window behind the logo, price and buttons, with a media gallery below; the editions and everything else stay as in Classic. Needs theme scripts.",
+            "The size of the cursor glow, in pixels.",
+            "The theme color set: the accent and the light spots. To set colors manually, turn on \"Custom colors\" in the \"Color set\" tab.",
+            "The wallet balance next to the account name in the top bar.",
+            "Top bar",
+            "URL visibility",
+            "Use your own colors instead of the preset. The colors themselves (accent, accent hover, three light spots) are on the \"Colors\" page right below.",
+            "Wallet visibility",
+            "What's New visibility",
+            "Where the Store, Library, Community and profile tabs sit in the top bar.",
+            "Zoom"
+          ]
+        },
+        "de": {
+          "translated": 10,
+          "missing": [
+            "3D tilt",
+            "A soft accent glow under the cursor on large library blocks (game page panels, What's New, collections).",
+            "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+            "Add Shelf visibility",
+            "Aika",
+            "Balance",
+            "Balanced",
+            "Blurs the wallet balance (or the account name and the balance) in the top-right account button until you hover over it; inside its menu the login and the balance are blurred until hovered — handy for streams and screenshots.",
+            "Center",
+            "Cinematic",
+            "Classic",
+            "Color preset",
+            "Color set",
+            "Compact header",
+            "Compact: the menus, the tabs and the account buttons share one line.",
+            "Cursor glow",
+            "Cursor glow radius",
+            "Custom colors",
+            "Full",
+            "Gothic",
+            "Greeny",
+            "Hello Bert",
+            "How game covers in the library (Home shelves, collections) react to the cursor. 3D tilt: the cover turns toward the cursor in 3D with a moving glare. Lift: it rises a little. Zoom: the art zooms in its frame with a glare sweep.",
+            "How much a notification covers the desktop: lower is more transparent.",
+            "How much the theme moves on its own. Full: everything as designed (the default; already tuned to cost as little as it can). Balanced: fewer moving elements on and around items — no light following the cursor around store blocks and library panels, no shimmer on Play, no glares or light sweeps, 3D tilt covers lift instead, the Cinematic description stays still, the background light spots stand still; menus, hovers, page transitions, trailers, the store backgrounds (30 frames a second) and the glass notifications stay. Low: no Aika motion and no heavy effects at all — every look stays, but nothing the theme added moves (only Steam's own animations remain); the light spots are one still picture, no backdrop blur, no glass on notifications, no animated store backgrounds, no trailers playing behind the Cinematic page.",
+            "Japanese",
+            "Library covers",
+            "Lift",
+            "Low",
+            "Main",
+            "Name and balance",
+            "Notification opacity",
+            "Notification wordmark",
+            "Off",
+            "Privacy blur",
+            "Rose Ash",
+            "Steam News visibility",
+            "The \"Add shelf\" row at the bottom of the library home.",
+            "The \"What's New\" shelf at the top of the library home.",
+            "The Steam news (megaphone) button in the top bar.",
+            "The address capsule over store and community pages, top left (takes a Steam restart to reach the pages).",
+            "The font of the \"Aika\" wordmark in the background of notification toasts.",
+            "The layout of a game's store page. Cinematic: the trailers play muted over the whole window behind the logo, price and buttons, with a media gallery below; the editions and everything else stay as in Classic. Needs theme scripts.",
+            "The size of the cursor glow, in pixels.",
+            "The theme color set: the accent and the light spots. To set colors manually, turn on \"Custom colors\" in the \"Color set\" tab.",
+            "The wallet balance next to the account name in the top bar.",
+            "Top bar",
+            "URL visibility",
+            "Use your own colors instead of the preset. The colors themselves (accent, accent hover, three light spots) are on the \"Colors\" page right below.",
+            "Wallet visibility",
+            "What's New visibility",
+            "Where the Store, Library, Community and profile tabs sit in the top bar.",
+            "Zoom"
+          ]
+        },
+        "pt-BR": {
+          "translated": 10,
+          "missing": [
+            "3D tilt",
+            "A soft accent glow under the cursor on large library blocks (game page panels, What's New, collections).",
+            "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+            "Add Shelf visibility",
+            "Aika",
+            "Balance",
+            "Balanced",
+            "Blurs the wallet balance (or the account name and the balance) in the top-right account button until you hover over it; inside its menu the login and the balance are blurred until hovered — handy for streams and screenshots.",
+            "Center",
+            "Cinematic",
+            "Classic",
+            "Color preset",
+            "Color set",
+            "Compact header",
+            "Compact: the menus, the tabs and the account buttons share one line.",
+            "Cursor glow",
+            "Cursor glow radius",
+            "Custom colors",
+            "Full",
+            "Gothic",
+            "Greeny",
+            "Hello Bert",
+            "How game covers in the library (Home shelves, collections) react to the cursor. 3D tilt: the cover turns toward the cursor in 3D with a moving glare. Lift: it rises a little. Zoom: the art zooms in its frame with a glare sweep.",
+            "How much a notification covers the desktop: lower is more transparent.",
+            "How much the theme moves on its own. Full: everything as designed (the default; already tuned to cost as little as it can). Balanced: fewer moving elements on and around items — no light following the cursor around store blocks and library panels, no shimmer on Play, no glares or light sweeps, 3D tilt covers lift instead, the Cinematic description stays still, the background light spots stand still; menus, hovers, page transitions, trailers, the store backgrounds (30 frames a second) and the glass notifications stay. Low: no Aika motion and no heavy effects at all — every look stays, but nothing the theme added moves (only Steam's own animations remain); the light spots are one still picture, no backdrop blur, no glass on notifications, no animated store backgrounds, no trailers playing behind the Cinematic page.",
+            "Japanese",
+            "Library covers",
+            "Lift",
+            "Low",
+            "Main",
+            "Name and balance",
+            "Notification opacity",
+            "Notification wordmark",
+            "Off",
+            "Privacy blur",
+            "Rose Ash",
+            "Steam News visibility",
+            "The \"Add shelf\" row at the bottom of the library home.",
+            "The \"What's New\" shelf at the top of the library home.",
+            "The Steam news (megaphone) button in the top bar.",
+            "The address capsule over store and community pages, top left (takes a Steam restart to reach the pages).",
+            "The font of the \"Aika\" wordmark in the background of notification toasts.",
+            "The layout of a game's store page. Cinematic: the trailers play muted over the whole window behind the logo, price and buttons, with a media gallery below; the editions and everything else stay as in Classic. Needs theme scripts.",
+            "The size of the cursor glow, in pixels.",
+            "The theme color set: the accent and the light spots. To set colors manually, turn on \"Custom colors\" in the \"Color set\" tab.",
+            "The wallet balance next to the account name in the top bar.",
+            "Top bar",
+            "URL visibility",
+            "Use your own colors instead of the preset. The colors themselves (accent, accent hover, three light spots) are on the \"Colors\" page right below.",
+            "Wallet visibility",
+            "What's New visibility",
+            "Where the Store, Library, Community and profile tabs sit in the top bar.",
+            "Zoom"
+          ]
+        },
+        "ja": {
+          "translated": 10,
+          "missing": [
+            "3D tilt",
+            "A soft accent glow under the cursor on large library blocks (game page panels, What's New, collections).",
+            "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+            "Add Shelf visibility",
+            "Aika",
+            "Balance",
+            "Balanced",
+            "Blurs the wallet balance (or the account name and the balance) in the top-right account button until you hover over it; inside its menu the login and the balance are blurred until hovered — handy for streams and screenshots.",
+            "Center",
+            "Cinematic",
+            "Classic",
+            "Color preset",
+            "Color set",
+            "Compact header",
+            "Compact: the menus, the tabs and the account buttons share one line.",
+            "Cursor glow",
+            "Cursor glow radius",
+            "Custom colors",
+            "Full",
+            "Gothic",
+            "Greeny",
+            "Hello Bert",
+            "How game covers in the library (Home shelves, collections) react to the cursor. 3D tilt: the cover turns toward the cursor in 3D with a moving glare. Lift: it rises a little. Zoom: the art zooms in its frame with a glare sweep.",
+            "How much a notification covers the desktop: lower is more transparent.",
+            "How much the theme moves on its own. Full: everything as designed (the default; already tuned to cost as little as it can). Balanced: fewer moving elements on and around items — no light following the cursor around store blocks and library panels, no shimmer on Play, no glares or light sweeps, 3D tilt covers lift instead, the Cinematic description stays still, the background light spots stand still; menus, hovers, page transitions, trailers, the store backgrounds (30 frames a second) and the glass notifications stay. Low: no Aika motion and no heavy effects at all — every look stays, but nothing the theme added moves (only Steam's own animations remain); the light spots are one still picture, no backdrop blur, no glass on notifications, no animated store backgrounds, no trailers playing behind the Cinematic page.",
+            "Japanese",
+            "Library covers",
+            "Lift",
+            "Low",
+            "Main",
+            "Name and balance",
+            "Notification opacity",
+            "Notification wordmark",
+            "Off",
+            "Privacy blur",
+            "Rose Ash",
+            "Steam News visibility",
+            "The \"Add shelf\" row at the bottom of the library home.",
+            "The \"What's New\" shelf at the top of the library home.",
+            "The Steam news (megaphone) button in the top bar.",
+            "The address capsule over store and community pages, top left (takes a Steam restart to reach the pages).",
+            "The font of the \"Aika\" wordmark in the background of notification toasts.",
+            "The layout of a game's store page. Cinematic: the trailers play muted over the whole window behind the logo, price and buttons, with a media gallery below; the editions and everything else stay as in Classic. Needs theme scripts.",
+            "The size of the cursor glow, in pixels.",
+            "The theme color set: the accent and the light spots. To set colors manually, turn on \"Custom colors\" in the \"Color set\" tab.",
+            "The wallet balance next to the account name in the top bar.",
+            "Top bar",
+            "URL visibility",
+            "Use your own colors instead of the preset. The colors themselves (accent, accent hover, three light spots) are on the \"Colors\" page right below.",
+            "Wallet visibility",
+            "What's New visibility",
+            "Where the Store, Library, Community and profile tabs sit in the top bar.",
+            "Zoom"
+          ]
+        }
+      }
+    },
+    {
       "id": "theme-iBedro-MontBlack",
       "name": "Mont Black",
       "kind": "theme",
@@ -1780,50 +4243,11 @@
       }
     },
     {
-      "id": "theme-Jonius7-SteamUI-GoldenEra",
-      "name": "SteamUI-GoldenEra",
-      "kind": "theme",
-      "repository": "Jonius7/SteamUI-GoldenEra",
-      "revision": "7a452d3d66dd7b3b71f6af2914aacf5f48d3fd43",
-      "extracted": 46,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 46,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 46,
-          "missing": []
-        },
-        "es": {
-          "translated": 46,
-          "missing": []
-        },
-        "fr": {
-          "translated": 46,
-          "missing": []
-        },
-        "de": {
-          "translated": 46,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 46,
-          "missing": []
-        },
-        "ja": {
-          "translated": 46,
-          "missing": []
-        }
-      }
-    },
-    {
       "id": "theme-kuska1-Material-Theme",
       "name": "Material",
       "kind": "theme",
       "repository": "kuska1/Material-Theme",
-      "revision": "f91b4e9cbc5436f149e6b293391a9a96ab47fbe9",
+      "revision": "7a2852552eaf3cbadadb623e6e7703956854e730",
       "extracted": 188,
       "sourceError": null,
       "languages": {
@@ -1931,84 +4355,6 @@
         },
         "ja": {
           "translated": 27,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "theme-MapleAtMorning-OldSteam-Theme",
-      "name": "OldSteam",
-      "kind": "theme",
-      "repository": "MapleAtMorning/OldSteam-Theme",
-      "revision": "9a7214a90ddc3af1dae14786719103cd7c186e6e",
-      "extracted": 13,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 13,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 13,
-          "missing": []
-        },
-        "es": {
-          "translated": 13,
-          "missing": []
-        },
-        "fr": {
-          "translated": 13,
-          "missing": []
-        },
-        "de": {
-          "translated": 13,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 13,
-          "missing": []
-        },
-        "ja": {
-          "translated": 13,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "theme-Plaer1-ATOMS",
-      "name": "ATOMS",
-      "kind": "theme",
-      "repository": "Plaer1/ATOMS",
-      "revision": "07f6f836b61125e76a3a66fde8f7d624d89fc0d5",
-      "extracted": 11,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 11,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 11,
-          "missing": []
-        },
-        "es": {
-          "translated": 11,
-          "missing": []
-        },
-        "fr": {
-          "translated": 11,
-          "missing": []
-        },
-        "de": {
-          "translated": 11,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 11,
-          "missing": []
-        },
-        "ja": {
-          "translated": 11,
           "missing": []
         }
       }
@@ -2131,123 +4477,6 @@
       }
     },
     {
-      "id": "theme-RoseTheFlower-MetroSteam",
-      "name": "Metro by Rose",
-      "kind": "theme",
-      "repository": "RoseTheFlower/MetroSteam",
-      "revision": "85d3488e426bfecc5a871f10021d3eab55318791",
-      "extracted": 1,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 1,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 1,
-          "missing": []
-        },
-        "es": {
-          "translated": 1,
-          "missing": []
-        },
-        "fr": {
-          "translated": 1,
-          "missing": []
-        },
-        "de": {
-          "translated": 1,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 1,
-          "missing": []
-        },
-        "ja": {
-          "translated": 1,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "theme-SaiyajinK-Minimal-Dark-for-Steam",
-      "name": "Minimal Dark",
-      "kind": "theme",
-      "repository": "SaiyajinK/Minimal-Dark-for-Steam",
-      "revision": "2d5ace019b1a92ecedcb2b81706ab5955db4101e",
-      "extracted": 470,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 470,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 470,
-          "missing": []
-        },
-        "es": {
-          "translated": 470,
-          "missing": []
-        },
-        "fr": {
-          "translated": 470,
-          "missing": []
-        },
-        "de": {
-          "translated": 470,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 470,
-          "missing": []
-        },
-        "ja": {
-          "translated": 470,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "theme-Sennanon87-AeroXP",
-      "name": "Aero XP",
-      "kind": "theme",
-      "repository": "Sennanon87/AeroXP",
-      "revision": "06055fea6a0a41645c1d7fd77669be24dc59da99",
-      "extracted": 68,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 68,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 68,
-          "missing": []
-        },
-        "es": {
-          "translated": 68,
-          "missing": []
-        },
-        "fr": {
-          "translated": 68,
-          "missing": []
-        },
-        "de": {
-          "translated": 68,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 68,
-          "missing": []
-        },
-        "ja": {
-          "translated": 68,
-          "missing": []
-        }
-      }
-    },
-    {
       "id": "theme-shdwmtr-simply-dark",
       "name": "Simple Dark.",
       "kind": "theme",
@@ -2287,45 +4516,6 @@
       }
     },
     {
-      "id": "theme-SpaceTheme-Steam",
-      "name": "SpaceTheme for Steam",
-      "kind": "theme",
-      "repository": "SpaceTheme/Steam",
-      "revision": "17f93c585fe18056386ccf5a1cb1d47001be29d1",
-      "extracted": 144,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 144,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 144,
-          "missing": []
-        },
-        "es": {
-          "translated": 144,
-          "missing": []
-        },
-        "fr": {
-          "translated": 144,
-          "missing": []
-        },
-        "de": {
-          "translated": 144,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 144,
-          "missing": []
-        },
-        "ja": {
-          "translated": 144,
-          "missing": []
-        }
-      }
-    },
-    {
       "id": "theme-tkashkin-Adwaita-for-Steam",
       "name": "Adwaita",
       "kind": "theme",
@@ -2360,45 +4550,6 @@
         },
         "ja": {
           "translated": 83,
-          "missing": []
-        }
-      }
-    },
-    {
-      "id": "theme-Yareli0i-glass-dusk",
-      "name": "Glass Dusk",
-      "kind": "theme",
-      "repository": "Yareli0i/glass-dusk",
-      "revision": "b94a79cae90c24e5c95c7885385791f008dce5c3",
-      "extracted": 69,
-      "sourceError": null,
-      "languages": {
-        "en": {
-          "translated": 69,
-          "missing": []
-        },
-        "zh-CN": {
-          "translated": 69,
-          "missing": []
-        },
-        "es": {
-          "translated": 69,
-          "missing": []
-        },
-        "fr": {
-          "translated": 69,
-          "missing": []
-        },
-        "de": {
-          "translated": 69,
-          "missing": []
-        },
-        "pt-BR": {
-          "translated": 69,
-          "missing": []
-        },
-        "ja": {
-          "translated": 69,
           "missing": []
         }
       }
@@ -2447,7 +4598,7 @@
       "name": "Zehn",
       "kind": "theme",
       "repository": "yurisuika/Zehn",
-      "revision": "3c325be7bb2c7e6ef8aa0e806bc5e5332c020df5",
+      "revision": "78a94cc86e403f36fb77d7113838ec8e0e3fd723",
       "extracted": 89,
       "sourceError": null,
       "languages": {

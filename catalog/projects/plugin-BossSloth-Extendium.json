@@ -3,7 +3,7 @@
   "kind": "plugin",
   "name": "Extendium",
   "repository": "BossSloth/Extendium",
-  "revision": "3f9ffb0cd9ada58a7de7f71b3ed8d094ca7130f6",
+  "revision": "550bb1c0b3fd7c5165677e7a226112af11a842e1",
   "texts": [
     ") that is known to cause Steam to become unresponsive, crash or become fully bricked.",
     "Advanced extension management",
@@ -76,8 +76,8 @@
   "native": {},
   "extraction": "manifest-and-static-ui",
   "archive": {
-    "url": "https://codeload.github.com/BossSloth/Extendium/zip/3f9ffb0cd9ada58a7de7f71b3ed8d094ca7130f6",
-    "sha256": "810afc12e451ff41978e8c15752df2cbadcd11f27fd3adebf88e821c0de8084d",
+    "url": "https://codeload.github.com/BossSloth/Extendium/zip/550bb1c0b3fd7c5165677e7a226112af11a842e1",
+    "sha256": "c25f2be8fd987783e9b6e5689682e05c7640d06dfd995cd31cd9d3e7bc291d2e",
     "localeFiles": []
   }
 }

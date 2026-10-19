@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T01:08:14.055Z",
+  "fetchedAt": "2026-10-19T07:21:41.088Z",
   "sources": {
     "themes": "https://steambrew.app/api/v2",
     "plugins": "https://steambrew.app/api/v1/plugins/"
@@ -30,10 +30,10 @@
       "kind": "theme",
       "name": "ATOMS",
       "repository": "Plaer1/ATOMS",
-      "revision": "07f6f836b61125e76a3a66fde8f7d624d89fc0d5",
+      "revision": "ff4172b4c708420280a15f2c94beac7c1018c5b4",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
-      "extracted": 11
+      "extracted": 14
     },
     {
       "id": "theme-tkashkin-Adwaita-for-Steam",
@@ -70,7 +70,7 @@
       "kind": "theme",
       "name": "Minimal Dark",
       "repository": "SaiyajinK/Minimal-Dark-for-Steam",
-      "revision": "2d5ace019b1a92ecedcb2b81706ab5955db4101e",
+      "revision": "6a2f10be191f8ea7ef8a1ebfc27e4ad86d31f198",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "extracted": 470
@@ -104,14 +104,14 @@
       "kind": "theme",
       "name": "NEVKO-UI",
       "repository": "dotFelixan/NEVKO-UI",
-      "revision": "e8ef4a2c92603e6fcd18dd4a22215de30ab27090",
+      "revision": "80698f434b734f91b14888d14e493f4b3059e25c",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/dotFelixan/NEVKO-UI/e8ef4a2c92603e6fcd18dd4a22215de30ab27090/Misc/Accents%20Code/root.css",
-        "sha256": "575aeab16cf6ae40fe993d382bf375646b311ce773056b135163cc335aa10b0b"
+        "url": "https://raw.githubusercontent.com/dotFelixan/NEVKO-UI/80698f434b734f91b14888d14e493f4b3059e25c/Patches/Colors/root.css",
+        "sha256": "5759e486a114a091d04df4dcfe7a65ce6bacda154875e40a2285f51dc7ff7fff"
       },
-      "extracted": 87
+      "extracted": 142
     },
     {
       "id": "theme-yufengOvO-steam-leimu",
@@ -162,11 +162,11 @@
       "kind": "theme",
       "name": "Material",
       "repository": "kuska1/Material-Theme",
-      "revision": "f91b4e9cbc5436f149e6b293391a9a96ab47fbe9",
+      "revision": "7a2852552eaf3cbadadb623e6e7703956854e730",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/kuska1/Material-Theme/f91b4e9cbc5436f149e6b293391a9a96ab47fbe9/css/main/root-colors.css",
+        "url": "https://raw.githubusercontent.com/kuska1/Material-Theme/7a2852552eaf3cbadadb623e6e7703956854e730/css/main/root-colors.css",
         "sha256": "3e25d02e057a2faeac241f1897658ff31030abd5d90fcf2f226db2efb4ef1916"
       },
       "extracted": 188
@@ -196,11 +196,11 @@
       "kind": "theme",
       "name": "Zehn",
       "repository": "yurisuika/Zehn",
-      "revision": "3c325be7bb2c7e6ef8aa0e806bc5e5332c020df5",
+      "revision": "78a94cc86e403f36fb77d7113838ec8e0e3fd723",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/yurisuika/Zehn/3c325be7bb2c7e6ef8aa0e806bc5e5332c020df5/option/colors.css",
+        "url": "https://raw.githubusercontent.com/yurisuika/Zehn/78a94cc86e403f36fb77d7113838ec8e0e3fd723/option/colors.css",
         "sha256": "f8aac85563d6127e11875289d5a2f7efae662eac4bd4ce6a1c529df0645fc105"
       },
       "extracted": 89
@@ -240,14 +240,14 @@
       "kind": "theme",
       "name": "SpaceTheme for Steam",
       "repository": "SpaceTheme/Steam",
-      "revision": "17f93c585fe18056386ccf5a1cb1d47001be29d1",
+      "revision": "650f3961021720b8c1ee88fc9ca2cdf97f12ed0d",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/17f93c585fe18056386ccf5a1cb1d47001be29d1/src/css/root.css",
+        "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/650f3961021720b8c1ee88fc9ca2cdf97f12ed0d/src/css/root.css",
         "sha256": "1ca442b1fd8a329d66f2b62f00fba3f85cb21750dd3841a031e140681fe75291"
       },
-      "extracted": 144
+      "extracted": 148
     },
     {
       "id": "theme-iBedro-MontBlack",
@@ -288,14 +288,28 @@
       "kind": "theme",
       "name": "Glass Dusk",
       "repository": "Yareli0i/glass-dusk",
-      "revision": "b94a79cae90c24e5c95c7885385791f008dce5c3",
+      "revision": "079654612ce19586d68e1268863338d9b484bc1d",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/b94a79cae90c24e5c95c7885385791f008dce5c3/css/root.css",
+        "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/079654612ce19586d68e1268863338d9b484bc1d/css/root.css",
         "sha256": "ad2c4f48b1c934c87d862be6cb3f41469b009393eaaf7e7e5df1364cb7eea406"
       },
-      "extracted": 69
+      "extracted": 91
+    },
+    {
+      "id": "theme-hatewxb-Aika",
+      "kind": "theme",
+      "name": "Aika",
+      "repository": "hatewxb/Aika",
+      "revision": "fbc08aea653bdd91f9730f9da11bce516c8ec909",
+      "extraction": "official-skin-config",
+      "source": "https://steambrew.app/api/v2",
+      "rootColorSource": {
+        "url": "https://raw.githubusercontent.com/hatewxb/Aika/fbc08aea653bdd91f9730f9da11bce516c8ec909/root-colors.css",
+        "sha256": "d28a84a32e2c330e86c84d7a1874b1dd62e3c3ef88bf55ed11dc0f1175845385"
+      },
+      "extracted": 63
     },
     {
       "id": "plugin-SaiyajinK-Easy-Restart-Reload-for-Steam",
@@ -344,11 +358,11 @@
       "kind": "plugin",
       "name": "Achievement Groups",
       "repository": "BossSloth/SteamHunter-plugin",
-      "revision": "3662d0fa4f32a0b7d4151004cd241fe009b36f0d",
+      "revision": "582147fb1c7f1e471d1b377d200aaaf4af239723",
       "extraction": "manifest-and-static-ui",
       "archive": {
-        "url": "https://codeload.github.com/BossSloth/SteamHunter-plugin/zip/3662d0fa4f32a0b7d4151004cd241fe009b36f0d",
-        "sha256": "6fbf4fd52d895b3b2d247839b5c65bb0f0ff7a7fa209668f7e7ae733d809f76d",
+        "url": "https://codeload.github.com/BossSloth/SteamHunter-plugin/zip/582147fb1c7f1e471d1b377d200aaaf4af239723",
+        "sha256": "1b755c6d77e8e307619319de4a7b0bf9afbd532da770b431bdeb3eb5b47279a3",
         "localeFiles": []
       },
       "extracted": 36
@@ -459,11 +473,11 @@
       "kind": "plugin",
       "name": "Extendium",
       "repository": "BossSloth/Extendium",
-      "revision": "3f9ffb0cd9ada58a7de7f71b3ed8d094ca7130f6",
+      "revision": "550bb1c0b3fd7c5165677e7a226112af11a842e1",
       "extraction": "manifest-and-static-ui",
       "archive": {
-        "url": "https://codeload.github.com/BossSloth/Extendium/zip/3f9ffb0cd9ada58a7de7f71b3ed8d094ca7130f6",
-        "sha256": "810afc12e451ff41978e8c15752df2cbadcd11f27fd3adebf88e821c0de8084d",
+        "url": "https://codeload.github.com/BossSloth/Extendium/zip/550bb1c0b3fd7c5165677e7a226112af11a842e1",
+        "sha256": "c25f2be8fd987783e9b6e5689682e05c7640d06dfd995cd31cd9d3e7bc291d2e",
         "localeFiles": []
       },
       "extracted": 67
@@ -641,11 +655,11 @@
       "kind": "plugin",
       "name": "Size on Disk",
       "repository": "k0d13/steam-size-on-disk",
-      "revision": "35ee6ab7a221429766ddafcee4d7a2a288246ecc",
+      "revision": "600e00f66bf2dc84093c7af47624e563b177c827",
       "extraction": "manifest-and-static-ui",
       "archive": {
-        "url": "https://codeload.github.com/k0d13/steam-size-on-disk/zip/35ee6ab7a221429766ddafcee4d7a2a288246ecc",
-        "sha256": "e021def2c3107ff41fe39ab32369fa1f18a03833cf21707d7b4ed7c6fff587e1",
+        "url": "https://codeload.github.com/k0d13/steam-size-on-disk/zip/600e00f66bf2dc84093c7af47624e563b177c827",
+        "sha256": "e3a4ffba678a2cdd4be4913e44d6f489b20bce75bb58134cdb798de18f9376d8",
         "localeFiles": []
       },
       "extracted": 7
@@ -808,8 +822,8 @@
     }
   ],
   "counts": {
-    "themes": 26,
+    "themes": 27,
     "plugins": 36,
-    "extracted": 2020
+    "extracted": 2167
   }
 }

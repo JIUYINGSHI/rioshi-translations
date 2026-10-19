@@ -312,7 +312,7 @@ const MILLENNIUM_IS_CLIENT_MODULE = true;
         name: "English",
         full: true,
         path: "locales/en.json",
-        entries: 1862,
+        entries: 1985,
         status: "source-text"
       },
       {
@@ -321,42 +321,42 @@ const MILLENNIUM_IS_CLIENT_MODULE = true;
         full: true,
         path: "locales/zh-CN.json",
         entries: 1914,
-        status: "complete-extracted-text-with-machine-drafts"
+        status: "partial-catalog-coverage"
       },
       {
         id: "es",
         name: "Espa\xF1ol",
         path: "locales/es.json",
         entries: 1892,
-        status: "complete-extracted-text-with-machine-drafts"
+        status: "partial-catalog-coverage"
       },
       {
         id: "fr",
         name: "Fran\xE7ais",
         path: "locales/fr.json",
         entries: 1891,
-        status: "complete-extracted-text-with-machine-drafts"
+        status: "partial-catalog-coverage"
       },
       {
         id: "de",
         name: "Deutsch",
         path: "locales/de.json",
         entries: 1891,
-        status: "complete-extracted-text-with-machine-drafts"
+        status: "partial-catalog-coverage"
       },
       {
         id: "pt-BR",
         name: "Portugu\xEAs (Brasil)",
         path: "locales/pt-BR.json",
         entries: 1891,
-        status: "complete-extracted-text-with-machine-drafts"
+        status: "partial-catalog-coverage"
       },
       {
         id: "ja",
         name: "\u65E5\u672C\u8A9E",
         path: "locales/ja.json",
         entries: 1891,
-        status: "complete-extracted-text-with-machine-drafts"
+        status: "partial-catalog-coverage"
       }
     ]
   };

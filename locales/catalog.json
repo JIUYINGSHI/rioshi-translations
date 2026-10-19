@@ -7,7 +7,7 @@
       "name": "English",
       "full": true,
       "path": "locales/en.json",
-      "entries": 1862,
+      "entries": 1985,
       "status": "source-text"
     },
     {
@@ -16,42 +16,42 @@
       "full": true,
       "path": "locales/zh-CN.json",
       "entries": 1914,
-      "status": "complete-extracted-text-with-machine-drafts"
+      "status": "partial-catalog-coverage"
     },
     {
       "id": "es",
       "name": "Español",
       "path": "locales/es.json",
       "entries": 1892,
-      "status": "complete-extracted-text-with-machine-drafts"
+      "status": "partial-catalog-coverage"
     },
     {
       "id": "fr",
       "name": "Français",
       "path": "locales/fr.json",
       "entries": 1891,
-      "status": "complete-extracted-text-with-machine-drafts"
+      "status": "partial-catalog-coverage"
     },
     {
       "id": "de",
       "name": "Deutsch",
       "path": "locales/de.json",
       "entries": 1891,
-      "status": "complete-extracted-text-with-machine-drafts"
+      "status": "partial-catalog-coverage"
     },
     {
       "id": "pt-BR",
       "name": "Português (Brasil)",
       "path": "locales/pt-BR.json",
       "entries": 1891,
-      "status": "complete-extracted-text-with-machine-drafts"
+      "status": "partial-catalog-coverage"
     },
     {
       "id": "ja",
       "name": "日本語",
       "path": "locales/ja.json",
       "entries": 1891,
-      "status": "complete-extracted-text-with-machine-drafts"
+      "status": "partial-catalog-coverage"
     }
   ]
 }

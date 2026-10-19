@@ -1,6 +1,7 @@
 {
   "A small line under each number: installed, in how many games, average completion, drives.": "各数字の下の小さな線: インストール数、ゲーム数、平均完了数、ドライブ数。",
   "Accent colour": "アクセントカラー",
+  "Add shelf button": "棚追加ボタン",
   "Background": "背景",
   "Background art": "背景アート",
   "Behind the Shift+Tab panels: a light veil or Steam's dark sheet.": "Shift+Tab パネルの背後: ライト ベールまたは Steam のダーク シート。",
@@ -39,8 +40,10 @@
   "Meadow": "草原",
   "Millennium plugins that draw their own interface (HLTB for Steam, Achievement Groups, Player Count, Extendium): in the theme's colours, or as the plugin ships them.": "独自のインターフェイス (Steam 用 HLTB、実績グループ、プレイヤー数、拡張機能) を描画する Millennium プラグイン: テーマの色、またはプラグインが提供する色で描画します。",
   "Normal": "ノーマル",
+  "On hover": "ホバー時",
   "Overlay background": "オーバーレイの背景",
   "Overlay panels": "オーバーレイパネル",
+  "Pinned": "固定された",
   "Plain dusk": "平らな夕暮れ",
   "Plugin's own": "プラグイン独自の",
   "Plugins": "プラグイン",

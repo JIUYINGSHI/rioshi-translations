@@ -3,7 +3,7 @@
   "kind": "theme",
   "name": "Material",
   "repository": "kuska1/Material-Theme",
-  "revision": "f91b4e9cbc5436f149e6b293391a9a96ab47fbe9",
+  "revision": "7a2852552eaf3cbadadb623e6e7703956854e730",
   "texts": [
     " - Show Balance in menu after Hover?",
     " - Show Balance near name after hover?",
@@ -198,7 +198,7 @@
   "extraction": "official-skin-config",
   "source": "https://steambrew.app/api/v2",
   "rootColorSource": {
-    "url": "https://raw.githubusercontent.com/kuska1/Material-Theme/f91b4e9cbc5436f149e6b293391a9a96ab47fbe9/css/main/root-colors.css",
+    "url": "https://raw.githubusercontent.com/kuska1/Material-Theme/7a2852552eaf3cbadadb623e6e7703956854e730/css/main/root-colors.css",
     "sha256": "3e25d02e057a2faeac241f1897658ff31030abd5d90fcf2f226db2efb4ef1916"
   }
 }

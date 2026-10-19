@@ -3,7 +3,7 @@
   "kind": "theme",
   "name": "ATOMS",
   "repository": "Plaer1/ATOMS",
-  "revision": "07f6f836b61125e76a3a66fde8f7d624d89fc0d5",
+  "revision": "ff4172b4c708420280a15f2c94beac7c1018c5b4",
   "texts": [
     "Allows you to navigate the Steam Que on store pages Via the arrow keys.",
     "Automatically ignores certain games (tags/banned keywords can be set in 'config.js'; see 'js/configDefaults.js' for the full list)",
@@ -12,7 +12,10 @@
     "Enable Que Via Keyboard?",
     "Enables Use of System Accent Color from Mill' settings.",
     "Enables semi-transparent icons for uninstall games in the game-grid.",
+    "General",
     "Just another \"take\" on Metro Steam.",
+    "Show floating theme toggle?",
+    "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button.",
     "Use Custom Accent Color?",
     "no",
     "yes"

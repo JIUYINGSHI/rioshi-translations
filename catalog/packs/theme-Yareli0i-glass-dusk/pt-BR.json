@@ -1,6 +1,7 @@
 {
   "A small line under each number: installed, in how many games, average completion, drives.": "Uma pequena linha abaixo de cada número: instalado, em quantos jogos, conclusão média, drives.",
   "Accent colour": "Cor de destaque",
+  "Add shelf button": "Botão Adicionar estante",
   "Background": "Plano de fundo",
   "Background art": "Arte de fundo",
   "Behind the Shift+Tab panels: a light veil or Steam's dark sheet.": "Atrás dos painéis Shift+Tab: um véu claro ou uma folha escura do Steam.",
@@ -39,8 +40,10 @@
   "Meadow": "Prado",
   "Millennium plugins that draw their own interface (HLTB for Steam, Achievement Groups, Player Count, Extendium): in the theme's colours, or as the plugin ships them.": "Plugins Millennium que desenham sua própria interface (HLTB para Steam, Achievement Groups, Player Count, Extendium): nas cores do tema ou conforme o plugin os envia.",
   "Normal": "Normais",
+  "On hover": "Ao pairar",
   "Overlay background": "Fundo de sobreposição",
   "Overlay panels": "Painéis de sobreposição",
+  "Pinned": "Fixado",
   "Plain dusk": "Crepúsculo simples",
   "Plugin's own": "Próprio do plugin",
   "Plugins": "Plug-ins",

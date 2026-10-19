@@ -6,7 +6,10 @@
   "Enable Que Via Keyboard?": "Enable Que Via Keyboard?",
   "Enables Use of System Accent Color from Mill' settings.": "Enables Use of System Accent Color from Mill' settings.",
   "Enables semi-transparent icons for uninstall games in the game-grid.": "Enables semi-transparent icons for uninstall games in the game-grid.",
+  "General": "General",
   "Just another \"take\" on Metro Steam.": "Just another \"take\" on Metro Steam.",
+  "Show floating theme toggle?": "Show floating theme toggle?",
+  "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button.": "Show the optional ATOMS on/off comparison button. Turning this option off restores the theme and removes the button.",
   "Use Custom Accent Color?": "Use Custom Accent Color?",
   "no": "no",
   "yes": "yes"

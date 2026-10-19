@@ -3,7 +3,7 @@
   "kind": "theme",
   "name": "Minimal Dark",
   "repository": "SaiyajinK/Minimal-Dark-for-Steam",
-  "revision": "2d5ace019b1a92ecedcb2b81706ab5955db4101e",
+  "revision": "6a2f10be191f8ea7ef8a1ebfc27e4ad86d31f198",
   "texts": [
     "> Choose an alternative layout for the new Steam Store menu.\n\n- Minimal new UI : Use the standard Minimal Dark layout.\n- Minimal new UI (buttons) : Use the Minimal Dark layout with buttons.\n- Minimal new UI (compact buttons) : Use the compact Minimal Dark layout with buttons.\n- Minimal new UI (compact) : Use the compact Minimal Dark layout.\n- Ultra compact : Show only the icon at the default size.\n- Ultra compact #1 : Show only the icon at a compact size.",
     "> Choose between the Minimal Dark and vanilla Steam top bar layouts.\n\n- Minimal Dark : Place all top bar buttons on one row.\n- Vanilla topbar : Use Steam's two-row top bar layout.",

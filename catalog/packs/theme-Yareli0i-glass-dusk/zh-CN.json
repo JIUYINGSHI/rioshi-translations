@@ -1,6 +1,7 @@
 {
   "A small line under each number: installed, in how many games, average completion, drives.": "每个数字下有一条小线：已安装、游戏数量、平均完成度、驱动器。",
   "Accent colour": "强调色",
+  "Add shelf button": "添加陈列架按钮",
   "Background": "背景",
   "Background art": "背景艺术",
   "Behind the Shift+Tab panels: a light veil or Steam's dark sheet.": "Shift+Tab 面板后面：浅色面纱或 Steam 的深色床单。",
@@ -39,8 +40,10 @@
   "Meadow": "草地",
   "Millennium plugins that draw their own interface (HLTB for Steam, Achievement Groups, Player Count, Extendium): in the theme's colours, or as the plugin ships them.": "绘制自己的界面的 Millennium 插件（Steam 的 HLTB、成就组、玩家计数、Extendium）：采用主题的颜色，或者按照插件发布的颜色。",
   "Normal": "正常",
+  "On hover": "悬停时",
   "Overlay background": "叠加背景",
   "Overlay panels": "覆盖面板",
+  "Pinned": "已固定",
   "Plain dusk": "平淡的黄昏",
   "Plugin's own": "插件自带的",
   "Plugins": "插件",

@@ -5,7 +5,6 @@
   "Always show game infos on the game page": "Mostrar siempre información del juego en la página del juego.",
   "Always show sidebar": "Mostrar siempre la barra lateral",
   "Always show the download bar": "Mostrar siempre la barra de descarga",
-  "Always show the sidebar don't matter on which page (Except the download page) \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]": "Mostrar siempre la barra lateral sin importar en qué página (excepto la página de descarga) \n[i]Si tiene esta opción deshabilitada, el panel de usuario y la barra de descarga solo se muestran cuando está en la biblioteca. Recomiendo habilitar la opción \"Barra lateral solo al pasar el cursor\", para seguir teniendo acceso al panel de usuario y a la barra de descargas en la tienda y la comunidad[/i]",
   "Arial": "Arial",
   "Banner Infos": "Información del banner",
   "Banner position": "Posición de la pancarta",

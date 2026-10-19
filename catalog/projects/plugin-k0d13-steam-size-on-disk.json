@@ -3,7 +3,7 @@
   "kind": "plugin",
   "name": "Size on Disk",
   "repository": "k0d13/steam-size-on-disk",
-  "revision": "35ee6ab7a221429766ddafcee4d7a2a288246ecc",
+  "revision": "600e00f66bf2dc84093c7af47624e563b177c827",
   "texts": [
     "Clear",
     "Folder",
@@ -16,8 +16,8 @@
   "native": {},
   "extraction": "manifest-and-static-ui",
   "archive": {
-    "url": "https://codeload.github.com/k0d13/steam-size-on-disk/zip/35ee6ab7a221429766ddafcee4d7a2a288246ecc",
-    "sha256": "e021def2c3107ff41fe39ab32369fa1f18a03833cf21707d7b4ed7c6fff587e1",
+    "url": "https://codeload.github.com/k0d13/steam-size-on-disk/zip/600e00f66bf2dc84093c7af47624e563b177c827",
+    "sha256": "e3a4ffba678a2cdd4be4913e44d6f489b20bce75bb58134cdb798de18f9376d8",
     "localeFiles": []
   }
 }

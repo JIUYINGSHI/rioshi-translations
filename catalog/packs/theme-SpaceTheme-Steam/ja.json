@@ -5,7 +5,6 @@
   "Always show game infos on the game page": "ゲームページにゲーム情報を常に表示する",
   "Always show sidebar": "サイドバーを常に表示する",
   "Always show the download bar": "ダウンロードバーを常に表示する",
-  "Always show the sidebar don't matter on which page (Except the download page) \n[i]If you have this option disabled, the userpanel and download bar only show when you in library. I recommend to enable then the \"Sidebar only on hover\" option, to still have access to the userpanel and download bar in the store and community[/i]": "どのページであってもサイドバーを常に表示します (ダウンロード ページを除く) \n[i]このオプションを無効にしている場合、ユーザーパネルとダウンロード バーはライブラリにいるときにのみ表示されます。ストアとコミュニティのユーザーパネルとダウンロードバーに引き続きアクセスできるように、「ホバー時のみサイドバー」オプションを有効にすることをお勧めします[/i]",
   "Arial": "Arial",
   "Banner Infos": "バナー情報",
   "Banner position": "バナーの位置",

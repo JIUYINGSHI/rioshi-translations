@@ -3,7 +3,7 @@
   "kind": "plugin",
   "name": "Achievement Groups",
   "repository": "BossSloth/SteamHunter-plugin",
-  "revision": "3662d0fa4f32a0b7d4151004cd241fe009b36f0d",
+  "revision": "582147fb1c7f1e471d1b377d200aaaf4af239723",
   "texts": [
     "% on",
     "Achievement Groups",
@@ -45,8 +45,8 @@
   "native": {},
   "extraction": "manifest-and-static-ui",
   "archive": {
-    "url": "https://codeload.github.com/BossSloth/SteamHunter-plugin/zip/3662d0fa4f32a0b7d4151004cd241fe009b36f0d",
-    "sha256": "6fbf4fd52d895b3b2d247839b5c65bb0f0ff7a7fa209668f7e7ae733d809f76d",
+    "url": "https://codeload.github.com/BossSloth/SteamHunter-plugin/zip/582147fb1c7f1e471d1b377d200aaaf4af239723",
+    "sha256": "1b755c6d77e8e307619319de4a7b0bf9afbd532da770b431bdeb3eb5b47279a3",
     "localeFiles": []
   }
 }

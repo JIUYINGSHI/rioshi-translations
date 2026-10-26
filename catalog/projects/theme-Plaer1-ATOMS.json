@@ -3,7 +3,7 @@
   "kind": "theme",
   "name": "ATOMS",
   "repository": "Plaer1/ATOMS",
-  "revision": "ff4172b4c708420280a15f2c94beac7c1018c5b4",
+  "revision": "255b6a962f1bc078f105860a2bdfa6166acf33d3",
   "texts": [
     "Allows you to navigate the Steam Que on store pages Via the arrow keys.",
     "Automatically ignores certain games (tags/banned keywords can be set in 'config.js'; see 'js/configDefaults.js' for the full list)",

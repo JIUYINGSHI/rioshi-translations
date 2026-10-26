@@ -3,7 +3,7 @@
   "kind": "theme",
   "name": "Simple Dark.",
   "repository": "shdwmtr/simply-dark",
-  "revision": "5163dcbca3cbde75e6aad29af0c6025612ba8607",
+  "revision": "d5fde36af9ad4d376664fad7f211e76da720bba6",
   "texts": [
     "A sleek and elegant theme that brings a darker, more immersive experience to your Steam client.",
     "Add Shelf Visibility",
@@ -33,7 +33,7 @@
   "extraction": "official-skin-config",
   "source": "https://steambrew.app/api/v2",
   "rootColorSource": {
-    "url": "https://raw.githubusercontent.com/shdwmtr/simply-dark/5163dcbca3cbde75e6aad29af0c6025612ba8607/colors.css",
+    "url": "https://raw.githubusercontent.com/shdwmtr/simply-dark/d5fde36af9ad4d376664fad7f211e76da720bba6/colors.css",
     "sha256": "006f8409e306ca56ecb2099d2bd5e1e3ee125c4996808ac0c167d5af3ca6310b"
   }
 }

@@ -3,7 +3,7 @@
   "kind": "theme",
   "name": "SpaceTheme for Steam",
   "repository": "SpaceTheme/Steam",
-  "revision": "650f3961021720b8c1ee88fc9ca2cdf97f12ed0d",
+  "revision": "c462be494e4987911883be4d5564bbe7660adeb5",
   "texts": [
     "Add shelf button",
     "Always show download bar",
@@ -29,8 +29,12 @@
     "Community",
     "Compact",
     "Customize the What's New section",
+    "Darken gamepage banner",
+    "Darken installed games",
     "Darken not installed games",
-    "Darkens game cards when they are not installed",
+    "Darkens game banners when they are installed. 20% means darken 100% no darken \n[i]Default: 100%[/i]",
+    "Darkens game cards when they are installed. 20% means darken 100% no darken \n[i]Default: 100%[/i]",
+    "Darkens game cards when they are not installed. 20% means darken 100% no darken \n[i]Default: 60%[/i]",
     "Digital product info",
     "Dynamic banner height",
     "Experimental",
@@ -67,6 +71,7 @@
     "Hide Valve/Steam footer",
     "Hide broadcasts on the store gamepage",
     "Hide group chat",
+    "Hide playbar info icons",
     "Hide recommendations in the cart",
     "Hide shiny effect on game covers",
     "Hide the Send a Gift Card button",
@@ -78,6 +83,7 @@
     "Hide the profile pages header",
     "Hide wallet balance",
     "Hides the group chat section in the friends list",
+    "Hides the icons that are displayed in the playbar for the infos like playtime/...",
     "Hides the info that the purchase is a digital product",
     "Hides the scrollbars in the SteamUI",
     "Home",
@@ -158,7 +164,7 @@
   "extraction": "official-skin-config",
   "source": "https://steambrew.app/api/v2",
   "rootColorSource": {
-    "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/650f3961021720b8c1ee88fc9ca2cdf97f12ed0d/src/css/root.css",
+    "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/c462be494e4987911883be4d5564bbe7660adeb5/src/css/root.css",
     "sha256": "1ca442b1fd8a329d66f2b62f00fba3f85cb21750dd3841a031e140681fe75291"
   }
 }

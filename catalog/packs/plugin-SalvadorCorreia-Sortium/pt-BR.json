@@ -1,5 +1,4 @@
 {
-  "API Rate Limited - Stream suspended temporarily": "API Rate Limited – Transmissão suspensa temporariamente",
   "Add to": "Adicionar a",
   "Advanced & Debugging": "Avançado e depuração",
   "Advanced library sorting for the Steam client based on global completion metrics.": "Classificação avançada de bibliotecas para o cliente Steam com base em métricas de conclusão globais.",
@@ -19,7 +18,6 @@
   "Enable Collection Button": "Habilitar botão de coleta",
   "Enable Developer Logging": "Habilitar registro do desenvolvedor",
   "Enable Sortium View by Default": "Habilitar visualização Sortium por padrão",
-  "Force Sync": "Forçar sincronização",
   "Force Sync Library": "Forçar sincronização da biblioteca",
   "Force the plugin to delete all stored game data.": "Force o plugin a excluir todos os dados armazenados do jogo.",
   "Hard Cache Expiration (Days)": "Expiração do cache rígido (dias)",

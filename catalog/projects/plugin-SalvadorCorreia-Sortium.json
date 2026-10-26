@@ -3,9 +3,8 @@
   "kind": "plugin",
   "name": "Sortium",
   "repository": "SalvadorCorreia/Sortium",
-  "revision": "d6a286c51cdbb10765606d0e92fb35b3e14216fa",
+  "revision": "4995906a521aa6b4d1c138e19d6f90ec1cfa4274",
   "texts": [
-    "API Rate Limited - Stream suspended temporarily",
     "Add to",
     "Advanced & Debugging",
     "Advanced library sorting for the Steam client based on global completion metrics.",
@@ -25,13 +24,14 @@
     "Enable Collection Button",
     "Enable Developer Logging",
     "Enable Sortium View by Default",
-    "Force Sync",
     "Force Sync Library",
     "Force the plugin to delete all stored game data.",
     "Hard Cache Expiration (Days)",
     "How the sorting options are presented in the library.",
     "Last Used Metric",
     "Loading Sortium Configuration...",
+    "No games found in library",
+    "No streams enabled",
     "Print debug information to the Millennium developer console.",
     "Properties...",
     "Pushes all cached games into the background fetch queue immediately.",
@@ -46,13 +46,16 @@
     "Sortium Options",
     "Sortium View State",
     "Standard Dropdown",
-    "User Interface"
+    "Sync failed",
+    "User Interface",
+    "✓ All games up to date",
+    "✓ Complete: All games up to date"
   ],
   "native": {},
   "extraction": "manifest-and-static-ui",
   "archive": {
-    "url": "https://codeload.github.com/SalvadorCorreia/Sortium/zip/d6a286c51cdbb10765606d0e92fb35b3e14216fa",
-    "sha256": "4f801c3d9e1f0d72d57a16c7b8604cd8fcdb27644cb6637fc41c2fa2358f4928",
+    "url": "https://codeload.github.com/SalvadorCorreia/Sortium/zip/4995906a521aa6b4d1c138e19d6f90ec1cfa4274",
+    "sha256": "dbb81362f879186d78da3147ecbf80d6348723374493da4417e3c1cdc45f9fca",
     "localeFiles": []
   }
 }

@@ -1,5 +1,4 @@
 {
-  "API Rate Limited - Stream suspended temporarily": "API Rate Limited - Stream suspended temporarily",
   "Add to": "Add to",
   "Advanced & Debugging": "Advanced & Debugging",
   "Advanced library sorting for the Steam client based on global completion metrics.": "Advanced library sorting for the Steam client based on global completion metrics.",
@@ -19,13 +18,14 @@
   "Enable Collection Button": "Enable Collection Button",
   "Enable Developer Logging": "Enable Developer Logging",
   "Enable Sortium View by Default": "Enable Sortium View by Default",
-  "Force Sync": "Force Sync",
   "Force Sync Library": "Force Sync Library",
   "Force the plugin to delete all stored game data.": "Force the plugin to delete all stored game data.",
   "Hard Cache Expiration (Days)": "Hard Cache Expiration (Days)",
   "How the sorting options are presented in the library.": "How the sorting options are presented in the library.",
   "Last Used Metric": "Last Used Metric",
   "Loading Sortium Configuration...": "Loading Sortium Configuration...",
+  "No games found in library": "No games found in library",
+  "No streams enabled": "No streams enabled",
   "Print debug information to the Millennium developer console.": "Print debug information to the Millennium developer console.",
   "Properties...": "Properties...",
   "Pushes all cached games into the background fetch queue immediately.": "Pushes all cached games into the background fetch queue immediately.",
@@ -40,5 +40,8 @@
   "Sortium Options": "Sortium Options",
   "Sortium View State": "Sortium View State",
   "Standard Dropdown": "Standard Dropdown",
-  "User Interface": "User Interface"
+  "Sync failed": "Sync failed",
+  "User Interface": "User Interface",
+  "✓ All games up to date": "✓ All games up to date",
+  "✓ Complete: All games up to date": "✓ Complete: All games up to date"
 }

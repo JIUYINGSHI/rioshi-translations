@@ -312,7 +312,7 @@ const MILLENNIUM_IS_CLIENT_MODULE = true;
         name: "English",
         full: true,
         path: "locales/en.json",
-        entries: 1985,
+        entries: 2033,
         status: "source-text"
       },
       {
@@ -327,7 +327,7 @@ const MILLENNIUM_IS_CLIENT_MODULE = true;
         id: "es",
         name: "Espa\xF1ol",
         path: "locales/es.json",
-        entries: 1892,
+        entries: 1897,
         status: "partial-catalog-coverage"
       },
       {

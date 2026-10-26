@@ -7,7 +7,7 @@
       "name": "English",
       "full": true,
       "path": "locales/en.json",
-      "entries": 1985,
+      "entries": 2033,
       "status": "source-text"
     },
     {
@@ -22,7 +22,7 @@
       "id": "es",
       "name": "Español",
       "path": "locales/es.json",
-      "entries": 1892,
+      "entries": 1897,
       "status": "partial-catalog-coverage"
     },
     {

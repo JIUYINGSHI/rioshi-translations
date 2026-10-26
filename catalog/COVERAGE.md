@@ -1,6 +1,6 @@
 # Millennium catalog translation coverage
 
-Official inventory fetched: 2026-10-19T07:21:41.088Z
+Official inventory fetched: 2026-10-26T07:26:54.675Z
 
 Themes: 27; plugins: 36.
 
@@ -18,7 +18,7 @@ Coverage counts refer to statically extracted display texts, not a claim that ev
 | [Game Renamer](https://github.com/Inceptofn/Steam-GameRenamer-Plugin) | plugin | 9 | 9 | 9 | 9 | 9 | 9 | 9 |
 | [CSWatch Plugin](https://github.com/Leon135/cswatch-plugin) | plugin | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 | [Easy Restart / Reload for Steam](https://github.com/SaiyajinK/Easy-Restart-Reload-for-Steam) | plugin | 19 | 19 | 19 | 19 | 19 | 19 | 19 |
-| [Sortium](https://github.com/SalvadorCorreia/Sortium) | plugin | 42 | 42 | 42 | 42 | 42 | 42 | 42 |
+| [Sortium](https://github.com/SalvadorCorreia/Sortium) | plugin | 45 | 40 | 40 | 40 | 40 | 40 | 40 |
 | [CS2 Profile Stats](https://github.com/Shightrox/millennium-cs2-profile-stats) | plugin | 23 | 23 | 23 | 23 | 23 | 23 | 23 |
 | [CSStats.gg Extension](https://github.com/TOR968/csstats-extension) | plugin | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
 | [Leetify Extension](https://github.com/TOR968/leetify-extension) | plugin | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
@@ -38,7 +38,7 @@ Coverage counts refer to statically extracted display texts, not a claim that ev
 | [ProtonDB Status](https://github.com/nyakuoff/protondb-badge) | plugin | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
 | [Microsoft Office 2007 Styled Theme plugin](https://github.com/ricewind012/aerothemesteam) | plugin | 18 | 18 | 18 | 18 | 18 | 18 | 18 |
 | [Browser History](https://github.com/ricewind012/steam-browser-history) | plugin | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
-| [Change Window Params](https://github.com/ricewind012/steam-change-window-params) | plugin | 49 | 49 | 49 | 49 | 49 | 49 | 49 |
+| [Change Window Params](https://github.com/ricewind012/steam-change-window-params) | plugin | 52 | 44 | 51 | 44 | 44 | 44 | 44 |
 | [Player Count](https://github.com/swindlesmccoop/playercount-badge) | plugin | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
 | [ProtonDB](https://github.com/unicxrn/protondb-millennium) | plugin | 18 | 18 | 18 | 18 | 18 | 18 | 18 |
 | [Valve Internal Enabler](https://github.com/veygax/valve-internal-enabler) | plugin | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
@@ -51,15 +51,15 @@ Coverage counts refer to statically extracted display texts, not a claim that ev
 | [OldSteam](https://github.com/MapleAtMorning/OldSteam-Theme) | theme | 13 | 13 | 13 | 13 | 13 | 13 | 13 |
 | [ATOMS](https://github.com/Plaer1/ATOMS) | theme | 14 | 12 | 12 | 12 | 12 | 12 | 12 |
 | [Metro by Rose](https://github.com/RoseTheFlower/MetroSteam) | theme | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| [Minimal Dark](https://github.com/SaiyajinK/Minimal-Dark-for-Steam) | theme | 470 | 470 | 470 | 470 | 470 | 470 | 470 |
+| [Minimal Dark](https://github.com/SaiyajinK/Minimal-Dark-for-Steam) | theme | 472 | 469 | 469 | 469 | 469 | 469 | 469 |
 | [Aero XP](https://github.com/Sennanon87/AeroXP) | theme | 68 | 68 | 68 | 68 | 68 | 68 | 68 |
-| [SpaceTheme for Steam](https://github.com/SpaceTheme/Steam) | theme | 148 | 143 | 143 | 143 | 143 | 143 | 143 |
-| [Glass Dusk](https://github.com/Yareli0i/glass-dusk) | theme | 91 | 72 | 72 | 72 | 72 | 72 | 72 |
+| [SpaceTheme for Steam](https://github.com/SpaceTheme/Steam) | theme | 154 | 142 | 142 | 142 | 142 | 142 | 142 |
+| [Glass Dusk](https://github.com/Yareli0i/glass-dusk) | theme | 93 | 72 | 72 | 72 | 72 | 72 | 72 |
 | [umi-asanagi-theme](https://github.com/aaeriih/umi-asanagi-theme) | theme | 12 | 12 | 12 | 12 | 12 | 12 | 12 |
-| [NEVKO-UI](https://github.com/dotFelixan/NEVKO-UI) | theme | 142 | 47 | 47 | 47 | 47 | 47 | 47 |
+| [NEVKO-UI](https://github.com/dotFelixan/NEVKO-UI) | theme | 168 | 42 | 42 | 42 | 42 | 42 | 42 |
 | [Classic Steam Library](https://github.com/eyedine2/Classic-Steam-Library) | theme | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
 | [UltraWide](https://github.com/guyonphone/UltraWide) | theme | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| [Aika](https://github.com/hatewxb/Aika) | theme | 63 | 10 | 10 | 10 | 10 | 10 | 10 |
+| [Aika](https://github.com/hatewxb/Aika) | theme | 68 | 10 | 10 | 10 | 10 | 10 | 10 |
 | [Mont Black](https://github.com/iBedro/MontBlack) | theme | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | [Material](https://github.com/kuska1/Material-Theme) | theme | 188 | 188 | 188 | 188 | 188 | 188 | 188 |
 | [no more whats new](https://github.com/lil-fluff/no-more-whats-new) | theme | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
@@ -74,10 +74,10 @@ Coverage counts refer to statically extracted display texts, not a claim that ev
 
 ## Per-language totals
 
-- en: 1985/1985, 0 missing; 0 machine draft entries.
-- zh-CN: 1813/1985, 172 missing; 1739 machine draft entries.
-- es: 1813/1985, 172 missing; 1752 machine draft entries.
-- fr: 1813/1985, 172 missing; 1794 machine draft entries.
-- de: 1813/1985, 172 missing; 1793 machine draft entries.
-- pt-BR: 1813/1985, 172 missing; 1794 machine draft entries.
-- ja: 1813/1985, 172 missing; 1789 machine draft entries.
+- en: 2033/2033, 0 missing; 0 machine draft entries.
+- zh-CN: 1800/2033, 233 missing; 1739 machine draft entries.
+- es: 1807/2033, 226 missing; 1752 machine draft entries.
+- fr: 1800/2033, 233 missing; 1794 machine draft entries.
+- de: 1800/2033, 233 missing; 1793 machine draft entries.
+- pt-BR: 1800/2033, 233 missing; 1794 machine draft entries.
+- ja: 1800/2033, 233 missing; 1789 machine draft entries.

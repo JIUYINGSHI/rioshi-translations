@@ -63,6 +63,7 @@
   "Sharper": "Sharper",
   "Sheerer": "Sheerer",
   "Sign-in screen": "Sign-in screen",
+  "Slideshow": "Slideshow",
   "Smoked glass over the art of the game you have open: the client takes its accent colour from that art. Styles the library, store, menus, Big Picture and the in-game overlay.": "Smoked glass over the art of the game you have open: the client takes its accent colour from that art. Styles the library, store, menus, Big Picture and the in-game overlay.",
   "Softer": "Softer",
   "Space taken in Steam's library folders, in GB.": "Space taken in Steam's library folders, in GB.",
@@ -73,7 +74,7 @@
   "Store: game list": "Store: game list",
   "Subtle": "Subtle",
   "Text the theme draws itself: home header, Big Picture chip, dates.": "Text the theme draws itself: home header, Big Picture chip, dates.",
-  "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.": "The account chooser when Steam starts (Who's playing?): the art of the game you played last, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+  "The account chooser when Steam starts (Who's playing?): the art of the game you played last, the covers of your own games drifting past, the art of your games one after another, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.": "The account chooser when Steam starts (Who's playing?): the art of the game you played last, the covers of your own games drifting past, the art of your games one after another, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
   "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.": "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
   "The row of recently played games under the Continue card.": "The row of recently played games under the Continue card.",
   "The theme's header (greeting, stats, Continue) or Steam's shelves only.": "The theme's header (greeting, stats, Continue) or Steam's shelves only.",
@@ -88,6 +89,7 @@
   "Where the game list sits.": "Where the game list sits.",
   "Whole library": "Whole library",
   "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list.": "Your game list beside the store and other web pages of the main window: off, pinned there, coming out when you point at the window's edge, or a rail of your last games' covers that opens into the list.",
+  "Your games": "Your games",
   "no": "no",
   "yes": "yes"
 }

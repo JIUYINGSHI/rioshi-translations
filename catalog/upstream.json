@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T07:21:41.088Z",
+  "fetchedAt": "2026-10-26T07:26:54.675Z",
   "sources": {
     "themes": "https://steambrew.app/api/v2",
     "plugins": "https://steambrew.app/api/v1/plugins/"
@@ -30,7 +30,7 @@
       "kind": "theme",
       "name": "ATOMS",
       "repository": "Plaer1/ATOMS",
-      "revision": "ff4172b4c708420280a15f2c94beac7c1018c5b4",
+      "revision": "255b6a962f1bc078f105860a2bdfa6166acf33d3",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "extracted": 14
@@ -70,21 +70,21 @@
       "kind": "theme",
       "name": "Minimal Dark",
       "repository": "SaiyajinK/Minimal-Dark-for-Steam",
-      "revision": "6a2f10be191f8ea7ef8a1ebfc27e4ad86d31f198",
+      "revision": "44aa773086f84b71a0592cf99103776604faf3d1",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
-      "extracted": 470
+      "extracted": 472
     },
     {
       "id": "theme-shdwmtr-simply-dark",
       "kind": "theme",
       "name": "Simple Dark.",
       "repository": "shdwmtr/simply-dark",
-      "revision": "5163dcbca3cbde75e6aad29af0c6025612ba8607",
+      "revision": "d5fde36af9ad4d376664fad7f211e76da720bba6",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/shdwmtr/simply-dark/5163dcbca3cbde75e6aad29af0c6025612ba8607/colors.css",
+        "url": "https://raw.githubusercontent.com/shdwmtr/simply-dark/d5fde36af9ad4d376664fad7f211e76da720bba6/colors.css",
         "sha256": "006f8409e306ca56ecb2099d2bd5e1e3ee125c4996808ac0c167d5af3ca6310b"
       },
       "extracted": 23
@@ -104,14 +104,14 @@
       "kind": "theme",
       "name": "NEVKO-UI",
       "repository": "dotFelixan/NEVKO-UI",
-      "revision": "80698f434b734f91b14888d14e493f4b3059e25c",
+      "revision": "47733c96cb6c0c3281c1d2e9b3c33ef3aa70b8e3",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/dotFelixan/NEVKO-UI/80698f434b734f91b14888d14e493f4b3059e25c/Patches/Colors/root.css",
+        "url": "https://raw.githubusercontent.com/dotFelixan/NEVKO-UI/47733c96cb6c0c3281c1d2e9b3c33ef3aa70b8e3/Patches/Colors/root.css",
         "sha256": "5759e486a114a091d04df4dcfe7a65ce6bacda154875e40a2285f51dc7ff7fff"
       },
-      "extracted": 142
+      "extracted": 168
     },
     {
       "id": "theme-yufengOvO-steam-leimu",
@@ -162,11 +162,11 @@
       "kind": "theme",
       "name": "Material",
       "repository": "kuska1/Material-Theme",
-      "revision": "7a2852552eaf3cbadadb623e6e7703956854e730",
+      "revision": "32b6c127aab294c6f7c79ba7d3a12c717cc67227",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/kuska1/Material-Theme/7a2852552eaf3cbadadb623e6e7703956854e730/css/main/root-colors.css",
+        "url": "https://raw.githubusercontent.com/kuska1/Material-Theme/32b6c127aab294c6f7c79ba7d3a12c717cc67227/css/main/root-colors.css",
         "sha256": "3e25d02e057a2faeac241f1897658ff31030abd5d90fcf2f226db2efb4ef1916"
       },
       "extracted": 188
@@ -176,7 +176,7 @@
       "kind": "theme",
       "name": "Metro by Rose",
       "repository": "RoseTheFlower/MetroSteam",
-      "revision": "85d3488e426bfecc5a871f10021d3eab55318791",
+      "revision": "89b51c211256153ee9787206376af1dd2162ab32",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "extracted": 1
@@ -196,11 +196,11 @@
       "kind": "theme",
       "name": "Zehn",
       "repository": "yurisuika/Zehn",
-      "revision": "78a94cc86e403f36fb77d7113838ec8e0e3fd723",
+      "revision": "57a00a6e390e3d66f17b7c8f7bf92970756e5cd6",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/yurisuika/Zehn/78a94cc86e403f36fb77d7113838ec8e0e3fd723/option/colors.css",
+        "url": "https://raw.githubusercontent.com/yurisuika/Zehn/57a00a6e390e3d66f17b7c8f7bf92970756e5cd6/option/colors.css",
         "sha256": "f8aac85563d6127e11875289d5a2f7efae662eac4bd4ce6a1c529df0645fc105"
       },
       "extracted": 89
@@ -230,7 +230,7 @@
       "kind": "theme",
       "name": "Windows 95",
       "repository": "ricewind012/win95-themes",
-      "revision": "d2ae4fad38f2c2c349ea2a8b31c506bd57c84dbe",
+      "revision": "254ad09c8dc0653cdd63547f15e1f40c7d47ead9",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "extracted": 10
@@ -240,14 +240,14 @@
       "kind": "theme",
       "name": "SpaceTheme for Steam",
       "repository": "SpaceTheme/Steam",
-      "revision": "650f3961021720b8c1ee88fc9ca2cdf97f12ed0d",
+      "revision": "c462be494e4987911883be4d5564bbe7660adeb5",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/650f3961021720b8c1ee88fc9ca2cdf97f12ed0d/src/css/root.css",
+        "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/c462be494e4987911883be4d5564bbe7660adeb5/src/css/root.css",
         "sha256": "1ca442b1fd8a329d66f2b62f00fba3f85cb21750dd3841a031e140681fe75291"
       },
-      "extracted": 148
+      "extracted": 154
     },
     {
       "id": "theme-iBedro-MontBlack",
@@ -288,28 +288,28 @@
       "kind": "theme",
       "name": "Glass Dusk",
       "repository": "Yareli0i/glass-dusk",
-      "revision": "079654612ce19586d68e1268863338d9b484bc1d",
+      "revision": "87ee0a5240574e186814472ea4d13c1958deb94c",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/079654612ce19586d68e1268863338d9b484bc1d/css/root.css",
+        "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/87ee0a5240574e186814472ea4d13c1958deb94c/css/root.css",
         "sha256": "ad2c4f48b1c934c87d862be6cb3f41469b009393eaaf7e7e5df1364cb7eea406"
       },
-      "extracted": 91
+      "extracted": 93
     },
     {
       "id": "theme-hatewxb-Aika",
       "kind": "theme",
       "name": "Aika",
       "repository": "hatewxb/Aika",
-      "revision": "fbc08aea653bdd91f9730f9da11bce516c8ec909",
+      "revision": "d7722137658a9f89ca8af7dfc563620b3c03a7fe",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/hatewxb/Aika/fbc08aea653bdd91f9730f9da11bce516c8ec909/root-colors.css",
+        "url": "https://raw.githubusercontent.com/hatewxb/Aika/d7722137658a9f89ca8af7dfc563620b3c03a7fe/root-colors.css",
         "sha256": "d28a84a32e2c330e86c84d7a1874b1dd62e3c3ef88bf55ed11dc0f1175845385"
       },
-      "extracted": 63
+      "extracted": 68
     },
     {
       "id": "plugin-SaiyajinK-Easy-Restart-Reload-for-Steam",
@@ -669,14 +669,14 @@
       "kind": "plugin",
       "name": "Sortium",
       "repository": "SalvadorCorreia/Sortium",
-      "revision": "d6a286c51cdbb10765606d0e92fb35b3e14216fa",
+      "revision": "4995906a521aa6b4d1c138e19d6f90ec1cfa4274",
       "extraction": "manifest-and-static-ui",
       "archive": {
-        "url": "https://codeload.github.com/SalvadorCorreia/Sortium/zip/d6a286c51cdbb10765606d0e92fb35b3e14216fa",
-        "sha256": "4f801c3d9e1f0d72d57a16c7b8604cd8fcdb27644cb6637fc41c2fa2358f4928",
+        "url": "https://codeload.github.com/SalvadorCorreia/Sortium/zip/4995906a521aa6b4d1c138e19d6f90ec1cfa4274",
+        "sha256": "dbb81362f879186d78da3147ecbf80d6348723374493da4417e3c1cdc45f9fca",
         "localeFiles": []
       },
-      "extracted": 42
+      "extracted": 45
     },
     {
       "id": "plugin-ricewind012-steam-browser-history",
@@ -697,16 +697,16 @@
       "kind": "plugin",
       "name": "Change Window Params",
       "repository": "ricewind012/steam-change-window-params",
-      "revision": "ee57e92f9fe4f058082f8eb35b8ccbb2437cf4be",
+      "revision": "e136b15313d5f17053998726951d471d1b5f8975",
       "extraction": "manifest-and-static-ui",
       "archive": {
-        "url": "https://codeload.github.com/ricewind012/steam-change-window-params/zip/ee57e92f9fe4f058082f8eb35b8ccbb2437cf4be",
-        "sha256": "7aeba7bdb571c03e31c85e16bf7eaee74beacd04efa637b9a4cb929c2c4c713b",
+        "url": "https://codeload.github.com/ricewind012/steam-change-window-params/zip/e136b15313d5f17053998726951d471d1b5f8975",
+        "sha256": "f89c0759182d4b7cbac5831185ba6083d377b7482f984ca2e852c81bae10dccb",
         "localeFiles": [
-          "steam-change-window-params-ee57e92f9fe4f058082f8eb35b8ccbb2437cf4be/locales/english.json"
+          "steam-change-window-params-e136b15313d5f17053998726951d471d1b5f8975/locales/english.json"
         ]
       },
-      "extracted": 49
+      "extracted": 52
     },
     {
       "id": "plugin-luthor112-steam-collections-plus",
@@ -824,6 +824,6 @@
   "counts": {
     "themes": 27,
     "plugins": 36,
-    "extracted": 2167
+    "extracted": 2214
   }
 }

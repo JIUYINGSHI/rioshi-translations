@@ -1,5 +1,4 @@
 {
-  "API Rate Limited - Stream suspended temporarily": "API レート制限 - ストリームが一時的に停止されました",
   "Add to": "に追加",
   "Advanced & Debugging": "高度な機能とデバッグ",
   "Advanced library sorting for the Steam client based on global completion metrics.": "グローバルな完了メトリクスに基づいた Steam クライアントの高度なライブラリ ソート。",
@@ -19,7 +18,6 @@
   "Enable Collection Button": "収集ボタンを有効にする",
   "Enable Developer Logging": "開発者ログを有効にする",
   "Enable Sortium View by Default": "デフォルトで Sortium ビューを有効にする",
-  "Force Sync": "強制同期",
   "Force Sync Library": "強制同期ライブラリ",
   "Force the plugin to delete all stored game data.": "プラグインに保存されているすべてのゲーム データを強制的に削除します。",
   "Hard Cache Expiration (Days)": "ハード キャッシュの有効期限 (日)",

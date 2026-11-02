@@ -3,7 +3,7 @@
   "kind": "plugin",
   "name": "Easy Restart / Reload for Steam",
   "repository": "SaiyajinK/Easy-Restart-Reload-for-Steam",
-  "revision": "dc79ae21c6a71af946fd71b5867eee1b179ea184",
+  "revision": "01f10fdaee913393d3c8379793cabc1953bc3c06",
   "texts": [
     "Adds configurable Restart, Reload UI, and Developer Mode restart actions to the Steam root menu.",
     "Always restart the current Steam session in Developer Mode",
@@ -143,8 +143,8 @@
   },
   "extraction": "manifest-and-static-ui",
   "archive": {
-    "url": "https://codeload.github.com/SaiyajinK/Easy-Restart-Reload-for-Steam/zip/dc79ae21c6a71af946fd71b5867eee1b179ea184",
-    "sha256": "abb709f83e54a95341e1fbf879749d64a0c9633c4256d59990160cf797d610c6",
+    "url": "https://codeload.github.com/SaiyajinK/Easy-Restart-Reload-for-Steam/zip/01f10fdaee913393d3c8379793cabc1953bc3c06",
+    "sha256": "d9561ab15035fe4f4de04a0303a150bff67b770ac8583fc33b05ee3d13a4c686",
     "localeFiles": []
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T07:26:54.675Z",
+  "fetchedAt": "2026-11-02T08:55:01.893Z",
   "sources": {
     "themes": "https://steambrew.app/api/v2",
     "plugins": "https://steambrew.app/api/v1/plugins/"
@@ -30,10 +30,10 @@
       "kind": "theme",
       "name": "ATOMS",
       "repository": "Plaer1/ATOMS",
-      "revision": "255b6a962f1bc078f105860a2bdfa6166acf33d3",
+      "revision": "5727bcbc70dce74617c1d038162cf60054f54858",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
-      "extracted": 14
+      "extracted": 20
     },
     {
       "id": "theme-tkashkin-Adwaita-for-Steam",
@@ -70,10 +70,10 @@
       "kind": "theme",
       "name": "Minimal Dark",
       "repository": "SaiyajinK/Minimal-Dark-for-Steam",
-      "revision": "44aa773086f84b71a0592cf99103776604faf3d1",
+      "revision": "8fc435714797085486a9e7bec5b198dbfae6870d",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
-      "extracted": 472
+      "extracted": 476
     },
     {
       "id": "theme-shdwmtr-simply-dark",
@@ -162,11 +162,11 @@
       "kind": "theme",
       "name": "Material",
       "repository": "kuska1/Material-Theme",
-      "revision": "32b6c127aab294c6f7c79ba7d3a12c717cc67227",
+      "revision": "7504219cab5ccd7d01e1271c4d3ad22036cb5d3a",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/kuska1/Material-Theme/32b6c127aab294c6f7c79ba7d3a12c717cc67227/css/main/root-colors.css",
+        "url": "https://raw.githubusercontent.com/kuska1/Material-Theme/7504219cab5ccd7d01e1271c4d3ad22036cb5d3a/css/main/root-colors.css",
         "sha256": "3e25d02e057a2faeac241f1897658ff31030abd5d90fcf2f226db2efb4ef1916"
       },
       "extracted": 188
@@ -176,7 +176,7 @@
       "kind": "theme",
       "name": "Metro by Rose",
       "repository": "RoseTheFlower/MetroSteam",
-      "revision": "89b51c211256153ee9787206376af1dd2162ab32",
+      "revision": "1ef6c143827aadcafde2bc7eeae224f491228b4a",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "extracted": 1
@@ -196,11 +196,11 @@
       "kind": "theme",
       "name": "Zehn",
       "repository": "yurisuika/Zehn",
-      "revision": "57a00a6e390e3d66f17b7c8f7bf92970756e5cd6",
+      "revision": "7e86fd51c082bd01f0d6661f157e79faacdd8ac9",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/yurisuika/Zehn/57a00a6e390e3d66f17b7c8f7bf92970756e5cd6/option/colors.css",
+        "url": "https://raw.githubusercontent.com/yurisuika/Zehn/7e86fd51c082bd01f0d6661f157e79faacdd8ac9/option/colors.css",
         "sha256": "f8aac85563d6127e11875289d5a2f7efae662eac4bd4ce6a1c529df0645fc105"
       },
       "extracted": 89
@@ -240,11 +240,11 @@
       "kind": "theme",
       "name": "SpaceTheme for Steam",
       "repository": "SpaceTheme/Steam",
-      "revision": "c462be494e4987911883be4d5564bbe7660adeb5",
+      "revision": "ddfbbbee23a5461a25ff6c5b375d6500cd668c71",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/c462be494e4987911883be4d5564bbe7660adeb5/src/css/root.css",
+        "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/ddfbbbee23a5461a25ff6c5b375d6500cd668c71/src/css/root.css",
         "sha256": "1ca442b1fd8a329d66f2b62f00fba3f85cb21750dd3841a031e140681fe75291"
       },
       "extracted": 154
@@ -288,39 +288,39 @@
       "kind": "theme",
       "name": "Glass Dusk",
       "repository": "Yareli0i/glass-dusk",
-      "revision": "87ee0a5240574e186814472ea4d13c1958deb94c",
+      "revision": "0a5e15384294ea68e2fb6ddbe47bb7375918e117",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/87ee0a5240574e186814472ea4d13c1958deb94c/css/root.css",
+        "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/0a5e15384294ea68e2fb6ddbe47bb7375918e117/css/root.css",
         "sha256": "ad2c4f48b1c934c87d862be6cb3f41469b009393eaaf7e7e5df1364cb7eea406"
       },
-      "extracted": 93
+      "extracted": 94
     },
     {
       "id": "theme-hatewxb-Aika",
       "kind": "theme",
       "name": "Aika",
       "repository": "hatewxb/Aika",
-      "revision": "d7722137658a9f89ca8af7dfc563620b3c03a7fe",
+      "revision": "facb5142d776d1ada0eca77c122d896dbb185309",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/hatewxb/Aika/d7722137658a9f89ca8af7dfc563620b3c03a7fe/root-colors.css",
+        "url": "https://raw.githubusercontent.com/hatewxb/Aika/facb5142d776d1ada0eca77c122d896dbb185309/root-colors.css",
         "sha256": "d28a84a32e2c330e86c84d7a1874b1dd62e3c3ef88bf55ed11dc0f1175845385"
       },
-      "extracted": 68
+      "extracted": 101
     },
     {
       "id": "plugin-SaiyajinK-Easy-Restart-Reload-for-Steam",
       "kind": "plugin",
       "name": "Easy Restart / Reload for Steam",
       "repository": "SaiyajinK/Easy-Restart-Reload-for-Steam",
-      "revision": "dc79ae21c6a71af946fd71b5867eee1b179ea184",
+      "revision": "01f10fdaee913393d3c8379793cabc1953bc3c06",
       "extraction": "manifest-and-static-ui",
       "archive": {
-        "url": "https://codeload.github.com/SaiyajinK/Easy-Restart-Reload-for-Steam/zip/dc79ae21c6a71af946fd71b5867eee1b179ea184",
-        "sha256": "abb709f83e54a95341e1fbf879749d64a0c9633c4256d59990160cf797d610c6",
+        "url": "https://codeload.github.com/SaiyajinK/Easy-Restart-Reload-for-Steam/zip/01f10fdaee913393d3c8379793cabc1953bc3c06",
+        "sha256": "d9561ab15035fe4f4de04a0303a150bff67b770ac8583fc33b05ee3d13a4c686",
         "localeFiles": []
       },
       "extracted": 19
@@ -824,6 +824,6 @@
   "counts": {
     "themes": 27,
     "plugins": 36,
-    "extracted": 2214
+    "extracted": 2258
   }
 }

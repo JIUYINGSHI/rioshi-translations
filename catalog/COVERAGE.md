@@ -1,6 +1,6 @@
 # Millennium catalog translation coverage
 
-Official inventory fetched: 2026-10-26T07:26:54.675Z
+Official inventory fetched: 2026-11-02T08:55:01.893Z
 
 Themes: 27; plugins: 36.
 
@@ -49,17 +49,17 @@ Coverage counts refer to statically extracted display texts, not a claim that ev
 | [BlueArchive](https://github.com/EugeneXXXie/blueArchiveSteamSkin) | theme | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | [SteamUI-GoldenEra](https://github.com/Jonius7/SteamUI-GoldenEra) | theme | 46 | 46 | 46 | 46 | 46 | 46 | 46 |
 | [OldSteam](https://github.com/MapleAtMorning/OldSteam-Theme) | theme | 13 | 13 | 13 | 13 | 13 | 13 | 13 |
-| [ATOMS](https://github.com/Plaer1/ATOMS) | theme | 14 | 12 | 12 | 12 | 12 | 12 | 12 |
+| [ATOMS](https://github.com/Plaer1/ATOMS) | theme | 20 | 11 | 11 | 11 | 11 | 11 | 11 |
 | [Metro by Rose](https://github.com/RoseTheFlower/MetroSteam) | theme | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| [Minimal Dark](https://github.com/SaiyajinK/Minimal-Dark-for-Steam) | theme | 472 | 469 | 469 | 469 | 469 | 469 | 469 |
+| [Minimal Dark](https://github.com/SaiyajinK/Minimal-Dark-for-Steam) | theme | 476 | 467 | 467 | 467 | 467 | 467 | 467 |
 | [Aero XP](https://github.com/Sennanon87/AeroXP) | theme | 68 | 68 | 68 | 68 | 68 | 68 | 68 |
 | [SpaceTheme for Steam](https://github.com/SpaceTheme/Steam) | theme | 154 | 142 | 142 | 142 | 142 | 142 | 142 |
-| [Glass Dusk](https://github.com/Yareli0i/glass-dusk) | theme | 93 | 72 | 72 | 72 | 72 | 72 | 72 |
+| [Glass Dusk](https://github.com/Yareli0i/glass-dusk) | theme | 94 | 72 | 72 | 72 | 72 | 72 | 72 |
 | [umi-asanagi-theme](https://github.com/aaeriih/umi-asanagi-theme) | theme | 12 | 12 | 12 | 12 | 12 | 12 | 12 |
 | [NEVKO-UI](https://github.com/dotFelixan/NEVKO-UI) | theme | 168 | 42 | 42 | 42 | 42 | 42 | 42 |
 | [Classic Steam Library](https://github.com/eyedine2/Classic-Steam-Library) | theme | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
 | [UltraWide](https://github.com/guyonphone/UltraWide) | theme | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| [Aika](https://github.com/hatewxb/Aika) | theme | 68 | 10 | 10 | 10 | 10 | 10 | 10 |
+| [Aika](https://github.com/hatewxb/Aika) | theme | 101 | 11 | 11 | 11 | 11 | 11 | 11 |
 | [Mont Black](https://github.com/iBedro/MontBlack) | theme | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | [Material](https://github.com/kuska1/Material-Theme) | theme | 188 | 188 | 188 | 188 | 188 | 188 | 188 |
 | [no more whats new](https://github.com/lil-fluff/no-more-whats-new) | theme | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
@@ -74,10 +74,10 @@ Coverage counts refer to statically extracted display texts, not a claim that ev
 
 ## Per-language totals
 
-- en: 2033/2033, 0 missing; 0 machine draft entries.
-- zh-CN: 1800/2033, 233 missing; 1739 machine draft entries.
-- es: 1807/2033, 226 missing; 1752 machine draft entries.
-- fr: 1800/2033, 233 missing; 1794 machine draft entries.
-- de: 1800/2033, 233 missing; 1793 machine draft entries.
-- pt-BR: 1800/2033, 233 missing; 1794 machine draft entries.
-- ja: 1800/2033, 233 missing; 1789 machine draft entries.
+- en: 2076/2076, 0 missing; 0 machine draft entries.
+- zh-CN: 1797/2076, 279 missing; 1739 machine draft entries.
+- es: 1804/2076, 272 missing; 1752 machine draft entries.
+- fr: 1797/2076, 279 missing; 1794 machine draft entries.
+- de: 1797/2076, 279 missing; 1793 machine draft entries.
+- pt-BR: 1797/2076, 279 missing; 1794 machine draft entries.
+- ja: 1797/2076, 279 missing; 1789 machine draft entries.

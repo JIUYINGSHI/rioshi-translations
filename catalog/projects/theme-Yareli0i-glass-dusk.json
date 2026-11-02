@@ -3,7 +3,7 @@
   "kind": "theme",
   "name": "Glass Dusk",
   "repository": "Yareli0i/glass-dusk",
-  "revision": "87ee0a5240574e186814472ea4d13c1958deb94c",
+  "revision": "0a5e15384294ea68e2fb6ddbe47bb7375918e117",
   "texts": [
     "A small line under each number: installed, in how many games, average completion, drives.",
     "Accent colour",
@@ -25,6 +25,7 @@
     "English",
     "Every game in the library, installed or not.",
     "Fixed",
+    "Français",
     "Game Overview, browser and toolbar: smoked glass or Steam's own.",
     "Game art",
     "Game list side",
@@ -103,7 +104,7 @@
   "extraction": "official-skin-config",
   "source": "https://steambrew.app/api/v2",
   "rootColorSource": {
-    "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/87ee0a5240574e186814472ea4d13c1958deb94c/css/root.css",
+    "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/0a5e15384294ea68e2fb6ddbe47bb7375918e117/css/root.css",
     "sha256": "ad2c4f48b1c934c87d862be6cb3f41469b009393eaaf7e7e5df1364cb7eea406"
   }
 }

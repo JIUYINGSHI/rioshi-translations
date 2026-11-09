@@ -39,6 +39,7 @@
   "The plugin doesn't start early enough sometimes to modify the main window. This fixes it... by changing to Big Picture Mode and back (lol).": "The plugin doesn't start early enough sometimes to modify the main window. This fixes it... by changing to Big Picture Mode and back (lol).",
   "Transparent windows": "Transparent windows",
   "Use system titlebar": "Use system titlebar",
+  "Use system titlebar, transparent windows, no size limits, etc.": "Utilice barra de título del sistema, ventanas transparentes, sin límites de tamaño, etc.",
   "Verified Settings": "Verified Settings",
   "Window appears fullscreen": "Window appears fullscreen",
   "Window creation options": "Window creation options",

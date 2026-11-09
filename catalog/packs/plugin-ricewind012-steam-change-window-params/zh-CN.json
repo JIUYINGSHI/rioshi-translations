@@ -32,6 +32,7 @@
   "The plugin doesn't start early enough sometimes to modify the main window. This fixes it... by changing to Big Picture Mode and back (lol).": "有时该插件启动得不够早，无法修改主窗口。这解决了这个问题......通过更改为大屏幕模式并返回（笑）。",
   "Transparent windows": "透明窗口",
   "Use system titlebar": "使用系统标题栏",
+  "Use system titlebar, transparent windows, no size limits, etc.": "使用系统标题栏、透明窗口、解除窗口尺寸限制等功能。",
   "Verified Settings": "已验证设置",
   "Window appears fullscreen": "窗口以全屏方式显示",
   "Window creation options": "窗口创建选项",

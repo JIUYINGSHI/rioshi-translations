@@ -32,6 +32,7 @@
   "The plugin doesn't start early enough sometimes to modify the main window. This fixes it... by changing to Big Picture Mode and back (lol).": "Le plugin ne démarre parfois pas assez tôt pour modifier la fenêtre principale. Cela corrige le problème... en passant en mode Big Picture et inversement (mdr).",
   "Transparent windows": "Fenêtres transparentes",
   "Use system titlebar": "Utiliser la barre de titre système",
+  "Use system titlebar, transparent windows, no size limits, etc.": "Utilisez la barre de titre du système, des fenêtres transparentes, aucune limite de taille, etc.",
   "Verified Settings": "Paramètres vérifiés",
   "Window appears fullscreen": "La fenêtre apparaît en plein écran",
   "Window creation options": "Options de création de fenêtres",

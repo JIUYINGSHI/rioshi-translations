@@ -3,7 +3,7 @@
   "kind": "theme",
   "name": "Glass Dusk",
   "repository": "Yareli0i/glass-dusk",
-  "revision": "0a5e15384294ea68e2fb6ddbe47bb7375918e117",
+  "revision": "1a62f859ba8590f796ecde52505321b7fbf5a2cd",
   "texts": [
     "A small line under each number: installed, in how many games, average completion, drives.",
     "Accent colour",
@@ -15,6 +15,7 @@
     "Big Picture",
     "Big Picture & overlay",
     "Big Picture hours chip",
+    "Blur until hover",
     "Colour of buttons and highlights. Fixed uses Accent from the Colors tab.",
     "Continue card: achievements",
     "Corners",
@@ -69,6 +70,7 @@
     "Right",
     "Sharper",
     "Sheerer",
+    "Show",
     "Sign-in screen",
     "Slideshow",
     "Smoked glass over the art of the game you have open: the client takes its accent colour from that art. Styles the library, store, menus, Big Picture and the in-game overlay.",
@@ -82,6 +84,7 @@
     "Subtle",
     "Text the theme draws itself: home header, Big Picture chip, dates.",
     "The account chooser when Steam starts (Who's playing?): the art of the game you played last, the covers of your own games drifting past, the art of your games one after another, plain dusk or Steam's wall of covers, each with the theme's glass, or Steam's own look. It shows only if Steam asks which account to use.",
+    "The balance in the top bar. Blurred, it shows when you point at it.",
     "The collections a game is in, shown at the top right of its art on the game page, as Steam does. A click opens the collection.",
     "The row of recently played games under the Continue card.",
     "The theme's header (greeting, stats, Continue) or Steam's shelves only.",
@@ -90,6 +93,7 @@
     "Top-left chip: logo, hours played, last played.",
     "Transparent",
     "Vivid",
+    "Wallet balance",
     "What sits behind the glass.",
     "What's New shelf",
     "Where the Continue card and the recently played row take their games: only what is installed on this machine, or everything in the library.",
@@ -104,7 +108,7 @@
   "extraction": "official-skin-config",
   "source": "https://steambrew.app/api/v2",
   "rootColorSource": {
-    "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/0a5e15384294ea68e2fb6ddbe47bb7375918e117/css/root.css",
+    "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/1a62f859ba8590f796ecde52505321b7fbf5a2cd/css/root.css",
     "sha256": "ad2c4f48b1c934c87d862be6cb3f41469b009393eaaf7e7e5df1364cb7eea406"
   }
 }

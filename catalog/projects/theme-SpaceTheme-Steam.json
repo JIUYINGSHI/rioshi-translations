@@ -3,7 +3,7 @@
   "kind": "theme",
   "name": "SpaceTheme for Steam",
   "repository": "SpaceTheme/Steam",
-  "revision": "ddfbbbee23a5461a25ff6c5b375d6500cd668c71",
+  "revision": "81db49b34f5e6e73b673f80f2818430f9dab4ea7",
   "texts": [
     "Add shelf button",
     "Always show download bar",
@@ -164,7 +164,7 @@
   "extraction": "official-skin-config",
   "source": "https://steambrew.app/api/v2",
   "rootColorSource": {
-    "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/ddfbbbee23a5461a25ff6c5b375d6500cd668c71/src/css/root.css",
+    "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/81db49b34f5e6e73b673f80f2818430f9dab4ea7/src/css/root.css",
     "sha256": "1ca442b1fd8a329d66f2b62f00fba3f85cb21750dd3841a031e140681fe75291"
   }
 }

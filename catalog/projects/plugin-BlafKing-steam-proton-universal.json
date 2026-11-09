@@ -1,0 +1,20 @@
+{
+  "id": "plugin-BlafKing-steam-proton-universal",
+  "kind": "plugin",
+  "name": "Proton Universal Prefix",
+  "repository": "BlafKing/steam-proton-universal",
+  "revision": "7099c07440294953b1bf4f6df5a6de36e5c87e60",
+  "texts": [
+    "Creates a unified Proton Windows prefix across all Steam games using symlinks.",
+    "Path to your universal Proton Windows prefix (e.g., /home/user/ProtonPrefix). Leave empty to disable.",
+    "Proton Prefix Path",
+    "Proton Universal Prefix"
+  ],
+  "native": {},
+  "extraction": "manifest-and-static-ui",
+  "archive": {
+    "url": "https://codeload.github.com/BlafKing/steam-proton-universal/zip/7099c07440294953b1bf4f6df5a6de36e5c87e60",
+    "sha256": "6966d1082b319dc2145791200356d8fb369d45ad33d7759d625988a52bf5e6e9",
+    "localeFiles": []
+  }
+}

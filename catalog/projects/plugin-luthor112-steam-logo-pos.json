@@ -3,7 +3,7 @@
   "kind": "plugin",
   "name": "Custom Logo Position",
   "repository": "luthor112/steam-logo-pos",
-  "revision": "d9261ed33b8b18a6db6aadabbf9af32f42e35da1",
+  "revision": "ac56b6a3bfec552d6289531dcee814f4e51c1795",
   "texts": [
     "Add ML button to applcation page",
     "Add Move Logo option to context menu",
@@ -19,8 +19,8 @@
   "native": {},
   "extraction": "manifest-and-static-ui",
   "archive": {
-    "url": "https://codeload.github.com/luthor112/steam-logo-pos/zip/d9261ed33b8b18a6db6aadabbf9af32f42e35da1",
-    "sha256": "f5cd7e714a4d1399b831825e5d0996508ae9529988d1557e4142198186cf9ce2",
+    "url": "https://codeload.github.com/luthor112/steam-logo-pos/zip/ac56b6a3bfec552d6289531dcee814f4e51c1795",
+    "sha256": "88bb38dddbe0b62513859d5de7c3a432ffb79ddaa3b2b1574caeaba96ad789bc",
     "localeFiles": []
   }
 }

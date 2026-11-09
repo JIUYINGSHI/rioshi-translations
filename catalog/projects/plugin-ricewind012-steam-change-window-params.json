@@ -3,7 +3,7 @@
   "kind": "plugin",
   "name": "Change Window Params",
   "repository": "ricewind012/steam-change-window-params",
-  "revision": "e136b15313d5f17053998726951d471d1b5f8975",
+  "revision": "bfa3e1d5f9afbec324be8e6d5f394e74d170a167",
   "texts": [
     ".DialogBodyText code { user-select: all; }",
     "A borderless window",
@@ -35,7 +35,6 @@
     "Initially minimized",
     "Minimum window height",
     "Minimum window width",
-    "Modify how Steam displays windows",
     "No window size limit",
     "Numbers",
     "Open window",
@@ -46,6 +45,7 @@
     "The plugin doesn't start early enough sometimes to modify the main window. This fixes it... by changing to Big Picture Mode and back (lol).",
     "Transparent windows",
     "Use system titlebar",
+    "Use system titlebar, transparent windows, no size limits, etc.",
     "Verified Settings",
     "Window appears fullscreen",
     "Window creation options",
@@ -114,10 +114,10 @@
   },
   "extraction": "manifest-and-static-ui",
   "archive": {
-    "url": "https://codeload.github.com/ricewind012/steam-change-window-params/zip/e136b15313d5f17053998726951d471d1b5f8975",
-    "sha256": "f89c0759182d4b7cbac5831185ba6083d377b7482f984ca2e852c81bae10dccb",
+    "url": "https://codeload.github.com/ricewind012/steam-change-window-params/zip/bfa3e1d5f9afbec324be8e6d5f394e74d170a167",
+    "sha256": "b1216c612d65feda600927acfc6753a1435707005f382bab85d0dc33d5d6093b",
     "localeFiles": [
-      "steam-change-window-params-e136b15313d5f17053998726951d471d1b5f8975/locales/english.json"
+      "steam-change-window-params-bfa3e1d5f9afbec324be8e6d5f394e74d170a167/locales/english.json"
     ]
   }
 }

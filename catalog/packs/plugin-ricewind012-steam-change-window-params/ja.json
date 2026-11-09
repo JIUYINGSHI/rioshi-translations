@@ -32,6 +32,7 @@
   "The plugin doesn't start early enough sometimes to modify the main window. This fixes it... by changing to Big Picture Mode and back (lol).": "プラグインがメイン ウィンドウを変更できるほど早く起動しない場合があります。これで問題は解決します...Big Picture モードに切り替えたり、元に戻したりすることで解決します (笑)。",
   "Transparent windows": "透明なウィンドウ",
   "Use system titlebar": "システムのタイトルバーを使用",
+  "Use system titlebar, transparent windows, no size limits, etc.": "システム タイトルバー、透明ウィンドウ、サイズ制限なしなどを使用します。",
   "Verified Settings": "検証済みの設定",
   "Window appears fullscreen": "ウィンドウが全画面表示される",
   "Window creation options": "ウィンドウ作成オプション",

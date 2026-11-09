@@ -3,7 +3,7 @@
   "kind": "plugin",
   "name": "Collections+",
   "repository": "luthor112/steam-collections-plus",
-  "revision": "b5ab1f267a9a148f5c4c7a0e94263a6886c0af2a",
+  "revision": "9852f7ef4487add4415411f214f2bcf62fbc1440",
   "texts": [
     "(Currently in",
     "Add",
@@ -58,8 +58,8 @@
   "native": {},
   "extraction": "manifest-and-static-ui",
   "archive": {
-    "url": "https://codeload.github.com/luthor112/steam-collections-plus/zip/b5ab1f267a9a148f5c4c7a0e94263a6886c0af2a",
-    "sha256": "f1e2543c83d8de1a53bdbfb84090f390fdafedd2215308e31aba07f878622459",
+    "url": "https://codeload.github.com/luthor112/steam-collections-plus/zip/9852f7ef4487add4415411f214f2bcf62fbc1440",
+    "sha256": "6d6b3893f087a0ebec6225433162d73b0b3aa594da1ca2a5866eff73d5727fc0",
     "localeFiles": []
   }
 }

@@ -1,0 +1,6 @@
+{
+  "Creates a unified Proton Windows prefix across all Steam games using symlinks.": "Creates a unified Proton Windows prefix across all Steam games using symlinks.",
+  "Path to your universal Proton Windows prefix (e.g., /home/user/ProtonPrefix). Leave empty to disable.": "Path to your universal Proton Windows prefix (e.g., /home/user/ProtonPrefix). Leave empty to disable.",
+  "Proton Prefix Path": "Proton Prefix Path",
+  "Proton Universal Prefix": "Proton Universal Prefix"
+}

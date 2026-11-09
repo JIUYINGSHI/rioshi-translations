@@ -3,7 +3,7 @@
   "kind": "plugin",
   "name": "Steam Librarian",
   "repository": "luthor112/steam-librarian",
-  "revision": "c9e5974ad242a6ac0f4918eb0583877f6ea6431c",
+  "revision": "f9f072e976af2e80cfdb079e3bb0d35883c62f97",
   "texts": [
     "Add a 'Scroll to App' item to the extra Settings menu of every game (janky!)",
     "Add a Millennium menu item to the System Tray menu",
@@ -53,8 +53,8 @@
   "native": {},
   "extraction": "manifest-and-static-ui",
   "archive": {
-    "url": "https://codeload.github.com/luthor112/steam-librarian/zip/c9e5974ad242a6ac0f4918eb0583877f6ea6431c",
-    "sha256": "6e19e3d1a3c4ededdbd23bd8ee9ea2819b8d9da13388621932331a7a79fd4117",
+    "url": "https://codeload.github.com/luthor112/steam-librarian/zip/f9f072e976af2e80cfdb079e3bb0d35883c62f97",
+    "sha256": "975e87855acce2dc3ebe28638c70116210ab4292efdae4d23c049ca645d912be",
     "localeFiles": []
   }
 }

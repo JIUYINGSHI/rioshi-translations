@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-02T08:55:01.893Z",
+  "fetchedAt": "2026-11-09T09:11:20.797Z",
   "sources": {
     "themes": "https://steambrew.app/api/v2",
     "plugins": "https://steambrew.app/api/v1/plugins/"
@@ -70,10 +70,10 @@
       "kind": "theme",
       "name": "Minimal Dark",
       "repository": "SaiyajinK/Minimal-Dark-for-Steam",
-      "revision": "8fc435714797085486a9e7bec5b198dbfae6870d",
+      "revision": "ccbb271087a4d26003a9a3acf6e25c345f4abb1c",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
-      "extracted": 476
+      "extracted": 481
     },
     {
       "id": "theme-shdwmtr-simply-dark",
@@ -142,7 +142,7 @@
       "kind": "theme",
       "name": "Juxtematic",
       "repository": "ricewind012/juxtematic",
-      "revision": "dd071f89e340a303a9e11beb005d4127c63c6784",
+      "revision": "e1f177acc36c2e0d613359b44099d4e97868bdea",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "extracted": 1
@@ -196,11 +196,11 @@
       "kind": "theme",
       "name": "Zehn",
       "repository": "yurisuika/Zehn",
-      "revision": "7e86fd51c082bd01f0d6661f157e79faacdd8ac9",
+      "revision": "8b2172a7a1ce445eb6a5e3bd82670e8f62d36585",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/yurisuika/Zehn/7e86fd51c082bd01f0d6661f157e79faacdd8ac9/option/colors.css",
+        "url": "https://raw.githubusercontent.com/yurisuika/Zehn/8b2172a7a1ce445eb6a5e3bd82670e8f62d36585/option/colors.css",
         "sha256": "f8aac85563d6127e11875289d5a2f7efae662eac4bd4ce6a1c529df0645fc105"
       },
       "extracted": 89
@@ -240,11 +240,11 @@
       "kind": "theme",
       "name": "SpaceTheme for Steam",
       "repository": "SpaceTheme/Steam",
-      "revision": "ddfbbbee23a5461a25ff6c5b375d6500cd668c71",
+      "revision": "81db49b34f5e6e73b673f80f2818430f9dab4ea7",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/ddfbbbee23a5461a25ff6c5b375d6500cd668c71/src/css/root.css",
+        "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/81db49b34f5e6e73b673f80f2818430f9dab4ea7/src/css/root.css",
         "sha256": "1ca442b1fd8a329d66f2b62f00fba3f85cb21750dd3841a031e140681fe75291"
       },
       "extracted": 154
@@ -288,28 +288,28 @@
       "kind": "theme",
       "name": "Glass Dusk",
       "repository": "Yareli0i/glass-dusk",
-      "revision": "0a5e15384294ea68e2fb6ddbe47bb7375918e117",
+      "revision": "1a62f859ba8590f796ecde52505321b7fbf5a2cd",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/0a5e15384294ea68e2fb6ddbe47bb7375918e117/css/root.css",
+        "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/1a62f859ba8590f796ecde52505321b7fbf5a2cd/css/root.css",
         "sha256": "ad2c4f48b1c934c87d862be6cb3f41469b009393eaaf7e7e5df1364cb7eea406"
       },
-      "extracted": 94
+      "extracted": 98
     },
     {
       "id": "theme-hatewxb-Aika",
       "kind": "theme",
       "name": "Aika",
       "repository": "hatewxb/Aika",
-      "revision": "facb5142d776d1ada0eca77c122d896dbb185309",
+      "revision": "26203656466dbab31ab644fa9c425cdd2d565c85",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/hatewxb/Aika/facb5142d776d1ada0eca77c122d896dbb185309/root-colors.css",
+        "url": "https://raw.githubusercontent.com/hatewxb/Aika/26203656466dbab31ab644fa9c425cdd2d565c85/root-colors.css",
         "sha256": "d28a84a32e2c330e86c84d7a1874b1dd62e3c3ef88bf55ed11dc0f1175845385"
       },
-      "extracted": 101
+      "extracted": 109
     },
     {
       "id": "plugin-SaiyajinK-Easy-Restart-Reload-for-Steam",
@@ -697,13 +697,13 @@
       "kind": "plugin",
       "name": "Change Window Params",
       "repository": "ricewind012/steam-change-window-params",
-      "revision": "e136b15313d5f17053998726951d471d1b5f8975",
+      "revision": "bfa3e1d5f9afbec324be8e6d5f394e74d170a167",
       "extraction": "manifest-and-static-ui",
       "archive": {
-        "url": "https://codeload.github.com/ricewind012/steam-change-window-params/zip/e136b15313d5f17053998726951d471d1b5f8975",
-        "sha256": "f89c0759182d4b7cbac5831185ba6083d377b7482f984ca2e852c81bae10dccb",
+        "url": "https://codeload.github.com/ricewind012/steam-change-window-params/zip/bfa3e1d5f9afbec324be8e6d5f394e74d170a167",
+        "sha256": "b1216c612d65feda600927acfc6753a1435707005f382bab85d0dc33d5d6093b",
         "localeFiles": [
-          "steam-change-window-params-e136b15313d5f17053998726951d471d1b5f8975/locales/english.json"
+          "steam-change-window-params-bfa3e1d5f9afbec324be8e6d5f394e74d170a167/locales/english.json"
         ]
       },
       "extracted": 52
@@ -713,11 +713,11 @@
       "kind": "plugin",
       "name": "Collections+",
       "repository": "luthor112/steam-collections-plus",
-      "revision": "b5ab1f267a9a148f5c4c7a0e94263a6886c0af2a",
+      "revision": "9852f7ef4487add4415411f214f2bcf62fbc1440",
       "extraction": "manifest-and-static-ui",
       "archive": {
-        "url": "https://codeload.github.com/luthor112/steam-collections-plus/zip/b5ab1f267a9a148f5c4c7a0e94263a6886c0af2a",
-        "sha256": "f1e2543c83d8de1a53bdbfb84090f390fdafedd2215308e31aba07f878622459",
+        "url": "https://codeload.github.com/luthor112/steam-collections-plus/zip/9852f7ef4487add4415411f214f2bcf62fbc1440",
+        "sha256": "6d6b3893f087a0ebec6225433162d73b0b3aa594da1ca2a5866eff73d5727fc0",
         "localeFiles": []
       },
       "extracted": 49
@@ -755,11 +755,11 @@
       "kind": "plugin",
       "name": "Steam Librarian",
       "repository": "luthor112/steam-librarian",
-      "revision": "c9e5974ad242a6ac0f4918eb0583877f6ea6431c",
+      "revision": "f9f072e976af2e80cfdb079e3bb0d35883c62f97",
       "extraction": "manifest-and-static-ui",
       "archive": {
-        "url": "https://codeload.github.com/luthor112/steam-librarian/zip/c9e5974ad242a6ac0f4918eb0583877f6ea6431c",
-        "sha256": "6e19e3d1a3c4ededdbd23bd8ee9ea2819b8d9da13388621932331a7a79fd4117",
+        "url": "https://codeload.github.com/luthor112/steam-librarian/zip/f9f072e976af2e80cfdb079e3bb0d35883c62f97",
+        "sha256": "975e87855acce2dc3ebe28638c70116210ab4292efdae4d23c049ca645d912be",
         "localeFiles": []
       },
       "extracted": 44
@@ -769,14 +769,28 @@
       "kind": "plugin",
       "name": "Custom Logo Position",
       "repository": "luthor112/steam-logo-pos",
-      "revision": "d9261ed33b8b18a6db6aadabbf9af32f42e35da1",
+      "revision": "ac56b6a3bfec552d6289531dcee814f4e51c1795",
       "extraction": "manifest-and-static-ui",
       "archive": {
-        "url": "https://codeload.github.com/luthor112/steam-logo-pos/zip/d9261ed33b8b18a6db6aadabbf9af32f42e35da1",
-        "sha256": "f5cd7e714a4d1399b831825e5d0996508ae9529988d1557e4142198186cf9ce2",
+        "url": "https://codeload.github.com/luthor112/steam-logo-pos/zip/ac56b6a3bfec552d6289531dcee814f4e51c1795",
+        "sha256": "88bb38dddbe0b62513859d5de7c3a432ffb79ddaa3b2b1574caeaba96ad789bc",
         "localeFiles": []
       },
       "extracted": 10
+    },
+    {
+      "id": "plugin-BlafKing-steam-proton-universal",
+      "kind": "plugin",
+      "name": "Proton Universal Prefix",
+      "repository": "BlafKing/steam-proton-universal",
+      "revision": "7099c07440294953b1bf4f6df5a6de36e5c87e60",
+      "extraction": "manifest-and-static-ui",
+      "archive": {
+        "url": "https://codeload.github.com/BlafKing/steam-proton-universal/zip/7099c07440294953b1bf4f6df5a6de36e5c87e60",
+        "sha256": "6966d1082b319dc2145791200356d8fb369d45ad33d7759d625988a52bf5e6e9",
+        "localeFiles": []
+      },
+      "extracted": 4
     },
     {
       "id": "plugin-wopln-Steam-Share",
@@ -823,7 +837,7 @@
   ],
   "counts": {
     "themes": 27,
-    "plugins": 36,
-    "extracted": 2258
+    "plugins": 37,
+    "extracted": 2279
   }
 }

@@ -1,6 +1,6 @@
 # Millennium catalog translation coverage
 
-Official inventory fetched: 2026-11-09T09:11:20.797Z
+Official inventory fetched: 2026-11-16T09:02:06.188Z
 
 Themes: 27; plugins: 37.
 
@@ -13,13 +13,13 @@ Coverage counts refer to statically extracted display texts, not a claim that ev
 | [Dota 2 Stats](https://github.com/BambooFury/Dota-Stats) | plugin | 14 | 14 | 14 | 14 | 14 | 14 | 14 |
 | [Global Launch Options](https://github.com/BlafKing/steam-global-launch-options) | plugin | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
 | [Proton Universal Prefix](https://github.com/BlafKing/steam-proton-universal) | plugin | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| [Gratitude - Gifted Games Reminder](https://github.com/BlythT/Gratitude-Millennium-Plugin) | plugin | 32 | 32 | 32 | 32 | 32 | 32 | 32 |
+| [Gratitude - Gifted Games Reminder](https://github.com/BlythT/Gratitude-Millennium-Plugin) | plugin | 32 | 24 | 24 | 24 | 24 | 24 | 24 |
 | [Extendium](https://github.com/BossSloth/Extendium) | plugin | 67 | 67 | 67 | 67 | 67 | 67 | 67 |
 | [Achievement Groups](https://github.com/BossSloth/SteamHunter-plugin) | plugin | 36 | 36 | 36 | 36 | 36 | 36 | 36 |
 | [Game Renamer](https://github.com/Inceptofn/Steam-GameRenamer-Plugin) | plugin | 9 | 9 | 9 | 9 | 9 | 9 | 9 |
 | [CSWatch Plugin](https://github.com/Leon135/cswatch-plugin) | plugin | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 | [Easy Restart / Reload for Steam](https://github.com/SaiyajinK/Easy-Restart-Reload-for-Steam) | plugin | 19 | 19 | 19 | 19 | 19 | 19 | 19 |
-| [Sortium](https://github.com/SalvadorCorreia/Sortium) | plugin | 45 | 40 | 40 | 40 | 40 | 40 | 40 |
+| [Sortium](https://github.com/SalvadorCorreia/Sortium) | plugin | 26 | 22 | 22 | 22 | 22 | 22 | 22 |
 | [CS2 Profile Stats](https://github.com/Shightrox/millennium-cs2-profile-stats) | plugin | 23 | 23 | 23 | 23 | 23 | 23 | 23 |
 | [CSStats.gg Extension](https://github.com/TOR968/csstats-extension) | plugin | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
 | [Leetify Extension](https://github.com/TOR968/leetify-extension) | plugin | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
@@ -55,7 +55,7 @@ Coverage counts refer to statically extracted display texts, not a claim that ev
 | [Minimal Dark](https://github.com/SaiyajinK/Minimal-Dark-for-Steam) | theme | 481 | 467 | 467 | 467 | 467 | 467 | 467 |
 | [Aero XP](https://github.com/Sennanon87/AeroXP) | theme | 68 | 68 | 68 | 68 | 68 | 68 | 68 |
 | [SpaceTheme for Steam](https://github.com/SpaceTheme/Steam) | theme | 154 | 142 | 142 | 142 | 142 | 142 | 142 |
-| [Glass Dusk](https://github.com/Yareli0i/glass-dusk) | theme | 98 | 74 | 74 | 74 | 74 | 74 | 74 |
+| [Glass Dusk](https://github.com/Yareli0i/glass-dusk) | theme | 124 | 72 | 72 | 72 | 72 | 72 | 72 |
 | [umi-asanagi-theme](https://github.com/aaeriih/umi-asanagi-theme) | theme | 12 | 12 | 12 | 12 | 12 | 12 | 12 |
 | [NEVKO-UI](https://github.com/dotFelixan/NEVKO-UI) | theme | 168 | 42 | 42 | 42 | 42 | 42 | 42 |
 | [Classic Steam Library](https://github.com/eyedine2/Classic-Steam-Library) | theme | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
@@ -75,10 +75,10 @@ Coverage counts refer to statically extracted display texts, not a claim that ev
 
 ## Per-language totals
 
-- en: 2095/2095, 0 missing; 0 machine draft entries.
-- zh-CN: 1798/2095, 297 missing; 1739 machine draft entries.
-- es: 1805/2095, 290 missing; 1752 machine draft entries.
-- fr: 1798/2095, 297 missing; 1794 machine draft entries.
-- de: 1798/2095, 297 missing; 1793 machine draft entries.
-- pt-BR: 1798/2095, 297 missing; 1794 machine draft entries.
-- ja: 1798/2095, 297 missing; 1789 machine draft entries.
+- en: 2103/2103, 0 missing; 0 machine draft entries.
+- zh-CN: 1771/2103, 332 missing; 1739 machine draft entries.
+- es: 1778/2103, 325 missing; 1752 machine draft entries.
+- fr: 1771/2103, 332 missing; 1794 machine draft entries.
+- de: 1771/2103, 332 missing; 1793 machine draft entries.
+- pt-BR: 1771/2103, 332 missing; 1794 machine draft entries.
+- ja: 1771/2103, 332 missing; 1789 machine draft entries.

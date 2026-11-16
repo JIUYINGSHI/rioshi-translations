@@ -3,7 +3,7 @@
   "kind": "theme",
   "name": "Zehn",
   "repository": "yurisuika/Zehn",
-  "revision": "8b2172a7a1ce445eb6a5e3bd82670e8f62d36585",
+  "revision": "29a7c5a34f0648ed85305a377255a8e27f9f0f5f",
   "texts": [
     "Adjust how much color is blended into the background.",
     "Adjust how much color is blended into the foreground.",
@@ -99,7 +99,7 @@
   "extraction": "official-skin-config",
   "source": "https://steambrew.app/api/v2",
   "rootColorSource": {
-    "url": "https://raw.githubusercontent.com/yurisuika/Zehn/8b2172a7a1ce445eb6a5e3bd82670e8f62d36585/option/colors.css",
+    "url": "https://raw.githubusercontent.com/yurisuika/Zehn/29a7c5a34f0648ed85305a377255a8e27f9f0f5f/option/colors.css",
     "sha256": "f8aac85563d6127e11875289d5a2f7efae662eac4bd4ce6a1c529df0645fc105"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09T09:11:20.797Z",
+  "fetchedAt": "2026-11-16T09:02:06.188Z",
   "sources": {
     "themes": "https://steambrew.app/api/v2",
     "plugins": "https://steambrew.app/api/v1/plugins/"
@@ -20,7 +20,7 @@
       "kind": "theme",
       "name": "Steam 2.0 modular",
       "repository": "Br1Rol2/Steam2.0-modular",
-      "revision": "303b4e88e499d848ac63bb8476d4cc8afa287bee",
+      "revision": "4bdca7e7b129cfa177bc543a0961540c4df55e92",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "extracted": 1
@@ -30,7 +30,7 @@
       "kind": "theme",
       "name": "ATOMS",
       "repository": "Plaer1/ATOMS",
-      "revision": "5727bcbc70dce74617c1d038162cf60054f54858",
+      "revision": "45406b137d9673e77dfd2e482165daf3a498cd4d",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "extracted": 20
@@ -70,7 +70,7 @@
       "kind": "theme",
       "name": "Minimal Dark",
       "repository": "SaiyajinK/Minimal-Dark-for-Steam",
-      "revision": "ccbb271087a4d26003a9a3acf6e25c345f4abb1c",
+      "revision": "42e303a18ebaffeb000430a4be1751cf42cf80d0",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "extracted": 481
@@ -142,7 +142,7 @@
       "kind": "theme",
       "name": "Juxtematic",
       "repository": "ricewind012/juxtematic",
-      "revision": "e1f177acc36c2e0d613359b44099d4e97868bdea",
+      "revision": "d8e71fdd9780583a1042ccdbd3edef41d99b1223",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "extracted": 1
@@ -162,11 +162,11 @@
       "kind": "theme",
       "name": "Material",
       "repository": "kuska1/Material-Theme",
-      "revision": "7504219cab5ccd7d01e1271c4d3ad22036cb5d3a",
+      "revision": "7783919ac4a54d7b46e9da870eb81adbf8e5bd8b",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/kuska1/Material-Theme/7504219cab5ccd7d01e1271c4d3ad22036cb5d3a/css/main/root-colors.css",
+        "url": "https://raw.githubusercontent.com/kuska1/Material-Theme/7783919ac4a54d7b46e9da870eb81adbf8e5bd8b/css/main/root-colors.css",
         "sha256": "3e25d02e057a2faeac241f1897658ff31030abd5d90fcf2f226db2efb4ef1916"
       },
       "extracted": 188
@@ -196,11 +196,11 @@
       "kind": "theme",
       "name": "Zehn",
       "repository": "yurisuika/Zehn",
-      "revision": "8b2172a7a1ce445eb6a5e3bd82670e8f62d36585",
+      "revision": "29a7c5a34f0648ed85305a377255a8e27f9f0f5f",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/yurisuika/Zehn/8b2172a7a1ce445eb6a5e3bd82670e8f62d36585/option/colors.css",
+        "url": "https://raw.githubusercontent.com/yurisuika/Zehn/29a7c5a34f0648ed85305a377255a8e27f9f0f5f/option/colors.css",
         "sha256": "f8aac85563d6127e11875289d5a2f7efae662eac4bd4ce6a1c529df0645fc105"
       },
       "extracted": 89
@@ -230,7 +230,7 @@
       "kind": "theme",
       "name": "Windows 95",
       "repository": "ricewind012/win95-themes",
-      "revision": "254ad09c8dc0653cdd63547f15e1f40c7d47ead9",
+      "revision": "2a2fcdf9a5bd403088a89fb4ef6e33fa355aebf6",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "extracted": 10
@@ -240,11 +240,11 @@
       "kind": "theme",
       "name": "SpaceTheme for Steam",
       "repository": "SpaceTheme/Steam",
-      "revision": "81db49b34f5e6e73b673f80f2818430f9dab4ea7",
+      "revision": "65bc106e8a1fe04c359d5b9d5c6f00e4081506ef",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/81db49b34f5e6e73b673f80f2818430f9dab4ea7/src/css/root.css",
+        "url": "https://raw.githubusercontent.com/SpaceTheme/Steam/65bc106e8a1fe04c359d5b9d5c6f00e4081506ef/src/css/root.css",
         "sha256": "1ca442b1fd8a329d66f2b62f00fba3f85cb21750dd3841a031e140681fe75291"
       },
       "extracted": 154
@@ -288,14 +288,14 @@
       "kind": "theme",
       "name": "Glass Dusk",
       "repository": "Yareli0i/glass-dusk",
-      "revision": "1a62f859ba8590f796ecde52505321b7fbf5a2cd",
+      "revision": "ca1a44514d99cd188c6432a0ba203a5678ac7b04",
       "extraction": "official-skin-config",
       "source": "https://steambrew.app/api/v2",
       "rootColorSource": {
-        "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/1a62f859ba8590f796ecde52505321b7fbf5a2cd/css/root.css",
+        "url": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/ca1a44514d99cd188c6432a0ba203a5678ac7b04/css/root.css",
         "sha256": "ad2c4f48b1c934c87d862be6cb3f41469b009393eaaf7e7e5df1364cb7eea406"
       },
-      "extracted": 98
+      "extracted": 124
     },
     {
       "id": "theme-hatewxb-Aika",
@@ -501,11 +501,11 @@
       "kind": "plugin",
       "name": "Gratitude - Gifted Games Reminder",
       "repository": "BlythT/Gratitude-Millennium-Plugin",
-      "revision": "47fb9dcb58478e2f72e37a617d90b3e8645ee331",
+      "revision": "d5704cd3a94642f67c29bd4ed4b19d6da4b02290",
       "extraction": "manifest-and-static-ui",
       "archive": {
-        "url": "https://codeload.github.com/BlythT/Gratitude-Millennium-Plugin/zip/47fb9dcb58478e2f72e37a617d90b3e8645ee331",
-        "sha256": "655d27170eb2ff1f13fda98f276ba455faf6507bff26c7d26f409b6b6a330084",
+        "url": "https://codeload.github.com/BlythT/Gratitude-Millennium-Plugin/zip/d5704cd3a94642f67c29bd4ed4b19d6da4b02290",
+        "sha256": "77170d63f15a4c71793cbf13ddf45c920a4f0543df0605b1470dab7c2b1c40db",
         "localeFiles": []
       },
       "extracted": 32
@@ -669,14 +669,14 @@
       "kind": "plugin",
       "name": "Sortium",
       "repository": "SalvadorCorreia/Sortium",
-      "revision": "4995906a521aa6b4d1c138e19d6f90ec1cfa4274",
+      "revision": "e475a3ac5dd6dd8adbc34a7c67124f9635c7e433",
       "extraction": "manifest-and-static-ui",
       "archive": {
-        "url": "https://codeload.github.com/SalvadorCorreia/Sortium/zip/4995906a521aa6b4d1c138e19d6f90ec1cfa4274",
-        "sha256": "dbb81362f879186d78da3147ecbf80d6348723374493da4417e3c1cdc45f9fca",
+        "url": "https://codeload.github.com/SalvadorCorreia/Sortium/zip/e475a3ac5dd6dd8adbc34a7c67124f9635c7e433",
+        "sha256": "31f2258f0fdce4e326d8e8075b7153d76457258dd72d505e42ab53e8b9fb1ebf",
         "localeFiles": []
       },
-      "extracted": 45
+      "extracted": 26
     },
     {
       "id": "plugin-ricewind012-steam-browser-history",
@@ -838,6 +838,6 @@
   "counts": {
     "themes": 27,
     "plugins": 37,
-    "extracted": 2279
+    "extracted": 2286
   }
 }

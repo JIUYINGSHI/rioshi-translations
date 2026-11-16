@@ -312,7 +312,7 @@ const MILLENNIUM_IS_CLIENT_MODULE = true;
         name: "English",
         full: true,
         path: "locales/en.json",
-        entries: 2095,
+        entries: 2103,
         status: "source-text"
       },
       {

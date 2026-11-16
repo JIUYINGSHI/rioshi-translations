@@ -3,7 +3,7 @@
   "kind": "theme",
   "name": "ATOMS",
   "repository": "Plaer1/ATOMS",
-  "revision": "5727bcbc70dce74617c1d038162cf60054f54858",
+  "revision": "45406b137d9673e77dfd2e482165daf3a498cd4d",
   "texts": [
     "Adjust how much Library game tiles tilt. 0% is flat; 100% is the normal tilt.",
     "Allows you to navigate the Steam Que on store pages Via the arrow keys.",

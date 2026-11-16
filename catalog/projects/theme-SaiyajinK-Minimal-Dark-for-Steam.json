@@ -3,7 +3,7 @@
   "kind": "theme",
   "name": "Minimal Dark",
   "repository": "SaiyajinK/Minimal-Dark-for-Steam",
-  "revision": "ccbb271087a4d26003a9a3acf6e25c345f4abb1c",
+  "revision": "42e303a18ebaffeb000430a4be1751cf42cf80d0",
   "texts": [
     "# Plugin options (1)",
     "> Adds an icon to the left of the categories in the contact list.\n\n- No : Without icons.\n- Yes : With icons.",
